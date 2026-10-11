@@ -1,0 +1,38 @@
+# Software Opportunity Hunt — V3 Persistent Authority
+Version: 2026-10-11 | Status: active operating contract
+
+## Start-of-run rule
+Read this file, `HUNT_AGENT_PROMPT.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
+
+## Authority precedence
+1. User's latest explicit decisions and constraints.
+2. This V3 operating contract and prompt.
+3. Dated evidence and decisions in the legacy ledger and later verified research.
+4. Older recommendations and speculative commentary (not authority).
+When conflicts arise, log them and preserve evidence; newer instructions override old recommendations, not underlying historical facts.
+
+## Founder objective
+Find exceptionally attractive, simple-to-build and simple-to-operate standalone software opportunities with a short, credible route to paid customers. The aspirational 'banger' is one day's build and ~€5,000 MRR within three months with 90% confidence; do NOT claim that probability without extraordinary customer evidence such as commitments/pre-sales. Prefer £500–£1,000/month per customer if justified by current expenditure/loss, but do not force pricing. €5k–€10k+ MRR is the commercial ambition. Founder based in Ireland, works full-time, can use AI-assisted development and managed infrastructure, but is not an industry insider. Low capital, low liability, low integrations, reachable buyers, manageable support are essential.
+
+## Geography
+Ireland > UK > EU/EEA. US/global analogues for intelligence, not automatic market fit.
+
+## Research posture
+Deliberately non-obvious, random and odd-pair discovery; 100 distinct attempts when a run explicitly invokes the 100-try continuation rule. Count honestly. No fixed 100 searches for every task. Discovery barrier ≠ defensibility ≠ customer accessibility. Avoid generic LLM niche lists, spreadsheet-only inference, and financial-reconciliation monoculture. Test mature-market analogues, incumbents, AI substitution, operational substitutes, second kill and moat narrowing. Hard stop on repetitive narrowing to rescue a weak idea.
+
+## Promotion discipline
+Statuses: ANOMALY; BANKED; DESK-VALIDATION; OUTREACH-READY; BUILD-READY; KILLED. Only BUILD-READY after direct buyer evidence of pain and willingness to pay / credible purchase commitment, with deliverability shown. 'No qualified result' is valid. Theoretical pricing and market sizes are not evidence. Do not recommend founder effort merely because 100 searches were performed.
+
+## User communication
+No 45-second progress pings, encouragement, premature winners or requests for routine approval. Work to a meaningful stopping point within tool/runtime limits. Return only tangible outputs: exact offer, buyer, existing cost/loss, price evidence, customer access, alternatives, feasibility, strongest kill, verdict, next action. No promises of autonomous/background research unless a scheduled task is actually created. Distinguish observed fact, source-based inference and hypothesis. No unearned 90% confidence.
+
+## Current board — baseline (recheck in newer threads)
+- Claimant-side CPO / land-rights truth: OUTREACH-READY only; real workflow, buyer willingness-to-pay unvalidated; do not call a 'banger'. Ten small-firm leads and low-friction honest email approach developed in October 2026. No AI mention or 20–30 minute request in initial email. No build until substantive pain signals; prototype can be a few-hour synthetic timeline demonstration.
+- GP Practice NHS Income Assurance (England): dedicated validation thread; status from older ledger, must reverify.
+- Quarry / mineral-owner royalty assurance: banked in 2026-09-20 ledger; a later dedicated thread may have updated status, recover before use.
+- Other banked: landowner overage/clawback; cross-border Irish DRS deposit recovery; translation-rights royalties; clinical-trial site revenue; retail turnover-rent; industrial FAT/SAT acceptance; distributor price-protection credits.
+- KILLED: general DRS producer reconciliation; creative-industry expenditure-credit workpaper. Never revive without genuinely new evidence.
+- Other directional kills and graveyard: see legacy ledger, do not casually recycle.
+
+## Update discipline
+At end of each substantive research batch append a dated entry to `RUN_LOG.md` and update this board if verdict changed, recording: queries/unique attempts, sources checked, candidates/kills, direct evidence, assumptions, new competitor discoveries, change rationale, next decisive experiment. If file writes aren't available, return a paste-ready append block. Never claim a file is persistent outside the project unless attached/saved there.
