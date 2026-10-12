@@ -213,3 +213,11 @@
 - **New OUTREACH-READY: none. New BUILD-READY: none. No active ANOMALY or BANKED addition.** Existing CPO/quarry/GP states and historical kills remain unchanged.
 - Next hunt constraint: prioritise completed operational outputs worth at least £500 per event that do not require licensed judgement, confidential rulebooks, physical inspection/test equipment or incumbent-held data; reject cases whose trustworthy completion turns the founder into the specialist.
 - Full report: `research/2026-10-12-attempts-541-560-v3.3-high-value-output.md`.
+
+
+## 2026-10-12 — CPO outreach already sent: user-reported contact ledger
+- Tom reports that he has reached out to six identified CPO prospects: info@atchams.co.uk; kevin@mcenteggart.ie; jodie@baileysandpartners.co.uk; Arran@dxnsurveyors.co.uk; info@darlands.co.uk; sales@whittakerandco.co.uk. This is direct user-reported execution, not agent-sent outreach or independently verified delivery.
+- Added `validation/CPO_OUTREACH_TRACKER.md` with six stable contact IDs, exact addresses, contact status and explicit unknowns. Reported on 2026-10-12; actual send dates, wording, delivery/bounces, replies and follow-ups were not supplied. “Not reported” must not be read as “no reply.”
+- Updated START_HERE.md: CPO outreach is underway. Latest operational next step is to track replies and evidence, then assess follow-ups when send dates/outcomes are known. Supersedes recommendations to begin initial outreach to those six contacts; historical research reports remain unchanged.
+- CPO remains OUTREACH-READY and NOT BUILD-READY. Sending messages alone does not validate pain, switching or willingness to pay. No prospect reply or purchase commitment is inferred.
+- No new research, counted discovery attempt, candidate promotion, agent message, scheduled reminder, spending, build or merge. Discovery checkpoint remains 560; next unused ID 561.
