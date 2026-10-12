@@ -238,3 +238,11 @@
 - **CPO tracker preserved**: six contacts user-reported already sent; send dates/replies unknown. Do not recommend resending initial outreach. Next decisive action is assessment of actual reply/workflow/payment evidence when supplied. No founder-rejected idea revived; other boards unchanged.
 - Canonical output: `research/evidence/2026-10-12-561-660-final-cases.json`; ledger: `research/2026-10-12-attempts-561-660-ledger.md`; report: `research/2026-10-12-attempts-561-660-commercial-decision.md`; recovery/AI: `research/evidence/2026-10-12-561-660-resume-and-ai-checks.json`.
 - No agent-sent outreach, interviews, customer files, payments, pilots, spending, production build or merge. PR #3 remains draft. Final content readback is recorded in the closeout file.
+
+
+## 2026-10-12 — V3.4 authority approved: documented workflow implementability
+- User corrected an overly broad interpretation of specialist-domain risk. The founder need not have prior expertise or take a course. “Acquire knowledge” means enough trustworthy accessible documentation to implement the required workflow confidently and verify outputs.
+- Added `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md` with documentation grades D0–D4, specification/input/algorithm/verification/exception/change-control tests and a clear boundary between one-time implementation learning and recurring per-transaction specialist judgement.
+- “Requires domain knowledge” alone is no longer a valid kill rationale. Genuine kills include inaccessible/private rules, unverifiable or tacit judgement, mandatory per-output professional approval, inaccessible inputs, unsafe exception detection, disproportionate liability, unmaintainable changes or customer-specific service as the purchased core.
+- Prior verdicts remain historical. They may be reassessed only with implementation-ready documentation, a verification oracle and the existing commercial gates; nothing is automatically promoted.
+- User authorised the next 100-case run, IDs 661–760, with V3.2 40/30/30 composition and V3.4 documentation grading. No outreach/build/spend/merge is authorised.
