@@ -125,3 +125,15 @@
 - The next proposed continuation is attempts 401–500 using the approved V3.2 40 paid-coexistence / 30 system-boundary / 30 underserved-entry mix.
 - It preserves the no-purchase assumption for ordinary feature improvements and every existing commercial/promotion gate.
 - No research, outreach, candidate promotion, board change, build, merge or customer contact occurred in preparing the handoff.
+
+## 2026-10-12 — Checkpoint distinctness audit: 400 claim qualified
+- Repository-only audit at source head `6f64122a6699965d3ab30cc7aaf39739c2639dd1`; no new market research or discovery attempts.
+- Four reports contain 374 detailed rows, contiguous 27–400, with 374 unique exact discovery queries. First 26 are reconstructed from the prior narrative correction, not detailed exact-query rows.
+- Initial stop report was too categorical about #248/#316: repeat wording alone does not establish a duplicate buyer/job. #248 has a different exhumation trigger/output; #316 remains a graveyard-mechanism concern without a matched earlier numbered transaction.
+- Three later cases excluded from the new-job count: #164 follows #93 (society member capital/interest distribution); #235 follows #173 (research-participant reimbursements); #217 follows #50 (instrument-loan damage insurance, same policy and no new incident).
+- **400 materially distinct completed attempts is NOT VERIFIED. Conservative upper bound: 397, not a certified exact total.** Other buyer/job overlaps remain explicitly flagged in the audit; no arbitrary deductions or new valid total are invented.
+- 25 detailed rows explicitly say incomplete; this literal count is not a comprehensive quality audit. Executed tries are distinct from completed commercial qualification.
+- Historical reports/IDs/verdicts preserved. No board change or resurrection.
+- Last allocated historical ID 400; next unused ID 401 remains reserved and unexecuted. The 401–500 round has not begun (0/40 paid coexistence, 0/30 system boundary, 0/30 underserved entry).
+- Next decisive action: append-only adjudication of flagged pairs and document any replacement research before certifying the 400-distinct startup gate.
+- Full audit: `research/2026-10-12-checkpoint-distinctness-audit.md`.
