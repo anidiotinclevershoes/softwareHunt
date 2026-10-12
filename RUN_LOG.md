@@ -145,3 +145,17 @@
 - **Repaired checkpoint: 397 + 3 = 400 distinct discovery tries; next numeric ID 401.** Replacement namespace keeps 401–500 intact. Incomplete historical retrieval remains incomplete; this is not 400 commercially validated cases.
 - Replacements produced no survivors; paid offers/technical output evidence did not establish a reason to select a new entrant.
 - No board changes, outreach, spending, builds or merge. Next: authorised V3.2 401–500 (40/30/30) after GitHub readback.
+
+
+## 2026-10-12 — V3.2 attempts 401–500 recovered, reviewed and persisted
+- Reverified draft PR #3 on the live branch at source head `290753bfa1de7db9ba9c266a4ba2d12b10031cee`. Starting checkpoint remains 397 retained historical tries + replacements R001–R003 = 400, with #164/#217/#235 excluded and historical incomplete rows unchanged.
+- Recovered 100 already-executed discovery query/result records from the interrupted previous turn; reviewed contiguous IDs 401–500 and 100 unique exact queries. Composition: 40 paid coexistence / 30 system boundary / 30 underserved entry. These were recovered executions, not 100 newly executed searches in the resumed turn.
+- Recovered search results contain 201 URL appearances / 200 unique URL pointers; these are not full-page reads. Resumed review performed 20 successful Exa follow-up searches, 67 returned URL appearances, and three multi-URL fetches targeting 16 primary pages. Extraction is bounded; one invalid first fetch is excluded. Follow-ups do not increase discovery count.
+- Dispositions: 74 directional rejects, 7 deeper rejects, 16 INCOMPLETE rows and 3 deeper unqualified observations. Ten structured commercial assessments cover buyer/budget, spend, trigger/input/output/return, adoption, graded competitors, repeated-execution AI reasoning, economics/access and a separate second kill. No AI benchmark, product performance test or buyer pilot was executed.
+- Paid coexistence is real in catalogue publishing, private audio delivery, verified media offload, multicamera synchronisation and wholesale ordering. These are not killed merely for having competition. No evidenced new-entrant selection advantage, qualified first ten or simple low-support complete delivery cleared the bar.
+- Corrected technical overreach: current Notion API exposes database views; do not use an obsolete no-views claim to reject restoration. Dovetail has highlight/data-body extraction APIs despite lacking a single full readable archive export; accessible maths requires correction and accepted-output testing beyond generic OCR. Missing evidence is not adequate-incumbent proof.
+- Real access: UK production directory exposes ten named businesses; Bewley's, Specialised Welding and Asmodee UK are named wholesale implementation examples. These are reachable/category examples, not ten qualified unmet buyers or new-entrant willingness to pay.
+- **New survivors: none. Board unchanged.** CPO remains OUTREACH-READY only; quarry/GP dedicated verdicts were not recovered sufficiently to alter them. No graveyard item reopened.
+- **End discovery checkpoint: 500 distinct tries; next unused numeric ID 501.** This is not 500 commercially validated cases. Preserve incompletes and the replacement namespace.
+- Single next decisive action: the prepared CPO direct buyer-validation test remains the strongest existing test. No contact, spending, product build or merge occurred.
+- Full ledger, evidence limits, distinctness adjudications, follow-up actions and decision: `research/2026-10-12-attempts-401-500-v3.2-commercial-decision.md`.
