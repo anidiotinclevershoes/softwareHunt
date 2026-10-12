@@ -1,5 +1,5 @@
 # Software Opportunity Hunt — V3 Persistent Authority
-Version: 2026-10-12 | Status: active V3 operating contract with approved V3.1, V3.2 and V3.3 amendments
+Version: 2026-10-12 | Status: active V3 operating contract with approved V3.1, V3.2, V3.3 and V3.4 amendments
 
 ## Start-of-run rule
 Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
@@ -52,18 +52,17 @@ No 45-second progress pings, encouragement, premature winners or requests for ro
 ## Update discipline
 At end of each substantive research batch append a dated entry to `RUN_LOG.md` and update this board if verdict changed, recording: queries/unique attempts, sources checked, candidates/kills, direct evidence, assumptions, new competitor discoveries, change rationale, next decisive experiment. If file writes aren't available, return a paste-ready append block. Never claim a file is persistent outside the project unless attached/saved there.
 
-## Latest verified discovery checkpoint — 2026-10-12, attempts 561–660
+## Latest verified discovery checkpoint — 2026-10-12, attempts 661–760
 
-- Completed the explicitly requested **100 new distinct cases** after four excluded/replaced overlap probes: 40 paid-coexistence, 30 boundary-completion, 30 underserved-entry hypotheses.
-- **97 KILLED for the tested founder/offer; three INCOMPLETE (#632, #641, #654); no new OUTREACH-READY, BUILD-READY, active ANOMALY or BANKED addition.** Eleven deeper commercial/competitor comparisons and both AI attacks are documented.
-- **Count correction:** earlier 560-unique claims are not certified. At least seven historical repeats are documented in `research/2026-10-12-pre-561-count-correction.md`. Lifetime unique total is **at most 653**, not a verified 660. Numeric IDs through 660 are allocated; **next unused ID is 661**. Preserve historical rows and exclusions.
-- Final canonical manifest supersedes provisional raw evidence status: `research/evidence/2026-10-12-561-660-final-cases.json`.
-- Report: [561–660 commercial decision](research/2026-10-12-attempts-561-660-commercial-decision.md). Exact queries and per-case evidence: [100-row ledger](research/2026-10-12-attempts-561-660-ledger.md).
-- Recovered from a user-reported credit interruption using the GitHub evidence checkpoint; no repeated discovery counted. Source recovery limitations are disclosed in the report.
-- No locked criterion was changed. The prior assistant's £500/event phrasing remains a search preference, not an approved minimum; lower-price V3.3 paths remain allowed.
-- CPO remains OUTREACH-READY with **six contacts already approached by Tom**, dates/outcomes unknown. Preserve `validation/CPO_OUTREACH_TRACKER.md`; next decisive action is to assess actual response evidence, not repeat initial outreach. Prior founder-fit kills, quarry and GP states remain unchanged.
-- No agent outreach, spending, commercial build or merge. Draft PR #3 stays draft.
-
-## Approved next run — 2026-10-12
-
-The user explicitly authorised another 100-case continuation after approving V3.4. Allocate numeric IDs 661–760, retain the 40/30/30 V3.2 composition and record D0–D4 documentation evidence. Cases may survive unfamiliar technical domains when the workflow can be implemented and verified from documentation; do not require founder training. Next unused ID after a complete deduplicated run will be 761. This entry authorises research, not outreach, spending, a production build or PR merge.
+- Completed the explicitly requested **100 final distinct cases**: 40 paid coexistence, 30 boundary completion and 30 underserved entry.
+- Four initially searched probes collided with the legacy graveyard and were excluded/replaced before the final count: Digital Product Passports / PPWR, insurance bordereaux, alcohol-duty reconciliation and timber / EUDR.
+- Final verdicts: **97 KILLED, two INCOMPLETE (#694, #756), one ANOMALY (#742), zero OUTREACH-READY and zero BUILD-READY.**
+- #742 digital calibration certificates is the only banked anomaly. PTB schema/documentation, NPL/NCC generation-and-validation work and SIKA/Kessler implementations make it D4 implementable. It is not promoted: recurring buyer demand, present manual spend and software budget were not found.
+- Fourteen cases received deeper competitor/second-kill attacks. Every final case has both repeated-execution and AI-build reasoning. High documentation scores did not override demand, competition, operating-independence or adoption-friction gates.
+- Exact low-cost incumbents killed the strongest apparent candidates: DOCX→JATS from $2.50–$3.50/conversion; UK packaging-EPR from £29/month; and complete solar DNO packs from £69/month/25 packs. Carrier systems, regulatory suites and official validators killed other apparent gaps.
+- Real access routes were verified through the UKAS laboratory search, MCS installer directory, DOAJ journal directory, FCA Financial Services Register and TSA laundry directory. These prove reachability, not dissatisfaction or willingness to pay.
+- Count readback: 100 final rows; IDs 661–760; 100 unique IDs; 100 unique final job strings. The known historical duplicate correction still applies. Lifetime unique total is **at most 753**, not certified exact. Numeric IDs through 760 are allocated; **next unused ID is 761**.
+- Canonical manifest: `research/evidence/2026-10-12-661-760-final-cases.json`. Report: `research/2026-10-12-attempts-661-760-commercial-decision.md`. Ledger: `research/2026-10-12-attempts-661-760-ledger.md`.
+- Next decisive test, if the user authorises new outreach: use the UKAS directory to ask ten calibration laboratories whether customers currently request DCC, monthly volume, present paid/manual process and willingness to trial. Require at least three active recurring demand signals before promotion or build.
+- CPO remains OUTREACH-READY with six contacts already approached by Tom; dates and outcomes remain unknown. The tracker was not modified and no repeat outreach was sent.
+- No agent outreach, customer interview, spending, pilot, production build or merge. Draft PR #3 remains draft.
