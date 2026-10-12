@@ -137,3 +137,11 @@
 - Last allocated historical ID 400; next unused ID 401 remains reserved and unexecuted. The 401–500 round has not begun (0/40 paid coexistence, 0/30 system boundary, 0/30 underserved entry).
 - Next decisive action: append-only adjudication of flagged pairs and document any replacement research before certifying the 400-distinct startup gate.
 - Full audit: `research/2026-10-12-checkpoint-distinctness-audit.md`.
+
+## 2026-10-12 — Checkpoint adjudication and three replacement tries
+- Supersedes the earlier uncertified upper bound through explicit buyer/trigger/output adjudication in `research/2026-10-12-checkpoint-adjudication-and-replacements.md`; historical documents remain unchanged.
+- Exclusions retained: #164, #217, #235. Other flagged pairs retained for documented distinct triggers/results; common kill mechanisms are not automatic duplicates.
+- Corrected historical count: 397 discovery tries. Executed three new replacement cases R001–R003 (product-image clipping, broadcast loudness correction, lost-multitrack stem recovery), with three Exa searches x three requested results and three primary page fetches.
+- **Repaired checkpoint: 397 + 3 = 400 distinct discovery tries; next numeric ID 401.** Replacement namespace keeps 401–500 intact. Incomplete historical retrieval remains incomplete; this is not 400 commercially validated cases.
+- Replacements produced no survivors; paid offers/technical output evidence did not establish a reason to select a new entrant.
+- No board changes, outreach, spending, builds or merge. Next: authorised V3.2 401–500 (40/30/30) after GitHub readback.
