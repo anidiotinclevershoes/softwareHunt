@@ -263,3 +263,14 @@
 - Canonical output: `research/evidence/2026-10-12-661-760-final-cases.json`; ledger: `research/2026-10-12-attempts-661-760-ledger.md`; report: `research/2026-10-12-attempts-661-760-commercial-decision.md`; attacks/access: `research/evidence/2026-10-12-661-760-attacks-and-access.json`.
 - Next decisive action: before any build, ask ten UKAS-accredited calibration laboratories whether customers requested DCC in the last 90 days, monthly volume, current paid/manual process and trial willingness. Promote only with at least three active recurring demand signals and a complete replaceable workflow.
 
+## 2026-10-13 — V3.5 authority and new-chat handoff: follow the money, then find the convenience
+
+- User explicitly redirected new discovery toward individuals and companies already willing to spend meaningful amounts for convenience. The search must first establish a real payment/budget and then isolate the convenience being purchased.
+- Added `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md`. It introduces M0–M4 spend-evidence grades, a money-first sequence, convenience-premium decomposition and explicit kills where price belongs mainly to expertise, trust, liability transfer, relationships, physical work, licensing, status or exception absorption.
+- Approved next 100 composition for IDs 761–860: 40 company-paid delegation cases; 30 individual/prosumer premium-convenience cases; 30 explicit premium-differential cases. At least 60 must be outside regulation, compliance, accounting reconciliation and standards-file conversion.
+- Search anchors, not price assumptions: companies around £500+/month, £1,000+ per engagement or material staff/agency spend; individuals/prosumers around £250+ per outcome, £100+/month or credible high-frequency transactions; explicit premium tiers with an observable material price delta.
+- V3.5 supersedes only the next-run discovery order/mix. V3.2 complete-sidecar/adoption tests, V3.3 outreach boundary, V3.4 documented implementation, AI, competition, first-ten, graveyard, founder-operation and BUILD-READY gates remain unchanged.
+- Created `NEXT_CHAT_HANDOFF_2026-10-13_V3_5_MONEY_FIRST.md` with checkpoint audit, authority boot sequence, exact 761–860 instructions, persistence requirements and current board.
+- Current board unchanged. #742 remains ANOMALY only; #694 and #756 remain INCOMPLETE; CPO remains OUTREACH-READY with six user-reported contacts and unknown outcomes. No candidate was promoted or revived.
+- No new counted discovery attempt, outreach, customer contact, spending, build or merge occurred. Draft PR #3 must remain draft.
+

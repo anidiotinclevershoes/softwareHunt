@@ -1,8 +1,8 @@
 # Software Opportunity Hunt — V3 Persistent Authority
-Version: 2026-10-12 | Status: active V3 operating contract with approved V3.1, V3.2, V3.3 and V3.4 amendments
+Version: 2026-10-13 | Status: active V3 operating contract with approved V3.1, V3.2, V3.3, V3.4 and V3.5 amendments
 
 ## Start-of-run rule
-Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
+Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
 
 ## Authority precedence
 1. User's latest explicit decisions and constraints.
@@ -31,6 +31,9 @@ The user approved `V3_3_DESK_TO_OUTREACH.md` on 2026-10-12. It corrects the rema
 
 ## V3.4 documented-workflow implementability amendment
 The user approved `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md` on 2026-10-12. Unfamiliar or technical subject matter is not a founder-fit kill when public trustworthy documentation is sufficient to implement the bounded workflow, verify outputs and safely refuse exceptions. “Acquire knowledge” means implementation-ready documentation, examples, validators and tests—not the founder taking a course. A bounded expert review can validate a build; recurring specialist judgement on every transaction remains an operating-burden kill. Historical verdicts are not silently rewritten and can be reassessed only with new documentation/verification and full commercial evidence.
+
+## V3.5 follow-the-money / convenience amendment
+The user approved `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md` on 2026-10-13. New discovery begins with observed meaningful spending by an individual or company, then isolates the convenience being purchased and tests whether software can deliver that complete result. Record M0–M4 spend evidence and separate convenience from expertise, trust, accountability, physical work, relationships, licensing and status. For attempts 761–860 use 40 company-paid delegation, 30 individual/prosumer premium-convenience and 30 explicit premium-differential cases; at least 60 must be outside regulation, compliance, accounting reconciliation and standards-file conversion. This changes discovery order and mix only. All commercial, complete-result, sidecar, AI, documentation, outreach, founder-operation and build gates remain active.
 
 ## Promotion discipline
 Statuses: ANOMALY; BANKED; DESK-VALIDATION; OUTREACH-READY; BUILD-READY; KILLED. Only BUILD-READY after direct buyer evidence of pain and willingness to pay / credible purchase commitment, with deliverability shown. 'No qualified result' is valid. Theoretical pricing and market sizes are not evidence. Do not recommend founder effort merely because 100 searches were performed.
@@ -66,3 +69,8 @@ At end of each substantive research batch append a dated entry to `RUN_LOG.md` a
 - Next decisive test, if the user authorises new outreach: use the UKAS directory to ask ten calibration laboratories whether customers currently request DCC, monthly volume, present paid/manual process and willingness to trial. Require at least three active recurring demand signals before promotion or build.
 - CPO remains OUTREACH-READY with six contacts already approached by Tom; dates and outcomes remain unknown. The tracker was not modified and no repeat outreach was sent.
 - No agent outreach, customer interview, spending, pilot, production build or merge. Draft PR #3 remains draft.
+
+
+## Approved next run — V3.5 attempts 761–860
+
+The user authorised a new-chat continuation emphasising people and companies already paying substantial amounts for convenience. Run 100 materially distinct money-first cases numbered 761–860 using the V3.5 40/30/30 composition. First prove spend, payer and trigger; then isolate the convenience and test whether a small product can complete it. Preserve all prior verdicts and complete GitHub persistence/readback. This authorises research only: no outreach, spending, production build or merge.

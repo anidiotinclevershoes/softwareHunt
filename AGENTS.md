@@ -2,7 +2,7 @@
 
 ## Hard startup gate
 Before ANY discovery, continuation, validation, candidate promotion or commercial recommendation:
-1. Fetch the latest default-branch commit and read `START_HERE.md`, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, `LEGACY_RESEARCH_LEDGER_2026-09-20.md`, `RUN_LOG.md` and any newer candidate-specific records.
+1. Fetch the latest default-branch commit and read `START_HERE.md`, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md`, `LEGACY_RESEARCH_LEDGER_2026-09-20.md`, `RUN_LOG.md` and any newer candidate-specific records.
 2. Check that the V3 files and any approved amendments are present, readable and internally consistent. If not, **STOP: AUTHORITY NOT VERIFIED**. Do not invent a substitute methodology or claim compliance.
 3. Reconstruct the live board: KILLED, BANKED, ANOMALY, DESK-VALIDATION, OUTREACH-READY, BUILD-READY. Previous KILLED findings remain killed without material new evidence.
 4. State only substantive findings to the user; do not send routine progress pings or request approval for ordinary searches.
@@ -12,10 +12,12 @@ Before ANY discovery, continuation, validation, candidate promotion or commercia
 - Solo founder with full-time job: small, affordable, accessible build and operation; low integrations, liability, capital and support.
 - Prefer evidence-supported £500–£1,000/month pricing; never invent willingness to pay. Goal €5k–€10k+ MRR, with aspirational one-day build and 90% chance of €5k MRR in three months **not** a claim without extraordinary pre-sale evidence.
 - Deliberately unusual discovery paths; avoid generic SaaS lists and repeatedly defaulting to reconciliation.
+- For new V3.5 discovery, follow the money first: verify observed spend, payer and purchase trigger before inferring a convenience product. Separate convenience from expertise, trust, liability transfer, physical work and status.
 - Verify buyer, purchase trigger, quantified pain, incumbent, alternatives, AI substitution, distribution, feasibility, adoption friction, and strongest kill case.
 - Competition is not an automatic kill, but assume customers will not buy a separate product merely for a better feature. A market-entry candidate must complete a bounded sidecar job, coexist with the principal system, and have evidence that value exceeds adoption friction.
 - OUTREACH-READY requires a real workflow, credible selection hypothesis, exact buyer class, at least ten named matching prospects and a cheap falsification question; public proof of each prospect's dissatisfaction is not required before contact. BUILD-READY still requires direct buyer willingness-to-pay evidence and demonstrated deliverability.
 - Domain unfamiliarity is not a kill. Apply V3.4: seek implementation-ready documentation and a verification oracle; kill only when rules/inputs/verification are inaccessible or ordinary operation requires recurring specialist judgement.
+- Expensive services are not automatically software opportunities. Apply V3.5 M0–M4 spend grading and require the product to complete the convenience outcome carrying the spend.
 - Zero qualified results is valid. Never turn search volume into an opportunity rating.
 
 ## Persistent records
