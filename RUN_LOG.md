@@ -70,3 +70,25 @@
 - Existing board unchanged: CPO OUTREACH-READY/not BUILD-READY; quarry/mineral assurance provisional DESK-VALIDATION/practitioner-test; GP income assurance DESK-VALIDATION with dedicated outcome unrecovered. Existing kills remain killed.
 - Next decisive action: use the prepared short CPO falsification email with the ten named small claimant-side firms; direct evidence is now higher-value than attempts 201–300.
 - Full audit, sources and commercial decision: `research/2026-10-12-attempts-101-200-commercial-decision.md`.
+
+
+## 2026-10-12 — V3.1 survivor-discovery amendment approved
+- Explicit user approval received to modify the method to improve the chance of finding real survivors without weakening commercial gates.
+- Added `V3_1_SURVIVOR_DISCOVERY.md`; updated `AGENTS.md`, `START_HERE.md` and `HUNT_AGENT_PROMPT.md`.
+- Operational changes: primary-economic-artefact-first searches; barred product-category terms in initial discovery; default 60 artefacts / 20 publicly priced deliverables / 20 distribution-first markets; commercial evidence before Product Workshop; competitor grades C0–C4; repeated-execution AI test; explicit first-ten route.
+- Guardrails preserved: no forced survivors, no invented willingness to pay or volume, no resurrection by missing exact rival, no outreach/build without the existing authorization thresholds.
+
+## 2026-10-12 — V3.1 100-attempt round (attempts 201–300)
+- Verified prior checkpoint **200/200** from the two preceding reports. Executed **100 new materially distinct attempts**, numbered 201–300, with 60 primary economic artefacts, 20 priced specialist deliverables and 20 distribution-first markets.
+- Query audit: 100 contiguous rows; 100 unique exact discovery queries; none used `software`, `app`, `SaaS`, `platform` or `tool` in the initial query. Follow-up searches were excluded from the attempt count.
+- Research operations: 100 Exa discovery searches × 2 results; 16 deep-attack searches × 4; 12 recent competition-kill audits × 3; **300 requested result slots** plus two ten-page fetch passes. No outreach, interviews, files from customers, pilots, commitments, payments or builds.
+- Deep attacks: apprenticeship funding evidence, merchant reserves, SAYE/EMI leaver deadlines, daylight/sunlight assessments, sign-maker artwork approval, subtitle QC, investigator disclosure/redaction, and watch-repair intake/approval.
+- Decisive evidence: a training provider faced a reported **£1.203m** DfE recovery for missing evidence, but AiVII/Bud/OneFile and official tools occupy the workflow; a SAYE leaver claimed **£23k** loss, but the plan administrator owned rules/data/reminders; Stripe reserve complaints show pain but the processor controls risk decisions; planning reports have **£499–£935** public pricing but accepted output requires verified geometry/professional accountability.
+- Competitor proof: every deep proposition reached C2–C4 operating or incumbent evidence. Exact proof included AiVII audit documentation, Ledgy/Vestd share-plan administration, MBS BR 209 calculation products, sign-industry production suites, CapMate plus a named Limecraft/ITV case, horizontal auditable redaction products, and RepairPos at **$29/month**.
+- Separate second kills: incumbent/system-of-record ownership; inaccessible private triggers; enterprise integrations; professional/legal liability; and low visible price ceilings. AI could cheaply assist documents, prompts and checks, but could not create an accepted outcome where reliable geometry, authoritative data, history/audit or professional judgment mattered; where AI could supply most value, generic products already sufficed.
+- Prior-kill audit corrected overstatement: attempts 116, 155, 168 and 172 had only C0/C1 competition evidence; attempt 196 had C1 only. Their competition rationales were withdrawn/downgraded, while overall kills remained on independent commercial grounds. Strong C2–C4 proof upheld the other audited kills.
+- Real customer access: named public directories exist for sign makers, subtitlers, private investigators, watch repairers, piercers, framers, saddlers, caterers, dog walkers, audiologists and other niches. Reachability did not overcome incumbent coverage, low price, weak recurrence or professional liability.
+- **Survivors: none. No new ANOMALY, BANKED, DESK-VALIDATION, OUTREACH-READY or BUILD-READY entry.** Existing CPO/quarry/GP board states and all historic directional kills remain unchanged.
+- Strongest counter-case: a narrow preflight or evidence-pack product might reduce expensive errors without replacing the professional. The attacks still failed because exact products already perform the repeatable layer or the paid outcome depends on data/control/liability the product cannot own.
+- Next decisive action: stop adding desk volume to this tranche and run the already-authorized CPO buyer outreach; direct market evidence has higher expected information value than attempts 301–400.
+- Full ledger: `research/2026-10-12-attempts-201-300-v3.1-commercial-decision.md`.
