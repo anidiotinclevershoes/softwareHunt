@@ -1,8 +1,8 @@
 # Software Opportunity Hunt — V3 Persistent Authority
-Version: 2026-10-11 | Status: active operating contract
+Version: 2026-10-12 | Status: active V3 operating contract with approved V3.1 discovery amendment
 
 ## Start-of-run rule
-Read this file, `HUNT_AGENT_PROMPT.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
+Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
 
 ## Authority precedence
 1. User's latest explicit decisions and constraints.
@@ -19,6 +19,9 @@ Ireland > UK > EU/EEA. US/global analogues for intelligence, not automatic marke
 
 ## Research posture
 Deliberately non-obvious, random and odd-pair discovery; 100 distinct attempts when a run explicitly invokes the 100-try continuation rule. Count honestly. No fixed 100 searches for every task. Discovery barrier ≠ defensibility ≠ customer accessibility. Avoid generic LLM niche lists, spreadsheet-only inference, and financial-reconciliation monoculture. Test mature-market analogues, incumbents, AI substitution, operational substitutes, second kill and moat narrowing. Hard stop on repetitive narrowing to rescue a weak idea.
+
+## V3.1 survivor-discovery amendment
+The user approved `V3_1_SURVIVOR_DISCOVERY.md` on 2026-10-12. It is active authority for new discovery and supplements, rather than replaces, V3. It requires primary-economic-artefact-first searching, a 60/20/20 composition for default 100-attempt continuations, commercial evidence before product shaping, graded competitor proof, a repeated-execution AI test, and first-ten distribution evidence. It preserves all founder-fit, promotion, counting, graveyard, outreach and build gates. Zero survivors remains valid.
 
 ## Promotion discipline
 Statuses: ANOMALY; BANKED; DESK-VALIDATION; OUTREACH-READY; BUILD-READY; KILLED. Only BUILD-READY after direct buyer evidence of pain and willingness to pay / credible purchase commitment, with deliverability shown. 'No qualified result' is valid. Theoretical pricing and market sizes are not evidence. Do not recommend founder effort merely because 100 searches were performed.
