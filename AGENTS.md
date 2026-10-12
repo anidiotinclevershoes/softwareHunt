@@ -2,8 +2,8 @@
 
 ## Hard startup gate
 Before ANY discovery, continuation, validation, candidate promotion or commercial recommendation:
-1. Fetch the latest default-branch commit and read `START_HERE.md`, `HUNT_AGENT_PROMPT.md`, `LEGACY_RESEARCH_LEDGER_2026-09-20.md`, `RUN_LOG.md` and any newer candidate-specific records.
-2. Check that the V3 files are present, readable and internally consistent. If not, **STOP: AUTHORITY NOT VERIFIED**. Do not invent a substitute methodology or claim compliance.
+1. Fetch the latest default-branch commit and read `START_HERE.md`, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `LEGACY_RESEARCH_LEDGER_2026-09-20.md`, `RUN_LOG.md` and any newer candidate-specific records.
+2. Check that the V3 files and any approved amendments are present, readable and internally consistent. If not, **STOP: AUTHORITY NOT VERIFIED**. Do not invent a substitute methodology or claim compliance.
 3. Reconstruct the live board: KILLED, BANKED, ANOMALY, DESK-VALIDATION, OUTREACH-READY, BUILD-READY. Previous KILLED findings remain killed without material new evidence.
 4. State only substantive findings to the user; do not send routine progress pings or request approval for ordinary searches.
 
