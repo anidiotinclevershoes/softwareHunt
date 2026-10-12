@@ -2,7 +2,7 @@
 Version: 2026-10-12 | Status: active V3 operating contract with approved V3.1, V3.2 and V3.3 amendments
 
 ## Start-of-run rule
-Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
+Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
 
 ## Authority precedence
 1. User's latest explicit decisions and constraints.
@@ -28,6 +28,9 @@ The user approved `V3_2_MARKET_ENTRY_SIDECAR.md` on 2026-10-12. It is active aut
 
 ## V3.3 desk-to-outreach amendment
 The user approved `V3_3_DESK_TO_OUTREACH.md` on 2026-10-12. It corrects the remaining evidence-boundary problem: desk research must support a credible selection hypothesis, but need not prove that each named prospect is already dissatisfied before a bounded outreach test. Unless 100 is explicitly requested, use 15–20 deep market-entry cases and promote at most three propositions to OUTREACH-READY. Each promotion still needs a complete job, bounded economics, exact buyer, competitor/AI/second-kill passes, at least ten named matching prospects and a precise falsification message. BUILD-READY remains dependent on direct buyer evidence.
+
+## V3.4 documented-workflow implementability amendment
+The user approved `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md` on 2026-10-12. Unfamiliar or technical subject matter is not a founder-fit kill when public trustworthy documentation is sufficient to implement the bounded workflow, verify outputs and safely refuse exceptions. “Acquire knowledge” means implementation-ready documentation, examples, validators and tests—not the founder taking a course. A bounded expert review can validate a build; recurring specialist judgement on every transaction remains an operating-burden kill. Historical verdicts are not silently rewritten and can be reassessed only with new documentation/verification and full commercial evidence.
 
 ## Promotion discipline
 Statuses: ANOMALY; BANKED; DESK-VALIDATION; OUTREACH-READY; BUILD-READY; KILLED. Only BUILD-READY after direct buyer evidence of pain and willingness to pay / credible purchase commitment, with deliverability shown. 'No qualified result' is valid. Theoretical pricing and market sizes are not evidence. Do not recommend founder effort merely because 100 searches were performed.
@@ -60,3 +63,7 @@ At end of each substantive research batch append a dated entry to `RUN_LOG.md` a
 - No locked criterion was changed. The prior assistant's £500/event phrasing remains a search preference, not an approved minimum; lower-price V3.3 paths remain allowed.
 - CPO remains OUTREACH-READY with **six contacts already approached by Tom**, dates/outcomes unknown. Preserve `validation/CPO_OUTREACH_TRACKER.md`; next decisive action is to assess actual response evidence, not repeat initial outreach. Prior founder-fit kills, quarry and GP states remain unchanged.
 - No agent outreach, spending, commercial build or merge. Draft PR #3 stays draft.
+
+## Approved next run — 2026-10-12
+
+The user explicitly authorised another 100-case continuation after approving V3.4. Allocate numeric IDs 661–760, retain the 40/30/30 V3.2 composition and record D0–D4 documentation evidence. Cases may survive unfamiliar technical domains when the workflow can be implemented and verified from documentation; do not require founder training. Next unused ID after a complete deduplicated run will be 761. This entry authorises research, not outreach, spending, a production build or PR merge.
