@@ -159,3 +159,13 @@
 - **End discovery checkpoint: 500 distinct tries; next unused numeric ID 501.** This is not 500 commercially validated cases. Preserve incompletes and the replacement namespace.
 - Single next decisive action: the prepared CPO direct buyer-validation test remains the strongest existing test. No contact, spending, product build or merge occurred.
 - Full ledger, evidence limits, distinctness adjudications, follow-up actions and decision: `research/2026-10-12-attempts-401-500-v3.2-commercial-decision.md`.
+
+
+## 2026-10-12 — V3.3 desk-to-outreach boundary approved
+- Explicit user approval received to correct the remaining desk-evidence boundary and immediately run the amended method.
+- V3.2 attempts 401–500 found real paid coexistence but repeatedly failed because public sources could not establish why a buyer would choose a new entrant. V3.3 separates a desk-supported selection hypothesis from direct selection evidence.
+- Unless 100 is explicitly requested, the default becomes 15–20 deeply compared market-entry cases, with at most three OUTREACH-READY promotions.
+- OUTREACH-READY now requires the complete job, bounded economics, exact buyer, acceptable founder fit, competitor/AI/second-kill passes, at least ten named matching prospects and a precise low-friction falsification question. Public proof that each prospect is already dissatisfied is not required before contact.
+- BUILD-READY remains unchanged and requires direct buyer willingness-to-pay evidence plus deliverability. No outreach is automatically authorised by this amendment.
+- Lower-price offers may survive only with evidenced self-service distribution, broad reachable demand, fast first value, low support and credible recurrence/volume.
+- Immediate authorised action: run 20 new V3.3 cases numbered 501–520, then persist and read back the decision.
