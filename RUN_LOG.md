@@ -198,3 +198,18 @@
 - **New OUTREACH-READY: none. New BUILD-READY: none.** Existing CPO/quarry/GP historical states remain untouched.
 - Next attack: avoid the three founder-rejected neighbourhoods and low-ticket creator utilities unless distribution/volume is evidenced. Prefer a complete result worth several hundred pounds per trigger or clear recurring team spend, with genuine founder interest.
 - Full report: research/2026-10-12-attempts-521-540-v3.3-founder-fit-reset.md.
+
+
+## 2026-10-12 — V3.3 high-value output run (attempts 541–560)
+- Reverified the 540 checkpoint and executed 20 materially distinct complete-output cases, IDs 541–560. End checkpoint: **560 distinct tries; next unused ID 561.**
+- The tranche prioritised legal production, console/game releases, broadcast delivery, apparel/manufacturing files, sponsorship measurement, research/legal media and specialist digital outputs, avoiding the three founder-rejected neighbourhoods.
+- Research operations: 20 discovery searches × 5 requested results; 9 deep competitor/pain/AI searches × 5; 4 anomaly-corroboration searches × 5; 3 customer-access searches × 8; 1 exact STL follow-up × 8; **197 requested search-result slots**. Follow-ups did not inflate the attempt count. No full-page fetches, outreach, interviews, customer files, pilots, payments or builds.
+- Console pre-certification showed the strongest spend signal: Tokkun advertises €9,500+ and failed certification can delay launch by weeks. It was killed because trustworthy completion requires confidential/changing platform rules, approved hardware, build access and manual gameplay/state testing; Microsoft and established QA firms already provide the result.
+- Apparel tech packs have repeat triggers and public £79–£549/style services, but exact low-cost service/software/AI alternatives exist and the production-safe remainder is technical garment judgement. Pattern grading starts around £41/style.
+- Influencer compliance has clear regulatory pain: the ASA's 2024 monitoring found about 57% compliant, 9% inadequately labelled and 34% undisclosed. Exact audit-trail/AI products already exist; the narrow rule check is easily absorbed, while wider compliance creates legal liability.
+- Commercial miniature STL pre-supporting exposed exact services and a public ongoing buyer request. It was killed after anomaly review: dependable output includes manual support/orientation decisions, resin/printer knowledge and physical test prints, with a public freelancer rate from $30.
+- Anomaly checks found no independent customer traction for CertScout, Clearlabel, UK Clothing Factory's £79 tech pack or Techpack.uk. Self-owned pages were treated as offer/price claims only, never demand proof.
+- Real access exists through TIGA/Ukie/UK Games Map, UKFT/brand directories and IMTB/IPA agency lists. This establishes reachable named populations, not unmet need or willingness to pay.
+- **New OUTREACH-READY: none. New BUILD-READY: none. No active ANOMALY or BANKED addition.** Existing CPO/quarry/GP states and historical kills remain unchanged.
+- Next hunt constraint: prioritise completed operational outputs worth at least £500 per event that do not require licensed judgement, confidential rulebooks, physical inspection/test equipment or incumbent-held data; reject cases whose trustworthy completion turns the founder into the specialist.
+- Full report: `research/2026-10-12-attempts-541-560-v3.3-high-value-output.md`.
