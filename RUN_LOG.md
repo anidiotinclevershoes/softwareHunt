@@ -184,3 +184,17 @@
 - Existing CPO, quarry/mineral and GP states remain unchanged; historic kills remain killed.
 - Next decisive action: run three separate ten-buyer asynchronous falsification tests in the order SCORM, accessible EPUB, funeral tribute. Ask the single recorded question, do not pitch software or ask for a meeting, and do not advance without reported recent pain plus credible purchase behaviour.
 - Full report: research/2026-10-12-attempts-501-520-v3.3-commercial-decision.md.
+
+
+## 2026-10-12 — Founder-fit reset and attempts 521–540
+- User explicitly rejected the three 501–520 outreach hypotheses as businesses he does not want to pursue. PowerPoint-to-SCORM, accessible-EPUB repair and funeral tribute video are now **founder-fit kills**. Their desk evidence remains historical; no claim is made that the underlying paid jobs disappeared.
+- Reverified the 520 checkpoint and executed 20 new materially distinct buyer/job/output cases, IDs 521–540. End checkpoint: **540 distinct tries; next unused ID 541.**
+- This tranche deliberately moved into creator/audio/games/performance/collecting/visual-market work: SFX packs, sample packs, production music, dance edits, choir tracks, board-game production and TTS conversion, Unity/3D/font release workflows, laser files, vinyl identification, sports photography, festival delivery, virtual galleries, resale listings, tour riders, escape-room playtesting, window-film optimization and upholstery yield.
+- Research operations: 20 successful discovery searches at five results after six rate-limited calls were retried under the same IDs; 10 deep competitor/access searches at eight; 4 anomaly-corroboration searches at five; 3 pricing searches at five; **215 successful requested result slots** and 13 full-page fetches. Retries/follow-ups did not increase the attempt count.
+- Decisive kills: AudioCrucible already covers local UCS naming/embedded metadata at a planned $179 + $59/year; Soniteq claims the complete production-music delivery workflow at $7–$25/month; dance edits sell for $10–$34.90 and a direct free-beta editor exists; FontBakery provides the deterministic font-QA layer free; Unity, sports-photo, window-film and resale-listing cases have exact incumbent coverage.
+- Custom choir rehearsal-track production is **ANOMALY ONLY**. Paid services quote $180/£250 per score and Making Music exposes thousands of reachable groups. It was not promoted because clean MusicXML is already automated, while messy score transcription, musical QA and copyright-safe handling are specialist burdens for this founder.
+- AI result: creator metadata, listings, audio edits and QA explanations are cheap to automate, but the valuable remainder frequently becomes creative/professional service. Exact new entrants are already using the same AI wedge.
+- Independent-corroboration searches found no third-party traction for Sona, Soniteq Kora or GrooveCut; AudioCrucible beta activity is founder-reported. Their pages prove offers/capabilities, not sales or demand.
+- **New OUTREACH-READY: none. New BUILD-READY: none.** Existing CPO/quarry/GP historical states remain untouched.
+- Next attack: avoid the three founder-rejected neighbourhoods and low-ticket creator utilities unless distribution/volume is evidenced. Prefer a complete result worth several hundred pounds per trigger or clear recurring team spend, with genuine founder interest.
+- Full report: research/2026-10-12-attempts-521-540-v3.3-founder-fit-reset.md.
