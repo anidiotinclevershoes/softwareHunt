@@ -117,3 +117,11 @@
 - All other criteria remain: founder fit, evidence-supported economics, AI tests, C0–C4 grading, first-ten access, separate second kill, moat-narrowing prohibition, graveyard integrity, outreach/build thresholds and honest counting.
 - This amendment is sufficient to justify a materially different market-entry hunt; it does not promise survivors or relax the zero-result standard.
 - No new market research, outreach, candidate promotion or board change occurred in this amendment entry.
+
+
+## 2026-10-12 — V3.2 new-chat handoff prepared
+- Added `NEXT_CHAT_HANDOFF_2026-10-12_V3_2.md` for recovery in a fresh conversation.
+- The handoff points to the live PR branch, requires full authority/readback verification, records the audited 400-attempt checkpoint and sets next index 401.
+- The next proposed continuation is attempts 401–500 using the approved V3.2 40 paid-coexistence / 30 system-boundary / 30 underserved-entry mix.
+- It preserves the no-purchase assumption for ordinary feature improvements and every existing commercial/promotion gate.
+- No research, outreach, candidate promotion, board change, build, merge or customer contact occurred in preparing the handoff.
