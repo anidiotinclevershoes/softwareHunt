@@ -1,8 +1,8 @@
 # Software Opportunity Hunt — V3 Persistent Authority
-Version: 2026-10-12 | Status: active V3 operating contract with approved V3.1 discovery amendment
+Version: 2026-10-12 | Status: active V3 operating contract with approved V3.1 and V3.2 amendments
 
 ## Start-of-run rule
-Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
+Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
 
 ## Authority precedence
 1. User's latest explicit decisions and constraints.
@@ -22,6 +22,9 @@ Deliberately non-obvious, random and odd-pair discovery; 100 distinct attempts w
 
 ## V3.1 survivor-discovery amendment
 The user approved `V3_1_SURVIVOR_DISCOVERY.md` on 2026-10-12. It is active authority for new discovery and supplements, rather than replaces, V3. It requires primary-economic-artefact-first searching, a 60/20/20 composition for default 100-attempt continuations, commercial evidence before product shaping, graded competitor proof, a repeated-execution AI test, and first-ten distribution evidence. It preserves all founder-fit, promotion, counting, graveyard, outreach and build gates. Zero survivors remains valid.
+
+## V3.2 market-entry / sidecar amendment
+The user approved `V3_2_MARKET_ENTRY_SIDECAR.md` on 2026-10-12. It is active authority for subsequent discovery and supplements V3/V3.1. It removes the practical bias toward unpopulated niches without relaxing the commercial bar. Competition can evidence demand and budget, but a customer is assumed **not** to buy a separate product merely for a better feature. A viable market-entry proposition must complete a bounded recurring sidecar job, work with the principal system, have accessible inputs and a practical return path, overcome adoption friction with measurable value, and retain a structural reason for separate purchase. The next default 100-attempt continuation uses the V3.2 40/30/30 market-entry mix. Existing kills, promotion thresholds and zero-survivor discipline remain unchanged.
 
 ## Promotion discipline
 Statuses: ANOMALY; BANKED; DESK-VALIDATION; OUTREACH-READY; BUILD-READY; KILLED. Only BUILD-READY after direct buyer evidence of pain and willingness to pay / credible purchase commitment, with deliverability shown. 'No qualified result' is valid. Theoretical pricing and market sizes are not evidence. Do not recommend founder effort merely because 100 searches were performed.
