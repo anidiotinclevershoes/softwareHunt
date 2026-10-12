@@ -48,3 +48,15 @@ No 45-second progress pings, encouragement, premature winners or requests for ro
 
 ## Update discipline
 At end of each substantive research batch append a dated entry to `RUN_LOG.md` and update this board if verdict changed, recording: queries/unique attempts, sources checked, candidates/kills, direct evidence, assumptions, new competitor discoveries, change rationale, next decisive experiment. If file writes aren't available, return a paste-ready append block. Never claim a file is persistent outside the project unless attached/saved there.
+
+## Latest verified discovery checkpoint — 2026-10-12, attempts 561–660
+
+- Completed the explicitly requested **100 new distinct cases** after four excluded/replaced overlap probes: 40 paid-coexistence, 30 boundary-completion, 30 underserved-entry hypotheses.
+- **97 KILLED for the tested founder/offer; three INCOMPLETE (#632, #641, #654); no new OUTREACH-READY, BUILD-READY, active ANOMALY or BANKED addition.** Eleven deeper commercial/competitor comparisons and both AI attacks are documented.
+- **Count correction:** earlier 560-unique claims are not certified. At least seven historical repeats are documented in `research/2026-10-12-pre-561-count-correction.md`. Lifetime unique total is **at most 653**, not a verified 660. Numeric IDs through 660 are allocated; **next unused ID is 661**. Preserve historical rows and exclusions.
+- Final canonical manifest supersedes provisional raw evidence status: `research/evidence/2026-10-12-561-660-final-cases.json`.
+- Report: [561–660 commercial decision](research/2026-10-12-attempts-561-660-commercial-decision.md). Exact queries and per-case evidence: [100-row ledger](research/2026-10-12-attempts-561-660-ledger.md).
+- Recovered from a user-reported credit interruption using the GitHub evidence checkpoint; no repeated discovery counted. Source recovery limitations are disclosed in the report.
+- No locked criterion was changed. The prior assistant's £500/event phrasing remains a search preference, not an approved minimum; lower-price V3.3 paths remain allowed.
+- CPO remains OUTREACH-READY with **six contacts already approached by Tom**, dates/outcomes unknown. Preserve `validation/CPO_OUTREACH_TRACKER.md`; next decisive action is to assess actual response evidence, not repeat initial outreach. Prior founder-fit kills, quarry and GP states remain unchanged.
+- No agent outreach, spending, commercial build or merge. Draft PR #3 stays draft.
