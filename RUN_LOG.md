@@ -55,3 +55,18 @@
 - Customer-access evidence: public directories make property managers/block managers, football academies/county FAs and woodland professionals reachable, but no attacked proposition showed a qualified first ten with an unowned problem and rational £500–£1,000/month spend.
 - Next decisive action: use the existing ten-firm CPO outreach list for a short asynchronous falsification test before any build; another broad desk-search tranche is lower-value.
 - Full ledger, decisive sources, commercial gates and counter-cases: `research/2026-10-12-100-attempt-commercial-decision.md`.
+
+
+## 2026-10-12 — Second audited 100-attempt round (attempts 101–200)
+- Authority and checkpoint reverified from main plus draft PR #3. Prior round remains **100/100 distinct** after its correction from 28 claimed events to 26 verified starting attempts.
+- Executed **100 new materially distinct attempts**, numbered 101–200 in `research/2026-10-12-attempts-101-200-commercial-decision.md`. Local pre-commit audit found 100 rows, contiguous indices and no duplicated exact query strings.
+- Research operations: 100 Exa discovery searches at two requested results each; 20 Exa deep-attack searches at four requested results each; 280 requested result slots reviewed at result/highlight level plus decisive multi-URL page fetches. Follow-up competitor, AI, access and second-kill searches were not counted as attempts.
+- Breadth: creative/media rights; education and fee triggers; clubs and sport; animal registries; ecology; aviation/marine/rail; professional services; charity/community administration; research operations; niche rental/commerce; sponsorship and synthetic identity rights.
+- Deep attacks completed for podcast ad make-good closure, grassroots-football registration errors, Irish Foreign Birth Registration dossiers, pawnbroker unclaimed sale surpluses, and synthetic-voice consent/licensing.
+- Strongest anomaly: FCA research reported more than £1m of pawnbroker surpluses unclaimed annually in a small 2018 sample, a reminder nearly doubled 30-day collection, and a store-side flag lifted collection nearly 44%. **Second kill:** the successful intervention is a low-cost feature of the regulated POS/system of record; independent software would need sensitive integration, audit history and chain procurement.
+- Competitor/AI result: all five anomalies failed. Exact products or official systems own the deterministic layer (LiveRead/Flightpath; COMET plus club platforms; Rootdossier/full-service advisers; pawnbroker POS; VoiceSeal/talicense/TalentRights). AI makes document/checklist/letter work cheaper but does not remove the integration, authoritative-data, biometric, legal or service burden.
+- **Second-round survivors: none. No new ANOMALY, BANKED, DESK-VALIDATION, OUTREACH-READY or BUILD-READY board entry.**
+- Customer access is real but commercially insufficient: NPA reports 97% trade representation and 1,200+ outlets; public podcast, football and voice-industry directories/routes exist. None showed an unowned problem plus evidence for a qualified first ten at £500–£1,000/month.
+- Existing board unchanged: CPO OUTREACH-READY/not BUILD-READY; quarry/mineral assurance provisional DESK-VALIDATION/practitioner-test; GP income assurance DESK-VALIDATION with dedicated outcome unrecovered. Existing kills remain killed.
+- Next decisive action: use the prepared short CPO falsification email with the ten named small claimant-side firms; direct evidence is now higher-value than attempts 201–300.
+- Full audit, sources and commercial decision: `research/2026-10-12-attempts-101-200-commercial-decision.md`.
