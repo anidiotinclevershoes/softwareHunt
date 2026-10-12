@@ -169,3 +169,18 @@
 - BUILD-READY remains unchanged and requires direct buyer willingness-to-pay evidence plus deliverability. No outreach is automatically authorised by this amendment.
 - Lower-price offers may survive only with evidenced self-service distribution, broad reachable demand, fast first value, low support and credible recurrence/volume.
 - Immediate authorised action: run 20 new V3.3 cases numbered 501–520, then persist and read back the decision.
+
+
+## 2026-10-12 — V3.3 immediate bounded run (attempts 501–520)
+- Starting checkpoint reverified at 500 distinct tries; executed 20 new materially distinct buyer/job/output cases, numbered 501–520. End checkpoint: **520 distinct tries; next unused ID 521.**
+- Research operations: 20 discovery searches × 5 requested results, 5 source-anomaly searches × 5 and 6 deep competitor/substitution/access searches × 8: **173 requested search-result slots**, plus 13 decisive page fetches. Follow-ups did not inflate the 20-attempt count.
+- Cases covered publishing metadata and accessibility, music delivery, cinema mastering, training conversion, product data, merchant feeds, print/embroidery/3D files, property plans, photography, audiobooks, board games, funeral media, auction cataloguing, label compliance, theatre access, CNC preparation and podcast production.
+- Seventeen cases were killed for bundled system ownership, commodity pricing, free/cheap direct substitutes, physical/professional coupling, platform control, liability, weak recurrence or direct AI saturation.
+- Three propositions cleared the amended **OUTREACH-READY / NOT BUILD-READY** desk boundary: occasional PowerPoint-to-SCORM conversion; accessible-EPUB repair plus evidence pack; and private/offline funeral tribute-video production. They have complete bounded outputs, known competitors, public routes to ten named exact-buyer prospects and precise falsification questions. None has direct pain, switching or willingness-to-pay evidence.
+- AI tests: SCORM AI can draft content but not guarantee package/LMS behaviour; EPUB AI can draft alt text/code fixes but not assure semantic/manual usability; generic AI can create tribute slideshows but not own licensing, venue constraints, approvals or deadline support. Incumbents can absorb AI in all three, so moat is unproven.
+- Second kills retained: an exact one-off SCORM service already exists; free EPUB diagnostics and low-cost conversion may erase paid repair demand; funeral incumbents already cover venue integration and funeral-specific AI. Negative outreach evidence kills immediately.
+- Anomaly investigation: exact-query-aligned pages for Rosemary Memorial, Book Formatting Experts, SCORM Specialist, AgentCast and Sketch 2 Plan were checked for independent corroboration. Most returned only self-owned pages; Sketch 2 Plan’s terms identify a company but no independent demand proof. Self-published scope/prices were not treated as verified traction.
+- Real customer access: Trainers List exposes 6,786 UK training companies; Indie Press Network exposes named small presses; SAIFCharter exposes a named table of independent funeral directors. Ten names for each survivor are recorded in the report.
+- Existing CPO, quarry/mineral and GP states remain unchanged; historic kills remain killed.
+- Next decisive action: run three separate ten-buyer asynchronous falsification tests in the order SCORM, accessible EPUB, funeral tribute. Ask the single recorded question, do not pitch software or ask for a meeting, and do not advance without reported recent pain plus credible purchase behaviour.
+- Full report: research/2026-10-12-attempts-501-520-v3.3-commercial-decision.md.
