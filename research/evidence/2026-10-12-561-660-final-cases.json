@@ -1,0 +1,1798 @@
+{
+  "counted": 100,
+  "next_unused_id": 661,
+  "lifetime_unique_count": "at most 653; not certified exact",
+  "outreach_ready": 0,
+  "build_ready": 0,
+  "cases": [
+    {
+      "id": 561,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "Shopify multi-store gift-card redemption",
+      "query": "Ireland UK Shopify multiple stores shared gift card balance redemption paid add-on merchant case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "GiftCard Hero documents cross-store redemption and separate subscriptions; PRO is $19.99/store/month.",
+      "commercial_judgement": "Shared balances are already a complete purchasable outcome. Currency and transaction correctness add operating risk, without an evidenced selection advantage.",
+      "evidence_urls": [
+        "https://docs.syncu.be/giftcard-hero/features/multistore/",
+        "https://community.shopify.com/t/synchronize-gift-card-with-two-stores/321031/1",
+        "https://syncu.be/platform/multistore",
+        "https://apps.shopify.com/gift-card-hero",
+        "https://docs.syncu.be/giftcard-hero/faq/app-questions/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 562,
+      "lane": "P",
+      "seed": "rewind",
+      "job": "WooCommerce failed subscription renewal recovery",
+      "query": "Ireland UK WooCommerce Subscriptions failed renewal card recovery paid Retain cancelled payments case study",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "WooCommerce documents built-in failed-recurring-payment retries and a test procedure.",
+      "commercial_judgement": "The ordinary recoverable-card failure is owned natively; unsupported gateways require integration work, not a simple separate result.",
+      "evidence_urls": [
+        "https://onwebpoint.com/woocommerce-subscriptions-ireland/",
+        "https://arrayhash.com/payment-recovery/automatic-retry-for-failed-subscription-payments-what-good-looks-like/",
+        "https://wptechhouse.com/fix/woocommerce-subscription-card-expired/",
+        "https://woocommerce.com/document/subscriptions/failed-payment-retry/",
+        "https://woocommerce.com/document/subscriptions/failed-payment-retry/test-retry-system/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 563,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Microsoft 365 managed email-signature deployment",
+      "query": "UK Microsoft 365 Exclaimer CodeTwo paid email signature deployment client case price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "CodeTwo and Exclaimer publish managed M365 signature deployment offers and per-user pricing.",
+      "commercial_judgement": "Exact inexpensive coverage; tenant permissions and deployment support remain the expensive part for a new entrant.",
+      "evidence_urls": [
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/606152222127319",
+        "https://marketplace.microsoft.com/en-GB/product/exclaimerltd-1036422.exclaimer",
+        "https://www.leapit.co.uk/services/it-support/exclaimer-email-signatures/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 564,
+      "lane": "P",
+      "seed": "rewind",
+      "job": "Google Workspace departed-user file/link continuity",
+      "query": "UK Google Workspace offboarding Drive ownership transfer broken external links paid service",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Google documents internal Drive ownership transfer; cross-domain transfer alternatives also surfaced.",
+      "commercial_judgement": "Native internal transfer is covered. Cross-domain permission and link continuity need migration-level assurance.",
+      "evidence_urls": [
+        "https://support.google.com/a/answer/1247799?hl=en",
+        "https://workspace.google.com/marketplace/app/transfer_files_ownership/631873519917",
+        "https://workspacemigration.services/howto/transfer-google-drive-ownership"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 565,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "Salesforce duplicate-record merge with retained relationships",
+      "query": "UK Salesforce paid duplicate merge retaining opportunities activity history customer case",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "DupeFinder documents duplicate detection/merge with backups; Case Merge and native merge APIs also exist.",
+      "commercial_judgement": "A new merge tool must preserve authoritative CRM history and exceptions; no low-friction underserved trigger established.",
+      "evidence_urls": [
+        "https://www.eruditeworks.com/products/dupe-finder",
+        "https://www.vicasso.com/products/case-merge-premium",
+        "https://docs.kernel.ai/app/actioning/merge"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 566,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "Jira site consolidation preserving linked issues",
+      "query": "UK Jira Cloud site migration merge projects attachments issue links paid migration case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Atlassian specialists describe Jira consolidation, custom mapping and named insurer migration work.",
+      "commercial_judgement": "Identity, automations and app data make completion a bespoke administrative migration service.",
+      "evidence_urls": [
+        "https://www.atlas-bench.com/services/jira-site-consolidation",
+        "https://deviniti.com/services/jira-cross-instance-merge-and-split-services/",
+        "https://catapult.cx/case-study/uk-based-insurer/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 567,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Confluence to externally published customer documentation",
+      "query": "UK Confluence Scroll Viewport paid customer help centre publishing case study",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Scroll Viewport has external-documentation capability and named GlobalVision customer evidence.",
+      "commercial_judgement": "Existing product completes the publication job; no structural reason for a separate entrant found.",
+      "evidence_urls": [
+        "https://k15t-website.one.sdp.vpt3-stg.k15t.app/blog/2023/02/how-globalvision-shares-knowledge-using-confluence-and-scroll-viewport",
+        "https://k15t-website.one.sdp.vpt3-stg.k15t.app/blog/2021/10/how-a-new-help-center-delighted-adaptavists-teammates-and-customers",
+        "https://www.k15t.com/blog/2020/06/build-a-help-center-on-confluence-cloud-with-scroll-viewport"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 568,
+      "lane": "P",
+      "seed": "compass",
+      "job": "Webflow site multilingual routing and SEO publication",
+      "query": "UK Webflow Weglot localisation hreflang publishing paid case study",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Weglot customer cases and Webflow-native localisation switching evidence surfaced.",
+      "commercial_judgement": "Demand is real, but both native and established companion routes already complete localisation; advantage unestablished.",
+      "evidence_urls": [
+        "https://www.weglot.com/customers/napta",
+        "https://www.digidop.com/blog/webflow-localization-use-case",
+        "https://www.dandawson.org/case-studies/webflow-localization-weglot-enterprise"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 569,
+      "lane": "P",
+      "seed": "rewind",
+      "job": "Magento catalogue/order migration into Shopify",
+      "query": "Ireland UK Magento Shopify migration order history variants paid fixed price case study",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Magento-to-Shopify providers describe named migrations and a £4,999 fixed-price offer.",
+      "commercial_judgement": "The fee includes bespoke data, theme and integration delivery. It is not evidence of a few-day low-support software product.",
+      "evidence_urls": [
+        "https://www.agorastudio.co.uk/pages/magento-to-shopify-migration-cost",
+        "https://geocommerce.co/case-studies/royale-stones",
+        "https://zestcode.co.uk/case-studies/clintons/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 570,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "Excel-linked PowerPoint recurring board-pack production",
+      "query": "UK finance consulting PowerPoint Excel linked charts think cell UpSlide paid board report case",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "think-cell documents data-linked chart and report automation.",
+      "commercial_judgement": "The bounded chart-update job is already served; presentation judgement is not an independent deterministic gap.",
+      "evidence_urls": [
+        "https://www.think-cell.com/en/product/financial-planning-and-analysis",
+        "https://www.think-cell.com/en/product/management-consulting",
+        "https://www.think-cell.com/en/product/dataautomation"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 571,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Power BI client-specific report delivery without recipient licences",
+      "query": "UK Power BI scheduled external customer PDF reports paid distribution case",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "BI Helper advertises filtered report distribution from $50/month; PowerBI Robots documents delivery and licensing.",
+      "commercial_judgement": "External-delivery constraints are real, but direct companions complete the job. Secure recipient mapping and unattended execution remain substantial.",
+      "evidence_urls": [
+        "https://www.hoptonanalytics.com/power-bi-report-automation",
+        "https://www.bihelper.tech/blog/how-distribute-filtered-power-bi-reports-external-users",
+        "https://sjoerd.freewaveapps.app/case-studies/generative-reports",
+        "https://www.bihelper.tech/pricing",
+        "https://docs.pbirobots.powerbitiles.com/support/faqs/",
+        "https://docs.pbirobots.powerbitiles.com/getting-started/licenses/standard-vs-premium/",
+        "https://learn.microsoft.com/en-us/power-bi/collaborate-share/end-user-subscribe",
+        "https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-troubleshoot-subscribe",
+        "https://learn.microsoft.com/en-us/power-bi/collaborate-share/dynamic-subscriptions"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 572,
+      "lane": "P",
+      "seed": "compass",
+      "job": "Interview-panel calendar and interviewer assignment",
+      "query": "UK recruitment interview scheduling panel calendars GoodTime Cronofy paid case study",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Cronofy publishes Agreena/Voicemod scheduling cases and ATS integration evidence.",
+      "commercial_judgement": "Complete panel scheduling is already sold with the integrations required to execute it.",
+      "evidence_urls": [
+        "https://www.cronofy.com/case-studies/agreena-recruiters-panel-interview-scheduling",
+        "https://www.cronofy.com/case-studies/interview-scheduling-pinpoint",
+        "https://www.cronofy.com/case-studies/voicemod-recruiters-are-scaling-up-their-interview-scheduling-with-cronofy"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 573,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Shopify paid PDF delivery with purchaser watermark",
+      "query": "UK Shopify digital download PDF stamping watermark paid app merchant reviews",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Sky Pilot has detailed PDF stamping instructions and a Shopify listing with merchant reviews.",
+      "commercial_judgement": "Automatic customer-specific stamping and delivery are purchasable together; no reason for another small wrapper established.",
+      "evidence_urls": [
+        "https://apps.shopify.com/digitally-digital-products",
+        "https://apps.shopify.com/stampfox",
+        "https://apps.shopify.com/imprint-files",
+        "https://web.skypilotapp.com/pages/pdf-stamping",
+        "https://apps.shopify.com/sky-pilot"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 574,
+      "lane": "P",
+      "seed": "compass",
+      "job": "WooCommerce bulky-cart dimensional packing and carrier quote",
+      "query": "UK WooCommerce mixed cart dimensional packing shipping rates box packing paid extension",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Octolize documents box-packing rules; a UK agency describes custom 3D packing and regional-rate work.",
+      "commercial_judgement": "Simple packing is covered; irregular freight exceptions turn the remainder into carrier/store-specific configuration.",
+      "evidence_urls": [
+        "https://octolize.com/product/box-packing-woocommerce/",
+        "https://conobe.co.uk/work/custom-woocommerce-shipping-pricing-matrix",
+        "https://octolize.com/product/flexible-shipping-pro-woocommerce/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 575,
+      "lane": "P",
+      "seed": "rewind",
+      "job": "Procore drawing revision quantity-change estimation",
+      "query": "UK subcontractor Procore drawing revision quantity takeoff changes estimator paid integration",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Procore documentation covers drawing revisions, overlays and takeoff updates.",
+      "commercial_judgement": "Native ownership of the exact revision-to-takeoff result.",
+      "evidence_urls": [
+        "https://v2.support.procore.com/product-manuals/estimating-project/tutorials/manage-drawing-revisions-for-takeoffs/",
+        "https://en-gb.support.procore.com/products/online/user-guide/project-level/estimating",
+        "https://www.procore.com/en-gb/estimating"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 576,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "After Effects spreadsheet-driven personalised video rendering",
+      "query": "UK agency After Effects spreadsheet personalised videos data driven rendering paid Dataclay case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Dataclay Templater documents data-driven video and a DraftKings production case.",
+      "commercial_judgement": "Established automation already completes the rendering job; new entrant has no evidenced distribution or output advantage.",
+      "evidence_urls": [
+        "https://dataclay.com/blog/draftkings-wins-back-time-with-dataclay-templater/",
+        "https://dataclay.com/templater/",
+        "https://support.dataclay.com/templater/content/introduction/welcome/introduction.htm"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 577,
+      "lane": "P",
+      "seed": "compass",
+      "job": "DaVinci Resolve source-camera colour matching",
+      "query": "UK colourist DaVinci Resolve camera colour match chart paid Colourlab workflow case",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Colourlab AI and Resolve colour-match workflows provide concrete camera-matching alternatives.",
+      "commercial_judgement": "Automated matching exists; the remaining perceived quality depends on skilled colour judgement.",
+      "evidence_urls": [
+        "https://colourlab.ai/colourlab-ai-for-davinci-resolve/",
+        "https://www.mzed.com/courses/mastering-color",
+        "https://mixinglight.com/color-grading-tutorials/color-matching-color-charts-raw-log-davinci-resolve/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 578,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "Logic Pro orchestral score-to-parts engraving handoff",
+      "query": "UK composer Logic Pro Dorico orchestral parts preparation service pricing",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "UK music-preparation services offer MIDI/audio-to-score and orchestral-part preparation.",
+      "commercial_judgement": "Professional notation, playability and musical correction remain specialist work; service demand is not software deliverability.",
+      "evidence_urls": [
+        "https://www.jonsimsmusic.com/",
+        "https://www.londonmusicpreparation.co.uk/score-and-part-preparation",
+        "https://www.maestromusicuk.com/orchestration"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 579,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Unreal multiplayer replay capture for automated cinematic trailers",
+      "query": "UK Unreal Engine replay cinematic camera trailer capture paid plugin studio workflow",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Unreal marketplace runtime recorders describe concrete capture support, including a $299 offer.",
+      "commercial_judgement": "Native-engine/runtime integration and platform support dominate; the narrow capture function already has exact alternatives.",
+      "evidence_urls": [
+        "https://www.fab.com/listings/7ce9b981-ab2d-4756-bc5c-0eb8ddface3d?lang=en",
+        "https://unrealsolutions.com/",
+        "https://jimd.itch.io/enhanced-replay-system-free-demo-documentation"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 580,
+      "lane": "P",
+      "seed": "rewind",
+      "job": "Blender motion capture cleanup and retargeting",
+      "query": "UK animation Blender Rokoko mocap cleanup retargeting paid service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "A paid €250–€750 mocap-cleanup brief specifies drift, foot sliding and gesture polishing.",
+      "commercial_judgement": "The purchasable result depends on animation judgement and shot-level review, not just file transformation.",
+      "evidence_urls": [
+        "https://rekindled.uk/service/motion-capture/",
+        "https://www.freelancer.com/projects/animation/iclone-mocap-cleanup",
+        "https://www.fiverr.com/maryem_soltani/retarget-and-cleanup-motion-capture-3d-mocap-animations-data"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 581,
+      "lane": "P",
+      "seed": "compass",
+      "job": "Ableton stage playback redundant setlist switching",
+      "query": "UK touring Ableton Live redundant playback setlist automation paid Setlist case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "AbleSet documents redundant stage playback; a $179 Pro offer and UK practitioner use surfaced.",
+      "commercial_judgement": "Exact inexpensive playback control exists; live-show reliability and hardware support fail low-burden entry.",
+      "evidence_urls": [
+        "https://ableset.com/",
+        "https://beta.ableset.com/ableset-3",
+        "https://linkedin.com/in/christopher-purcell"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 582,
+      "lane": "P",
+      "seed": "orchard",
+      "job": "Shopify perishable-order ship-date and cutoff determination",
+      "query": "Ireland UK Shopify perishable food dispatch date cutoff delivery date paid merchant case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Cutter & Squidge bought bespoke perishable delivery; Flare documents cutoff/product/postcode rules from free/$15, advanced $99.",
+      "commercial_judgement": "A real paid sidecar market, but exact companions already execute the core job; no evidenced entrant advantage after comparison.",
+      "evidence_urls": [
+        "https://storebuilt.co.uk/blog/shipping-chilled-and-frozen-food-on-shopify-uk/",
+        "https://blubolt.com/case-study/cutter-squidge",
+        "https://www.getflare.co.uk/blog/perishable-shipping-shopify-delivery-options/",
+        "https://www.getflare.co.uk/pricing/",
+        "https://www.getflare.co.uk/faqs/",
+        "https://www.getflare.co.uk/shopify-delivery-date-picker/",
+        "https://www.getflare.co.uk/features/checkout-validation/",
+        "https://www.storecensus.com/stores/varietyfoods.co.uk",
+        "https://cutterandsquidge.com/pages/contact",
+        "https://varietyfoods.co.uk/pages/contact",
+        "https://www.omnitub.co.uk/en-eu/pages/contact"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 583,
+      "lane": "P",
+      "seed": "compass",
+      "job": "Bookable multi-resource activity allocation in FareHarbor",
+      "query": "Ireland UK FareHarbor resource allocation kayak guide vehicle conflicts paid integration workaround",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "FareHarbor documents shared staff, boat and vehicle resources.",
+      "commercial_judgement": "Native shared-resource booking prevents the targeted double allocation.",
+      "evidence_urls": [
+        "https://fareharbor.com/blog/overbooking-be-gone-use-fareharbor-resources-to-better-track-your-inventory/",
+        "https://marketing.fareharbor.com/blog/does-fareharbor-prevent-overbooking/",
+        "https://marketing.fareharbor.com/solutions/kayak-tours/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 584,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "DEAR/Cin7 manufacturing customer order allocation to batch lots",
+      "query": "UK Cin7 Core batch expiry FEFO allocation customer order paid add on warehouse case",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Cin7 Core documents batch costing, expiry and picking allocation.",
+      "commercial_judgement": "The expiry-aware allocation result belongs in the stock system and is already documented there.",
+      "evidence_urls": [
+        "https://help.core.cin7.com/hc/en-us/articles/9034605081231-Working-with-batch-and-serial-numbers",
+        "https://help.core.cin7.com/hc/en-us/articles/9034464614415-Costing-Methods",
+        "https://help.core.cin7.com/hc/en-us/articles/10848183141519-Pick-items-for-a-sale"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 585,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Google Ads click-fraud blocking with automatic exclusions",
+      "query": "UK agency click fraud paid ClickCease PPC Protect case study cost",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "PPC fraud vendors publish agency customer cases and automated click-blocking offers.",
+      "commercial_judgement": "Requires live ad data and defensible detection; established providers already own execution, not just reporting.",
+      "evidence_urls": [
+        "https://www.digitalmarketingcommunity.com/case-study/marmalade/",
+        "https://www.clickintelligence.co.uk/click-fraud-we-have-found-a-solution/",
+        "https://clickpatrol.com/case-studies/twenty-one-uk-agencies-remove-fake-traffic-and-unlock-more-than-six-percent-media-savings/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 586,
+      "lane": "P",
+      "seed": "rewind",
+      "job": "Microsoft Teams phone-call queue callback execution",
+      "query": "UK Teams phone queue callback paid contact centre add on customer case",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Teams/contact-centre offers include queue callback and published procurement descriptions.",
+      "commercial_judgement": "Telephony execution, availability and integration support are the product; not a low-support standalone entry.",
+      "evidence_urls": [
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/523445728181474",
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/284295457764059",
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/835198555143919"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 587,
+      "lane": "P",
+      "seed": "compass",
+      "job": "Shopify apparel returns to size recommendation from actual return reasons",
+      "query": "UK Shopify sizing recommendation returned items size fit paid True Fit merchant case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "New Look and Cotswold case studies describe return reduction and behavioural/personalisation work.",
+      "commercial_judgement": "Named outcomes validate the problem, not portable entrant economics; training data and experimentation remain substantial.",
+      "evidence_urls": [
+        "https://christianmtima.com/case/new-look",
+        "https://www.suttoncommerce.co.uk/blog/how-to-reduce-ecommerce-returns-shopify",
+        "https://www.madewithintent.ai/customer-stories/how-cotswold-outdoor-cut-returns-by-83-by-surfacing-sizing-guidance-to-high-intent-shoppers"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 588,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "WordPress malicious injection cleanup and re-infection prevention",
+      "query": "Ireland UK WordPress hacked website malware removal fixed fee recurring maintenance service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "WordPress specialists publish malware cleanup and ongoing care offers.",
+      "commercial_judgement": "Reliable recovery needs incident-specific diagnosis, security responsibility and continuing support.",
+      "evidence_urls": [
+        "https://wpdublin.com/malware-removal/",
+        "http://web-care.ie/prices/",
+        "https://www.webadish.co.uk/wordpress-maintenance-uk"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 589,
+      "lane": "P",
+      "seed": "compass",
+      "job": "DNS mail authentication to enforced SPF/DKIM/DMARC delivery",
+      "query": "UK DMARC implementation managed service pricing SPF DKIM small business",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "UK providers quote £99–£215 setup examples and managed SPF/DKIM/DMARC deployment.",
+      "commercial_judgement": "Simple setup has inexpensive substitutes; safe enforcement needs sender discovery, privileged changes and follow-up monitoring.",
+      "evidence_urls": [
+        "https://properemail.co.uk/services/spf-dkim-dmarc-setup/",
+        "https://reflectiveit.com/managed-dmarc/",
+        "https://www.tekate.co.uk/services/google-workspace-secure-email-setup-management/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 590,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "Email template to tested cross-client rendering release",
+      "query": "email HTML rendering testing Litmus Email on Acid pricing Outlook Gmail release",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Litmus and Mailgun Inspect publish cross-client previews and QA plans around $99/month.",
+      "commercial_judgement": "The valuable asset is maintained rendering infrastructure; a new thin layer does not complete a new job.",
+      "evidence_urls": [
+        "https://www.emailonacid.com/pricing/",
+        "https://www.litmus.com/email-testing",
+        "https://www.litmus.com/really-good-emails-2"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 591,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "InDesign multilingual book index pagination updates",
+      "query": "UK InDesign book indexing automatic index update paid professional indexing service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Indexers describe SkyIndex, DexEmbed and IndexLinker workflows with published professional rates.",
+      "commercial_judgement": "Semantic index selection and editorial consistency remain expert services; mechanical embedding is already served.",
+      "evidence_urls": [
+        "https://www.indexers.org.uk/wp-content/uploads/2025/02/Commissioning-an-index-12-Feb-25.pdf",
+        "https://www.jw-indexing.co.uk/index-production",
+        "https://www.wordsandindexes.co.uk/publishers"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 592,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Shopify abandoned checkout SMS recovery consent-safe execution",
+      "query": "Ireland UK Shopify SMS abandoned checkout recovery paid customer case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Kudosity publishes a WNDRR SMS recovery case; existing checkout-recovery products execute messages.",
+      "commercial_judgement": "Crowded, data/consent-dependent execution with no evidenced selection or acquisition advantage.",
+      "evidence_urls": [
+        "https://kudosity.com/resources/customer-stories/wndrr-sms-abandoned-cart-recovery-on-shopify-kudosity",
+        "https://digiminds.vercel.app/case-studies/apparel-uk",
+        "https://kudosity.com/resources/customer-stories/belle-fever-shopify-abandoned-cart-recovery"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 593,
+      "lane": "P",
+      "seed": "orchard",
+      "job": "Square restaurant end-of-day surplus sale fulfilment",
+      "query": "Ireland UK Square Too Good To Go surplus food integration paid restaurant workflow",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Too Good To Go and Deliverect describe surplus-food sale/distribution integration.",
+      "commercial_judgement": "The result depends on marketplace buyer liquidity and fulfilment, which a small independent utility cannot supply.",
+      "evidence_urls": [
+        "https://www.deliverect.com/en-gb/integrations/too-good-to-go",
+        "https://www.toogoodtogo.com/en-ie/b2b/app-for-restaurant",
+        "http://c2epos.com/to-good-to-go/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 594,
+      "lane": "P",
+      "seed": "compass",
+      "job": "Google Sheets multi-stop courier route optimisation to drivers",
+      "query": "Ireland UK courier spreadsheet delivery addresses route planning paid Circuit RouteXL customer case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "SmartRoutes publishes Brady Ham/Musgrave cases; Routific supports spreadsheet-to-route workflows.",
+      "commercial_judgement": "The complete operational route is already served; no separate result or entrant advantage found.",
+      "evidence_urls": [
+        "https://smartroutes.io/case-studies/food-delivery-logistics/",
+        "https://smartroutes.io/case-studies/grocery-home-delivery/",
+        "https://www.routific.com/blog/3-ways-to-plan-a-delivery-route-with-excel"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 595,
+      "lane": "P",
+      "seed": "rewind",
+      "job": "Revit model geometry simplification for usable client handover",
+      "query": "UK Revit model purge clean reduce file size external links paid service performance",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "RVDeepClean, MagiCAD and MegaPurge describe Revit cleanup routines.",
+      "commercial_judgement": "Established utilities own the deterministic cleanup; destructive model changes add validation burden.",
+      "evidence_urls": [
+        "https://rv-boost.com/rv-deep-clean/",
+        "https://www.magicad.com/uk/tools/clean-up-and-deliver/",
+        "https://xn--mtus-l3a.com/mega-purge/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 596,
+      "lane": "P",
+      "seed": "orchard",
+      "job": "Shopify component stock to accurately sellable bundles",
+      "query": "Shopify bundle component inventory sync app pricing native bundles limitations",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Shopify documents free fixed/multipack bundles and real-time component inventory calculations.",
+      "commercial_judgement": "A vendor claim that Shopify cannot sync bundle components is overbroad. Simple arithmetic is trivial; safe live stock is native/integration work.",
+      "evidence_urls": [
+        "https://apps.shopify.com/bundlesync",
+        "https://apps.shopify.com/bundlesync-app",
+        "https://www.simplebundles.com/blog/how-to-manage-inventory-for-product-bundles-on-shopify-without-overselling/",
+        "https://help.shopify.com/en/manual/products/bundles/eligibility-and-considerations",
+        "https://help.shopify.com/en/manual/products/bundles/shopify-bundles"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 597,
+      "lane": "P",
+      "seed": "periscope",
+      "job": "Chrome-managed kiosk recovery and remote content deployment",
+      "query": "UK museum kiosk browser remote monitoring recovery paid kiosk management case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "A named Science Museum kiosk project and specialist remote kiosk services surfaced.",
+      "commercial_judgement": "Physical deployment, locked-down devices and recovery support are inseparable from dependable delivery.",
+      "evidence_urls": [
+        "https://joipolloi.com/case-study/science-museum-kiosk/",
+        "https://innerluxes.dev/case-studies/kiosk-browser-shell-with-remote-configuration-and-a-safe-update-path",
+        "https://remiam.co.uk/portfolio/the-landmark-quiz"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 598,
+      "lane": "P",
+      "seed": "compass",
+      "job": "X-Plane simulator instructor scenario setup and assessment export",
+      "query": "UK flight simulator school X Plane instructor station scenario paid licence",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "FliteSim and SimControlX describe instructor stations, scenarios, recording and assessment.",
+      "commercial_judgement": "Exact aviation-simulator control is available; training/hardware expertise and support fail founder simplicity.",
+      "evidence_urls": [
+        "https://www.flitesim.com/simulator-training-management-system",
+        "https://simcontrolx.com/sim-control/",
+        "https://www.flitesim.com/instructor-station"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 599,
+      "lane": "P",
+      "seed": "orchard",
+      "job": "Toast menu sales to kitchen prep forecast",
+      "query": "UK restaurant POS sales kitchen prep forecast waste paid Tenzo case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Tenzo publishes Fat Hippo and Pudding Pantry demand/operations cases.",
+      "commercial_judgement": "Existing POS-connected forecasting owns the data and workflow; no independently complete lightweight advantage established.",
+      "evidence_urls": [
+        "https://www.gotenzo.com/resources/insight/innovate-uk-a-i-forecasting-to-reduce-food-waste/",
+        "https://www.gotenzo.com/resources/case-study/how-tenzo-saves-fat-hippo-11-on-their-bottom-line/",
+        "https://www.gotenzo.com/resources/case-study/how-the-pudding-pantry-reduced-cogs-and-labour-costs-with-tenzo/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 600,
+      "lane": "P",
+      "seed": "tessera",
+      "job": "Mailchimp contact-address verification before physical postcard dispatch",
+      "query": "UK marketing mailing list address cleaning PAF suppression paid per record service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Data8 publishes postal cleansing at £10/1,000 records; Royal Mail provides source-data services.",
+      "commercial_judgement": "Licensed authoritative data and inexpensive batch services already complete address cleansing.",
+      "evidence_urls": [
+        "https://www.data-8.co.uk/pricing/data-cleansing-pricing/",
+        "https://ukdataservices.co.uk/services/data-cleaning",
+        "https://www.royalmail.com/business/marketing/data/cleansing"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 601,
+      "lane": "B",
+      "seed": "rewind",
+      "job": "Archive handwriting images to corrected searchable TEI transcription",
+      "query": "UK archive handwritten manuscripts transcription TEI XML paid service pricing historical records",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Professional TEI transcription services and Transkribus recognition/export plans exist.",
+      "commercial_judgement": "Historical handwriting and scholarly TEI interpretation require correction; simple recognition is inexpensive and already served.",
+      "evidence_urls": [
+        "https://www.drgavinrobinson.uk/manuscript-transcription-data-services.html",
+        "https://archiveshosting.co.uk/advanced-data-services.html",
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/472798257148053",
+        "https://www.transkribus.org/pricing",
+        "https://www.transkribus.org/new-plans"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 602,
+      "lane": "B",
+      "seed": "compass",
+      "job": "Survey response data to weighted tabulations and SPSS deliverable",
+      "query": "UK market research survey weighting tabulation SPSS outsourced data processing pricing agency",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "QPSMR offers cleaning, weighting and tabulation; Q/Displayr automate tables and reporting.",
+      "commercial_judgement": "Basic weighted arithmetic is cheap to reproduce; accepted multi-question tables require statistical specifications and accountable QA. No priced self-serve gap established.",
+      "evidence_urls": [
+        "https://www.qpsmr.org.uk/qpsmr-dp-services",
+        "https://www.plus4.co.uk/the-analysis-solution",
+        "https://www.researchandmetric.com/what-we-do/services/data-tabulation/",
+        "https://www.qpsmr.org.uk/qpsmr-software-prices",
+        "https://mrdcsoftware.com/products/qpsmr/qpsmr-price-list",
+        "https://www.qresearchsoftware.com/",
+        "https://www.displayr.com/pricing/",
+        "https://www.mrs.org.uk/pdf/Best-Practice-Guide-to-Buying-Research-and-Insight.pdf"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 603,
+      "lane": "B",
+      "seed": "compass",
+      "job": "MaxDiff attributes to balanced survey experiment blocks",
+      "query": "UK research agency MaxDiff experimental design balanced blocks paid service Sawtooth",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Sawtooth documents MaxDiff experimental design; specialist research providers also deliver it.",
+      "commercial_judgement": "The core design is native; interpreting a valid research design remains specialist judgement.",
+      "evidence_urls": [
+        "https://www.merakiresearch.co.za/services/analytics/pricing-research/maxdiff-analysis",
+        "https://analytics-team.com/maxdiff-analysis-services/",
+        "https://sawtoothsoftware.com/help/lighthouse-studio/manual/maxdiff-designing-study.html"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 604,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Video master to pixel-mapped LED wall show deliverables",
+      "query": "UK event production LED wall content mapping pixel map video preparation service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Resolume documents advanced outputs, screen slices and mixed LED/projector routing.",
+      "commercial_judgement": "Content mapping is supported; the remainder depends on actual venue geometry and production testing.",
+      "evidence_urls": [
+        "https://pixygrid.com/services/event-led",
+        "https://www.darevents.co.uk/led-wall-hire",
+        "https://www.portmanproduction.co.uk/product-page/led-video-wall-hire-london",
+        "https://resolume.com/software/avenue-arena",
+        "https://resolume.com/support/advanced-output"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 605,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Festival band input lists to consolidated stage patch and changeovers",
+      "query": "UK festival production consolidated patch list input list changeover preparation engineer service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "AudioPatch documents festival master patches, FOH/MON splits, looms and free export; Pro starts at €4/month.",
+      "commercial_judgement": "Multi-band routing is distinct from an individual rider but already served at low cost; exceptions require live-sound expertise.",
+      "evidence_urls": [
+        "https://audiopatch.net/",
+        "https://www.soundengg.com/blog/festival-workflow",
+        "https://www.adlib.co.uk/case-studies/trnsmt",
+        "https://audiopatch.net/terms",
+        "https://audiopatch.net/help-en"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 606,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Supplier catalogue to buyer-accepted cXML PunchOut ordering",
+      "query": "Ireland UK supplier PunchOut cXML catalogue setup paid service procurement onboarding",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "TradeCentric publishes $15k–$50k annual engagements; Punchout Cloud lists $399/month and buyer reviews.",
+      "commercial_judgement": "High-ticket demand is real. However, complete procurement acceptance requires partner-specific integration and support; cheaper exact coverage already exists.",
+      "evidence_urls": [
+        "https://takeoffdigital.co.uk/punchout-pricing",
+        "https://takeoffdigital.co.uk/punchout-integration",
+        "https://takeoffdigital.co.uk/magento-punchout-integration",
+        "https://getpulsesignal.com/pricing/punchout2go",
+        "https://fowara.com/services/punchout-integration/",
+        "https://www.socialatoz.com/software/tradecentric/",
+        "https://tradecentric.com/pricing/",
+        "https://tradecentric.com/solutions/small-mid-market-suppliers/",
+        "https://tradecentric.com/packages/",
+        "https://apps.shopify.com/punchout-cloud",
+        "https://punchrelay.com/pricing",
+        "https://punchoutcatalogs.com/shopify-b2b-punchout/",
+        "https://apps.shopify.com/punchout-cloud/reviews"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 607,
+      "lane": "B",
+      "seed": "compass",
+      "job": "Shipment carton list to loadable container stow plan",
+      "query": "UK exporter carton list container load plan calculation paid EasyCargo case study",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "EasyCargo publishes NaughtOne/Transmobil cases and step-by-step container-loading outputs.",
+      "commercial_judgement": "Exact full-result product exists; physical constraints and loading acceptance are not a simple new export gap.",
+      "evidence_urls": [
+        "https://www.easycargo3d.com/en/use-cases/naughtone/",
+        "https://www.easycargo3d.com/en/use-cases/transmobil-furniture-loading-optimization/",
+        "https://www.easycargo3d.com/en/journal/what-load-plan-report-options-does-easycargo-offer-and-how-to-make-the-most-of-them/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 608,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Car-parts catalogue to verified vehicle-fitment feed",
+      "query": "UK automotive parts retailer TecDoc eBay compatibility fitment catalogue mapping service",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "TecAlliance owns reference vehicle data; Dijitul describes K-Type mapping and named SVA/Kitspares projects.",
+      "commercial_judgement": "Valid fitment needs licensed authoritative inputs or manual expertise for uncovered parts; erroneous compatibility has commercial consequences.",
+      "evidence_urls": [
+        "https://dijitulautomotive.co.uk/vehicle-data/part-fitment-mapping/",
+        "https://dijitulautomotive.co.uk/services/integrations/ebay-motors/",
+        "https://dijitulautomotive.co.uk/vehicle-data/product-data-enrichment/",
+        "https://www.tecalliance.net/products/cards/tecdoc-catalogue",
+        "https://www.tecalliance.co.za/become-a-data-supplier/",
+        "https://www.tecalliance.net/products/cards/tecdoc-reference-data",
+        "https://dijitulautomotive.co.uk/case-studies/",
+        "https://dijitulautomotive.co.uk/case-studies/sva-car-parts/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 609,
+      "lane": "B",
+      "seed": "periscope",
+      "job": "Room impulse measurements to loudspeaker FIR correction filters",
+      "query": "UK audio room measurement FIR convolution filter design service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "CamillaFIR/REW-based filter generation is available; paid acoustics services include site work.",
+      "commercial_judgement": "Deterministic filter production is already accessible; useful room outcomes depend on measurement and acoustic judgement.",
+      "evidence_urls": [
+        "https://www.gikacoustics.net/en-gb/pages/acoustic-consultation",
+        "https://vilhovalittu.github.io/CamillaFIR/",
+        "https://vilhovalittu.github.io/DecayCore/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 610,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Film master to fulldome planetarium projection master",
+      "query": "UK fulldome 360 planetarium film conversion mastering service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Fulldome producers sell conversion; Blendy Dome VJ documents domemaster slicing and mapping.",
+      "commercial_judgement": "Mechanical mapping exists; convincing immersive composition and venue testing remain production services.",
+      "evidence_urls": [
+        "https://www.theusualnext.com/en/fulldome-production",
+        "https://outpaint.com/full-dome",
+        "https://www.aeonimmersive.com/services",
+        "https://blendydomevj.com/",
+        "https://blendydomevj.com/support/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 611,
+      "lane": "B",
+      "seed": "periscope",
+      "job": "Race-simulator telemetry to driver-specific coaching comparison",
+      "query": "Ireland UK sim racing telemetry paid coaching lap data analysis service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "UK sim-racing coaching offers £30–£50 hourly sessions and bespoke telemetry analysis.",
+      "commercial_judgement": "Coaching judgement drives the fee; no independent cheap complete software advantage demonstrated.",
+      "evidence_urls": [
+        "https://www.iracingcoaching.co.uk/",
+        "https://theracecoach.com/services/",
+        "https://iremotecoach.co.uk/public/driver-mot/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 612,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Recorded multi-samples to playable Kontakt virtual instrument",
+      "query": "UK Kontakt instrument scripting sample mapping development service pricing composer",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Kontakt KSP specialists and a paid rotary-speed-switching job show real scripting demand.",
+      "commercial_judgement": "Each instrument has musical/DSP/state behaviour and custom QA; the atomic scripting step is AI-assisted but the accepted instrument is bespoke.",
+      "evidence_urls": [
+        "https://dribbble.com/services/126592-Kontakt-Instrument-Development",
+        "https://www.orlandmedia.com/programming/kontakt-scripting/",
+        "https://mattconstantine.co.uk/virtual-instruments/",
+        "https://vi-control.net/community/threads/kontakt-ksp-developer-needed-leslie-speed-switching-script-paid.170590/",
+        "https://docs.native-instruments.com/pdf-guides/kontakt/Kontakt_8_KSP_Reference_Manual-en_260924.pdf"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 613,
+      "lane": "B",
+      "seed": "compass",
+      "job": "Historical map scan to accurately georeferenced GIS layer",
+      "query": "Ireland UK archive map georeferencing digitisation paid service coordinate raster",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Map providers and paid georeferencing services exist; outputs rely on control-point alignment.",
+      "commercial_judgement": "Input authority and alignment judgement dominate reliable historical-map delivery; generic transformation is already available.",
+      "evidence_urls": [
+        "https://tailte.ie/map-shop/professional-map-products/historic-maps-and-data/",
+        "https://thetravellinggeologist.co.uk/services",
+        "https://gisnavigator.co.uk/georeferencing-digitization/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 614,
+      "lane": "B",
+      "seed": "rewind",
+      "job": "Recruiter CV files to anonymised branded client submissions",
+      "query": "UK recruitment agency CV reformat anonymise branded submission paid service ATS",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "HireAra documents branded/anonymised CV production; low-price per-CV offers also surfaced.",
+      "commercial_judgement": "AI document transformation is already sold as the complete result; no verified entrant acquisition advantage.",
+      "evidence_urls": [
+        "https://atspro.co.uk/features/branded-cv",
+        "https://distill.cv/",
+        "https://distill.cv/product",
+        "https://formacv.ai/pricing",
+        "https://www.theaccessgroup.com/en-gb/products/hireara/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 615,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Existing training video to translated dubbed video package",
+      "query": "Ireland UK corporate training video dubbing translation lip sync paid per minute service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "UK dubbing providers publish per-minute ranges and AI-plus-human delivery.",
+      "commercial_judgement": "Cheap AI voice conversion exists; reliable pronunciation, rights and synchronisation require creative review.",
+      "evidence_urls": [
+        "https://www.translationservicesuk.co.uk/video-localization-services/",
+        "https://optimational.com/services/ai-dubbing/",
+        "https://golocalise.co/dubbing-services"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 616,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Static character model to production animation rig",
+      "query": "UK animation studio character rigging outsourced service price Maya Blender",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Rigging specialists offer pipeline-ready Maya/Blender rigs.",
+      "commercial_judgement": "Accepted deformation and animation controls require artist/technical-direction judgement for each model.",
+      "evidence_urls": [
+        "https://rekindled.uk/service/rigging-character-setup/",
+        "https://gimbalgoats.com/",
+        "https://www.joeytheexplorer.co.uk/character-rigging/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 617,
+      "lane": "B",
+      "seed": "rewind",
+      "job": "Production database schema to safe realistic development test data",
+      "query": "UK development agency production database synthetic test data masking paid customer case",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Synthesized publishes production-test-data cases including a UK university; Aviva has an internal analogue.",
+      "commercial_judgement": "Sensitive database access, referential integrity and enterprise deployment overwhelm a quick low-friction entry.",
+      "evidence_urls": [
+        "https://www.synthesized.io/case-studies/how-a-leading-uk-university-modernized-test-data-management-with-ai-driven-automation",
+        "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/418802743892453",
+        "https://www.computing.co.uk/sponsored/2025/case-study-synthesizer-powering-scalable-privacy-first-test-data-at-aviva"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 618,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Payroll export to bank-accepted bulk payment file",
+      "query": "Ireland UK payroll bank file conversion SEPA BACS upload paid service CSV",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Thesaurus documents SEPA output; Parolla and other converters handle payroll/CSV bank files.",
+      "commercial_judgement": "Native and exact converters cover the bounded output; banking correctness increases burden without a gap.",
+      "evidence_urls": [
+        "https://www.sepadirectdebits.ie/direct-debit-software/product-tour/sepa-credit-transfer",
+        "https://tools.parolla.ie/",
+        "https://www.thesaurus.ie/docs/2026/paying-employees/paying-employees-using-a-bank-payment-file-sepa/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 619,
+      "lane": "B",
+      "seed": "compass",
+      "job": "Guest RSVPs and relationship constraints to final seating plan",
+      "query": "Ireland UK wedding planner seating chart constraints table allocation paid service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "PerfectTablePlan publishes $29.95 home/$299.95 professional licences and export capability.",
+      "commercial_judgement": "The complete seating result is inexpensive and established; one-off consumer volume is not demonstrated for an entrant.",
+      "evidence_urls": [
+        "https://ode.events/wedding-seating-plan",
+        "https://www.tableplanner.io/",
+        "https://supperi.com/wedding-seating-plan",
+        "https://www.perfecttableplan.com/html/purchase.html",
+        "https://www.perfecttableplan.com/html/licensing.html"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 620,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Assembly dimensional tolerances to quantified manufacturing stack-up decision",
+      "query": "UK tolerance stack up analysis service CETOL Sigmetrix engineering dimensional variation price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Sigmetrix offers EZtol at $125/month and CAD-integrated CETOL analysis.",
+      "commercial_judgement": "Simple stack arithmetic is easy; trustworthy multidimensional tolerance decisions require engineering model expertise.",
+      "evidence_urls": [
+        "https://www.sigmetrix.com/marketplace/eztol-1-month-subscription-for-catia-nx-and-solidworks",
+        "https://www.sigmetrix.com/software/cetol",
+        "https://www.sigmetrix.com/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 621,
+      "lane": "B",
+      "seed": "periscope",
+      "job": "Drone flight plan to operator-loaded geofence mission file",
+      "query": "Ireland UK drone survey mission planning geofence KML DJI waypoint import paid service",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "DJI Terra documents route planning/safety checks; FlyPath also offers mission export.",
+      "commercial_judgement": "Native planning covers the core result. Aircraft, firmware and flight safety validation preclude a low-support generic converter.",
+      "evidence_urls": [
+        "https://flypath.io/dji-drone-mission-planner/",
+        "https://flypath.io/",
+        "https://dronpoint.app/faq",
+        "https://terra.dji.com/user-manual/en/detailed-inspection/route-planning.html"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 622,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Electrical netlist to cable-harness manufacturing drawing and BOM",
+      "query": "UK cable harness netlist wiring drawing documentation outsourcing paid service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "WireNexus/Scott Cables offer harness drawings, BOMs and manufacturing packages.",
+      "commercial_judgement": "Routing, components, installation and manufacturability require engineering review beyond a netlist conversion.",
+      "evidence_urls": [
+        "https://wirenexus.co.uk/design-services/",
+        "https://www.scottcables.com/design/",
+        "https://www.zealogics.com/engineering-services/electrical-engineering"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 623,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Existing architectural scene to client-ready interactive VR tour",
+      "query": "Ireland UK architect model virtual reality walkthrough conversion service fixed price",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "AODH shows named Irish visualisation projects and €350 VR-scene add-ons.",
+      "commercial_judgement": "Scene preparation and visual quality remain creative delivery; no standalone low-support advantage shown.",
+      "evidence_urls": [
+        "https://www.visuarchitect.com/service/vr-tours/",
+        "https://www.aodh.ie/architectural-visualisations",
+        "https://www.thecork.ie/2021/07/10/how-to-convert-your-2d-floor-plans-into-a-3d-model-walkthrough/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 624,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Image annotations to validated model-training dataset",
+      "query": "UK computer vision annotation COCO YOLO conversion data validation paid service",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "CVAT documents native COCO/YOLO export and explicit unsupported attributes/tracks.",
+      "commercial_judgement": "Basic conversion is native. Semantic relabelling/QA is labour-intensive; a format wrapper cannot restore missing information.",
+      "evidence_urls": [
+        "https://yobitel.com/services/ai/annotation-data/multimodal",
+        "https://datavlab.ai/solutions/data-annotation-uk",
+        "https://gr8techltd.co.uk/advanced-annotation-and-model-training-suite/",
+        "https://docs.cvat.ai/docs/dataset_management/formats/",
+        "https://docs.cvat.ai/docs/dataset_management/formats/format-yolo/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 625,
+      "lane": "B",
+      "seed": "rewind",
+      "job": "School-leaver records to accepted CTF transfer and exception resolution",
+      "query": "UK school MIS CTF pupil data transfer failed imports outsourced support service",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Arbor/NFER document CTF imports; an EduGeek user describes manual XML splitting for a failure.",
+      "commercial_judgement": "Real exception, but issuer re-export/vendor support owns the accepted pupil record. Sensitive migration handling and uncertain recurrence weaken entry.",
+      "evidence_urls": [
+        "https://noa.freshdesk.com/support/solutions/articles/80001048933-troubleshooting-tips-for-ctf-imports",
+        "https://support.arbor-education.com/hc/en-us/articles/203856631-Importing-a-CTF",
+        "https://www.edugeek.net/forums/topic/217305-ctf-import-from-previous-mis-not-working-correctly/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 626,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Catering final dietary roster to kitchen-safe individual meal labels",
+      "query": "Ireland UK event catering dietary guest meal labels seating export paid service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Hostology exports named guest meal/dietary lists; Table NI describes actual labelled-meal handling.",
+      "commercial_judgement": "List preparation is covered; safe service depends on accurate source data and kitchen operations, not another label generator.",
+      "evidence_urls": [
+        "https://hostology.co.uk/why-hostology/catering/",
+        "https://getdine.ai/",
+        "https://tablefood.co.uk/planning-an-event-heres-how-to-get-dietary-requirements-right-without-the-faff/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 627,
+      "lane": "B",
+      "seed": "rewind",
+      "job": "Retiring website URL inventory to tested SEO redirect migration map",
+      "query": "UK website migration redirect mapping service fixed price lost traffic case study",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Emrise names Red Band UK in a migration case; specialists provide URL mapping plus post-launch checks.",
+      "commercial_judgement": "Real spending attaches to whole migration accountability. A map alone cannot guarantee preserved traffic and duplicates existing agency capability.",
+      "evidence_urls": [
+        "https://blackcrowdigital.co.uk/services/seo-migrations/",
+        "https://neprastechnologies.com/case-studies/case-study-seo-recovery",
+        "https://www.emrise.co.uk/case-studies/red-band-uk-case-study/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 628,
+      "lane": "B",
+      "seed": "compass",
+      "job": "Gear specification to manufacturable hob/gear geometry",
+      "query": "UK gear design calculation involute DXF manufacturing service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Fabworks offers in-browser involute gear STEP/DXF output; priced geometry offers also exist.",
+      "commercial_judgement": "The deterministic profile is commoditised; manufacturable meshing and load suitability require engineering beyond the file.",
+      "evidence_urls": [
+        "https://metamex.co.uk/services/cad-design-service-uk/",
+        "https://volexlabs.com/forge/spur-gear",
+        "https://www.fabworks.com/resources/calculators/power-transmission/spur-gear"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 629,
+      "lane": "B",
+      "seed": "periscope",
+      "job": "Match footage to player-specific recruitment highlight reel",
+      "query": "Ireland UK football rugby player highlight video editing service pricing recruitment",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "UK match edits cost £60; recruitment-edit providers distinguish supplied timestamps from paid full-game review.",
+      "commercial_judgement": "The easy montage is cheap; finding the right player/action requires sports judgement or reliable tracking.",
+      "evidence_urls": [
+        "https://www.upnorthproductions.co.uk/editing",
+        "https://chrisschieman.com/sports-video-editing-services/",
+        "https://www.fiverr.com/dmytrobychkivsk/create-recruiting-video-highlights-from-veo"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 630,
+      "lane": "B",
+      "seed": "tessera",
+      "job": "Fish-finder sonar recordings to private bathymetric survey map",
+      "query": "Ireland UK sonar log bathymetric map processing service ReefMaster price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "ReefMaster documents sonar-to-bathymetry exports at $199 plus optional modules.",
+      "commercial_judgement": "Exact affordable desktop capability exists; survey-quality interpretation is not a lightweight separate product.",
+      "evidence_urls": [
+        "https://reefmaster.com.au/index.php/buy",
+        "https://reefmaster.com.au/index.php/products/reefmaster",
+        "https://reefmaster.com.au/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 631,
+      "lane": "U",
+      "seed": "compass",
+      "job": "Grassroots league organisers excluded by enterprise fixture scheduling",
+      "query": "UK amateur sports league fixture scheduling software pricing shared grounds blackout constraints",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "EasyFixtures offers £49/£99 yearly services; Lancashire FA documents the native advanced scheduler.",
+      "commercial_judgement": "Small leagues are not shown excluded. Complex bespoke constraints create service work; low yearly economics need unsupported scale.",
+      "evidence_urls": [
+        "http://easyfixtures.co.uk/fixtures.php",
+        "https://sportsfixturesystems.com/",
+        "https://help.lancashirefa.com/support/solutions/articles/76000046335-advanced-scheduler",
+        "https://linkedin.com/company/sports-fixture-systems-ltd"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 632,
+      "lane": "U",
+      "seed": "periscope",
+      "job": "Independent piano teachers needing automatic practice assessment",
+      "query": "UK piano teacher student practice feedback software audio assessment pricing",
+      "competitor_grade": "C2",
+      "verdict": "INCOMPLETE",
+      "source_observation": "PracticeFirst assesses pitch/rhythm; independent-teacher practice products also exist.",
+      "commercial_judgement": "A piano-specific advantage and credible acquisition/retention evidence were not established. Do not infer full expressive assessment from feature claims.",
+      "evidence_urls": [
+        "https://www.musicfirst.co.uk/software/practicefirst",
+        "https://noteandkey.app/practice-between-lessons",
+        "https://www.synkii.com/pricing",
+        "https://www.musicfirst.com/software/practicefirst"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 633,
+      "lane": "U",
+      "seed": "orchard",
+      "job": "Small race teams needing telemetry-based suspension setup",
+      "query": "UK club motorsport suspension setup telemetry analysis service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "A UK race engineer sells four hours of remote analysis for £300; geometry checks involve measurement.",
+      "commercial_judgement": "The fee buys engineering judgement and driver/car context, not a portable autonomous recommendation.",
+      "evidence_urls": [
+        "https://wtbmotorsports.co.uk/services/",
+        "https://jackwebbmotorsport.co.uk/Data-and-Race-Engineering-Services-c139369511",
+        "https://jackwebbmotorsport.co.uk/Remote-Race-Engineering-Services-4-Hours-p493849142"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 634,
+      "lane": "U",
+      "seed": "tessera",
+      "job": "Independent florists needing stem-level bouquet costing",
+      "query": "UK Ireland florist recipe costing software price bouquet stem costs",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "Florist costing products describe recipes; reviews describe small-business use of Details/Floranext.",
+      "commercial_judgement": "Stem costing is simple arithmetic and established workflow coverage; no evidence a new companion overcomes duplicated inventory input.",
+      "evidence_urls": [
+        "https://florist.software/features/recipe-costing/",
+        "https://bloompath.eu/en/florist-software/",
+        "https://digitalflorists.com/for/wedding-event-florists",
+        "https://www.softwareadvice.com/retail/details-flowers-software-profile/vs/floranext/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 635,
+      "lane": "U",
+      "seed": "rewind",
+      "job": "Small repair shops needing board-level fault diagnosis",
+      "query": "UK electronics repair board diagnosis schematics software subscription price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Schematic/boardview services offer model libraries and low annual plans.",
+      "commercial_judgement": "The valuable inputs are maintained repair data and physical diagnosis; an AI wrapper does not supply authoritative board knowledge.",
+      "evidence_urls": [
+        "https://masterschematics.com/",
+        "https://www.autodata-group.com/uk/diagnostic-software/",
+        "https://w2rsolutions.in/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 636,
+      "lane": "U",
+      "seed": "compass",
+      "job": "Small escape-room operators needing reliable puzzle-show control",
+      "query": "UK escape room controller software pricing puzzle automation small business",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Clue Command publishes full game-control plans; Michi advertises £20/month prop/light control.",
+      "commercial_judgement": "Exact affordable offers exist; reliable device integration and venue-specific recovery increase support burden.",
+      "evidence_urls": [
+        "https://michisystem.com/michi-clue.html",
+        "https://michisystem.com/",
+        "https://www.cluecommand.com/pricing.php"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 637,
+      "lane": "U",
+      "seed": "periscope",
+      "job": "Small factories needing deployable visual defect inspection",
+      "query": "UK small manufacturer visual inspection AI low volume camera pricing",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Manufacturing-inspection providers quote £3,200–£12,000 builds and camera/model tuning.",
+      "commercial_judgement": "Custom training data, lighting, hardware and defect acceptance prevent a small generic V1 from delivering the whole result.",
+      "evidence_urls": [
+        "https://happywebs.co.uk/solutions/qc-inspection-for-manufacturing/",
+        "https://codeworth.uk/ai/manufacturing",
+        "https://www.seer-tech.co.uk/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 638,
+      "lane": "U",
+      "seed": "orchard",
+      "job": "Small printers needing defensible digital-print job quotes",
+      "query": "UK small print shop estimating software pricing digital click costs",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Imprint/Gelato/printingOffice document press-specific click-cost estimation.",
+      "commercial_judgement": "The core quote engine exists; maintaining each printer's machine/finishing rates is onboarding, not an independent output moat.",
+      "evidence_urls": [
+        "https://imprint-mis.co.uk/solutions/print-estimating-software",
+        "https://www.gelato.com/connect/estimator/digital",
+        "https://www.printingoffice.net/en/digital-estimating.html"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 639,
+      "lane": "U",
+      "seed": "tessera",
+      "job": "Small nurseries needing greenhouse irrigation control",
+      "query": "UK commercial small nursery greenhouse irrigation automation controller pricing",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Irrigation controllers are sold with sensors, valves and scheduling apps.",
+      "commercial_judgement": "Physical installation, calibration and crop responsibility are inseparable from dependable watering.",
+      "evidence_urls": [
+        "https://www.1-hydroponics.co.uk/trolmaster-nfs-3-aqua-x-plus-irrigation-control-system",
+        "https://www.thehydrobros.com/products/growlink-precision-irrigation-controller-global-version-unit-2-sensors",
+        "https://www.waterirrigation.co.uk/automatic-greenhouse-watering-system-12-litre-pump-solar-powered-watermate-pro.html"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 640,
+      "lane": "U",
+      "seed": "rewind",
+      "job": "Small waste yards needing offline weighbridge ticket execution",
+      "query": "UK small weighbridge software offline ticketing price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Weighbridge vendors document ticketing/serial integration; government guidance explicitly permits an outage-record process.",
+      "commercial_judgement": "Offline capability alone does not create a new compliance necessity. Hardware interfaces and regulated operational support remain burdens.",
+      "evidence_urls": [
+        "https://www.openweigh.com/",
+        "https://www.midsoft.co.uk/product/weighbridge/",
+        "https://wastesync.co.uk/how-it-works/",
+        "https://www.gov.uk/guidance/digital-waste-tracking-check-if-you-need-to-report-the-waste-you-receive",
+        "https://www.gov.uk/government/publications/digital-waste-tracking-service/digital-waste-tracking-service",
+        "https://www.legislation.gov.uk/uksi/2026/729/made",
+        "https://www.openweigh.com/bridge_link.html",
+        "https://openweigh.com/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 641,
+      "lane": "U",
+      "seed": "compass",
+      "job": "Volunteer coaches needing fair team-selection and playing-time plans",
+      "query": "UK youth football coaching playing time rotation software fair minutes pricing",
+      "competitor_grade": "C2",
+      "verdict": "INCOMPLETE",
+      "source_observation": "GamePlan publishes free/£5 team plans with fair rotations; Footy Genius describes similar functions.",
+      "commercial_judgement": "No convincing evidence of underserved coaches or scalable paid demand for an additional product; vendor claims alone do not establish adequacy.",
+      "evidence_urls": [
+        "https://getgameplan.co.uk/pricing",
+        "https://getgameplan.co.uk/",
+        "https://footygenius.co.uk/features-coaches.html"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 642,
+      "lane": "U",
+      "seed": "periscope",
+      "job": "Indie game studios needing balance simulation before release",
+      "query": "indie game economy combat balance simulation software pricing Machinations",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Machinations documents indie collaboration and simulation; focused offline balancing products exist.",
+      "commercial_judgement": "Simulation is already served; game-design judgement and distribution remain unresolved, with no complete entrant advantage.",
+      "evidence_urls": [
+        "https://machinations.io/homepage",
+        "https://www.ludforge.com/pricing",
+        "https://pointclair.itch.io/game-balancing-toolkit",
+        "https://machinations.io/pricing",
+        "https://machinations.gitbook.io/docs/accounts/pricing"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 643,
+      "lane": "U",
+      "seed": "orchard",
+      "job": "Small plating shops needing reliable plating-job process calculations",
+      "query": "UK electroplating process calculation software current density plating time small workshop",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Dataplate provides a free plating-time/current calculator and warns about geometry/distribution limits.",
+      "commercial_judgement": "Arithmetic is a free substitute; safe real plating outcomes require process knowledge and physical conditions.",
+      "evidence_urls": [
+        "https://www.dataplate.co.uk/webapps/electroplate.html",
+        "https://www.attalos.life/apps/platelab",
+        "https://goldn.co.uk/copperpro-calculator/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 644,
+      "lane": "U",
+      "seed": "tessera",
+      "job": "Independent language tutors needing oral-exam practice scoring",
+      "query": "UK language tutor oral exam speaking assessment AI software pricing",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "ELSA offers school assessment and a speech-assessment API; other exam-practice offers exist.",
+      "commercial_judgement": "Generic AI practice is reproducible. Valid exam assessment and learner acquisition are not demonstrated advantages.",
+      "evidence_urls": [
+        "https://englishtest.uk/",
+        "https://speakpass.co.uk/",
+        "https://www.learnlingo.ai/uk",
+        "https://elsaspeak.com/en/english-for-schools/plans",
+        "https://elsaspeak.com/en/elsa-api/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 645,
+      "lane": "U",
+      "seed": "rewind",
+      "job": "Independent pubs needing draught-line loss detection",
+      "query": "UK independent pub beer line waste monitoring system price case study",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "BeerTech reports thousands of installations and describes till-versus-flow monitoring.",
+      "commercial_judgement": "Physical sensors, calibration and cellar installation dominate the result; not a simple software-only entry.",
+      "evidence_urls": [
+        "https://www.beertechuk.com/flowmeter/",
+        "https://www.beertechuk.com/flowmaster/",
+        "https://www.beer-pro.co.uk/beer-saver-7-pro"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 646,
+      "lane": "U",
+      "seed": "compass",
+      "job": "Small screen printers needing mixed-ink colour recipes",
+      "query": "UK screen printing ink formulation colour matching software pricing",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Colormate Pro is free with compatible ink systems; X-Rite offers formulation/QC.",
+      "commercial_judgement": "Recipes depend on ink-system data and physical colour verification; free supplier-linked coverage serves the narrow job.",
+      "evidence_urls": [
+        "https://dalesway.co.uk/product/colormate-pro-ink-mixing-software/",
+        "https://www.xrite.com/categories/formulation-and-quality-assurance-software/autura-ink",
+        "https://dalesway.co.uk/product/plastisol-ink-mixing-system-551-colorpro/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 647,
+      "lane": "U",
+      "seed": "periscope",
+      "job": "Micro software vendors needing offline licence activation",
+      "query": "software licensing offline activation small independent developer pricing Keygen Cryptlex",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Cryptlex starts at $100/month; Keygen has offline licensing, a free Dev tier and free self-hosting.",
+      "commercial_judgement": "An asserted empty low-price niche is unsupported. Secure SDKs, lifecycle support and trust are the product, not a cheap licence-key endpoint.",
+      "evidence_urls": [
+        "https://cryptlex.com/docs/licensing-models/offline-licenses",
+        "https://www.microgaps.com/gaps/indie-desktop-app-license-server",
+        "https://keygen.sh/docs/relay/",
+        "https://cryptlex.com/pricing",
+        "https://www.softwareadvice.com/license-management/cryptlex-profile/vs/keygen/",
+        "https://ezralabs.co.za/software-license-server-comparison-2026/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 648,
+      "lane": "U",
+      "seed": "orchard",
+      "job": "Indie desktop developers needing signed releasable installers",
+      "query": "UK Windows code signing small software developer price automated installer signing",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Microsoft documents roughly $9.99/month signing, regional eligibility and non-instant SmartScreen reputation.",
+      "commercial_judgement": "The exclusion of some individuals is real, but a wrapper cannot change identity eligibility or promise reputation. Trust/security burden fails founder fit.",
+      "evidence_urls": [
+        "https://www.bamboodeploy.com/",
+        "https://kestrelstack.com/sign/",
+        "https://www.ksoftware.net/code-signing-certificates/",
+        "https://learn.microsoft.com/en-us/windows/apps/package-and-deploy/code-signing-options",
+        "https://azure.microsoft.com/en-us/pricing/details/artifact-signing/",
+        "https://learn.microsoft.com/en-us/azure/artifact-signing/how-to-change-sku",
+        "https://about.fqa.test.signpath.io/product/editions",
+        "https://about.signpath.io/product/editions-explained"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 649,
+      "lane": "U",
+      "seed": "tessera",
+      "job": "Small mobile teams needing usable native-crash symbolication",
+      "query": "mobile app crash symbolication small developer pricing iOS Android BugSplat",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "BugSplat documents a substantial free plan and a $37/month annual-billing Team plan.",
+      "commercial_judgement": "Small developers are explicitly served; symbol/build compatibility is already supported by established infrastructure.",
+      "evidence_urls": [
+        "https://www.bugsplat.com/pricing/",
+        "https://docs.bugsplat.com/administration/billing/plans-and-billing-guide.md",
+        "https://docs.bugsplat.com/administration/billing/free-plans-from-bugsplat/free-accounts-for-indie-game-development"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 650,
+      "lane": "U",
+      "seed": "rewind",
+      "job": "Small jewellery photographers needing production focus stacks",
+      "query": "UK jewellery photography focus stacking software service pricing",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "UK focus-stacked photography is paid work; Helicon publishes one-year/lifetime licences.",
+      "commercial_judgement": "Capture, lighting and retouching account for service value; the image-stacking computation already has inexpensive software.",
+      "evidence_urls": [
+        "https://gqstudios.co.uk/jewellery-photography/",
+        "https://www.ellenbroughton.com/copy-of-instrument-photography-new",
+        "https://www.stefanoprea.com/jewellery-photography",
+        "https://www.heliconsoft.com/helicon-focus-licenses-paypro/",
+        "https://www.heliconsoft.com/helicon-focus-versions-licensing/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 651,
+      "lane": "U",
+      "seed": "compass",
+      "job": "Small independent schools needing clash-free timetables",
+      "query": "UK small independent school timetable software pricing constraints",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "TA Timetabler publishes a £459/year small-school package with support and MIS integration.",
+      "commercial_judgement": "Small schools are explicitly served. Complex curriculum/staff constraints create support without an evidenced entry advantage.",
+      "evidence_urls": [
+        "https://www.abacusedutech.co.uk/ta-timetabler",
+        "https://schodule.org/",
+        "https://www.smartplanner.school/pricing"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 652,
+      "lane": "U",
+      "seed": "periscope",
+      "job": "Small charities needing volunteer reference-check completion",
+      "query": "UK charity volunteer reference checking software pricing small organisation",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "SignMeUp advertises automatic reference requests/follow-ups at £3 per volunteer/event; generic reference services also publish per-reference prices.",
+      "commercial_judgement": "The complete chasing-and-reporting job is offered within volunteer onboarding. No compelling standalone entrant advantage found.",
+      "evidence_urls": [
+        "https://www.getcomplys.com/charities",
+        "https://www.safeguard-me.co.uk/charities",
+        "https://crisisconnect.uk/pricing.html",
+        "https://www.signmeup.org.uk/",
+        "https://refassure.co.uk/reference-checking-software/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 653,
+      "lane": "U",
+      "seed": "orchard",
+      "job": "Small orthotics labs needing manufacturable foot-orthotic CAD",
+      "query": "UK foot orthotic CAD software small lab pricing design service",
+      "competitor_grade": "C3",
+      "verdict": "KILLED",
+      "source_observation": "UK orthotics labs and FitFoot/LutraCAD-linked production services offer scan-to-orthotic delivery.",
+      "commercial_judgement": "Clinical prescription, fit and physical manufacture require specialist responsibility outside founder fit.",
+      "evidence_urls": [
+        "https://www.pegasusorthotics.com/pegasus",
+        "https://fit360ltd.com/FitFoot360.html",
+        "https://www.feetinmotion.co.uk/services/corporate-services/insolace-3d-print-farm/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 654,
+      "lane": "U",
+      "seed": "tessera",
+      "job": "Independent cafes needing demand-based staff schedules",
+      "query": "Ireland UK independent cafe staff scheduling software pricing demand forecast",
+      "competitor_grade": "C2",
+      "verdict": "INCOMPLETE",
+      "source_observation": "Hospitality rota products publish £59–£69 monthly offers; demand forecasting appears in pilots.",
+      "commercial_judgement": "No verified gap or selection hypothesis; advertised auto-rotas are not proof of robust constraint execution or paid demand.",
+      "evidence_urls": [
+        "https://previo.co.uk/",
+        "https://dilagee.com/",
+        "https://apolahospitality.com/",
+        "https://alphanomic.co.uk/industries/cafe-staff-scheduling-software",
+        "https://rotasmart.co.uk/hospitality-scheduling-software"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 655,
+      "lane": "U",
+      "seed": "rewind",
+      "job": "Small event suppliers needing rigging load plans",
+      "query": "UK event rigging load calculation software pricing small production company",
+      "competitor_grade": "C4",
+      "verdict": "KILLED",
+      "source_observation": "Vectorworks Braceworks owns structural rigging analysis; low-cost calculation offers also exist.",
+      "commercial_judgement": "Engineering sign-off and load assumptions are safety-critical; a generic AI calculator does not complete accepted approval.",
+      "evidence_urls": [
+        "https://www.loadchart.pro/",
+        "https://www.levellift.co.uk/pricing",
+        "https://www.vectorworks.net/en-GB/braceworks"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 656,
+      "lane": "U",
+      "seed": "compass",
+      "job": "Independent researchers needing systematic-review screening",
+      "query": "systematic review screening software independent researcher pricing Rayyan Covidence",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Rayyan has a free/low-price research tier; Covidence lists $339 for one review/year.",
+      "commercial_judgement": "Independent reviewers have established options; screening evidence quality and study judgement remain obligations.",
+      "evidence_urls": [
+        "https://www.rayyan.ai/pricing",
+        "https://www.covidence.org/pricing/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6148615/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 657,
+      "lane": "U",
+      "seed": "periscope",
+      "job": "Small app studios needing multilingual review-response completion",
+      "query": "app store review management response automation indie developer pricing",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Appbot documents automated multilingual replies and detailed plans; indie-focused offers also exist.",
+      "commercial_judgement": "Generic response drafting is AI-substitutable and publishing is already integrated. No separate complete advantage established.",
+      "evidence_urls": [
+        "https://www.replyargus.com/",
+        "https://appmonitor.ai/",
+        "https://storereplies.com/",
+        "https://appbot.co/plans/",
+        "https://support.appbot.co/help-docs/auto-replies/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 658,
+      "lane": "U",
+      "seed": "orchard",
+      "job": "Furniture restorers needing identifiable replacement veneer",
+      "query": "UK antique furniture veneer identification matching replacement service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Restorers describe matching veneer from stock or salvaged furniture and physical repairs.",
+      "commercial_judgement": "An identification suggestion cannot deliver the matching material or restoration; physical inventory/craft is the value.",
+      "evidence_urls": [
+        "https://www.traditionalrestoration.co.uk/services/veneering-and-veneer-repairs/",
+        "https://afternoah.com/page/restoration-workshop/veneering-inlay-marquetry",
+        "https://www.butlerandcastell.co.uk/antiquefurniturerestoration"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 659,
+      "lane": "U",
+      "seed": "tessera",
+      "job": "Small pools needing dependable dosing control",
+      "query": "UK small commercial swimming pool automated dosing controller price service",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Commercial pool providers supply calibrated dosing equipment and maintenance; a controller is listed near £3,587 ex VAT.",
+      "commercial_judgement": "Sensors, calibration, installation and chemical safety dominate; software-only founder fit fails.",
+      "evidence_urls": [
+        "https://www.thepoolpeople.co.uk/",
+        "https://www.watertechnics.co.uk/proddetail.php?prod=Bayrol-Pool-Compact-MK3-Dosing-Controller",
+        "https://www.nationalpoolcompany.co.uk/automatic-dosing-systems/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    },
+    {
+      "id": 660,
+      "lane": "U",
+      "seed": "rewind",
+      "job": "Independent woodcarvers needing CNC relief geometry from images",
+      "query": "UK photo to CNC relief carving 3D model service price",
+      "competitor_grade": "C2",
+      "verdict": "KILLED",
+      "source_observation": "Relief-modelling services quote from $30; Vectric documents image-to-component/toolpath workflows.",
+      "commercial_judgement": "Basic heightmap output is covered; attractive sculptural relief still needs artistic interpretation and machining QA.",
+      "evidence_urls": [
+        "https://digitalchiselco.com/custom-design",
+        "https://flintform.co.uk/design",
+        "https://luma-loft.com/photo-to-3d-relief-stl",
+        "https://docs.vectric.com/docs/V12.0/Aspire/ENU/Help/form/3d-toolpath-files/index.html",
+        "https://docs.vectric.com/docs/V12.5/Aspire/ENU/Help/form/import-vectors/"
+      ],
+      "evidence_limit": "Published offers/capabilities and named customer examples are not our buyer interviews or willingness-to-pay. All commercial conclusions are desk inferences."
+    }
+  ]
+}
