@@ -105,3 +105,15 @@
 - Real customer-access evidence exists through public DBA, AOP, CIPP/FCSA, ACE, IPG and Publishers Association routes, plus cinema, climbing-wall, trampoline-park, pottery, chocolatier, cheesemaker and literary-agent directories. Access did not repair ownership, recurrence, price or founder-fit failures.
 - Next decisive action: run the prepared claimant-side **CPO** buyer-validation outreach before attempts 401–500 or any build; direct evidence now has higher information value than more broad desk volume.
 - Full ledger: `research/2026-10-12-attempts-301-400-v3.1-commercial-decision.md`.
+
+
+## 2026-10-12 — V3.2 market-entry / sidecar amendment approved
+- Explicit user approval received to amend the working hunt hypothesis after 400 audited attempts produced no new survivor.
+- Rationale: the combined method preserved evidence quality but still risked treating near-whitespace as safer than entry into a proven market. A completely unpopulated niche is no longer treated as desirable or necessary.
+- New default assumption: customers will **not** buy a separate product merely because it performs one incumbent feature somewhat better. A complaint or missing feature remains weak evidence.
+- Admissible market entry now requires a complete recurring sidecar job: defined trigger, accessible inputs, bounded useful outcome, practical return path to the existing workflow, observed workaround/spend or switching, measurable value exceeding adoption friction, recurrence/volume, and a structural reason the incumbent does not own the result.
+- Competition may evidence a real category, budget and reachable buyers. It kills only when the same target buyer already receives the complete outcome at acceptable price/friction or other independent gates fail. Absence of rivals remains ambiguous.
+- The next default 100-attempt continuation uses **40 paid-coexistence cases / 30 system-boundary completions / 30 underserved-entry cases**. Named incumbent, integration, marketplace and coexistence terminology is allowed; generic product-category searching remains barred.
+- All other criteria remain: founder fit, evidence-supported economics, AI tests, C0–C4 grading, first-ten access, separate second kill, moat-narrowing prohibition, graveyard integrity, outreach/build thresholds and honest counting.
+- This amendment is sufficient to justify a materially different market-entry hunt; it does not promise survivors or relax the zero-result standard.
+- No new market research, outreach, candidate promotion or board change occurred in this amendment entry.
