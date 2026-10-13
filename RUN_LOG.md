@@ -274,3 +274,9 @@
 - Current board unchanged. #742 remains ANOMALY only; #694 and #756 remain INCOMPLETE; CPO remains OUTREACH-READY with six user-reported contacts and unknown outcomes. No candidate was promoted or revived.
 - No new counted discovery attempt, outreach, customer contact, spending, build or merge occurred. Draft PR #3 must remain draft.
 
+
+## 2026-10-13 — Buyer-side spend follow-up
+- Verified and committed research/2026-10-13-buyer-side-awards-checkpoint.md (CPS visual transcription, Oak National Academy dual-language captioning, FSA report design). Three exploratory buyer-side award probes, not certified 761-series attempts; no survivors.
+- Continued official-award search: British Library TIFF-to-JPEG2000/OCR conversion contract €34,815 excluding VAT (https://www.find-tender.service.gov.uk/Notice/040068-2025/PDF); Imperial War Museums digitisation framework reported £2.8m ex VAT (https://www.find-tender.service.gov.uk/Notice/014118-2025); British Museum DAMS procurement £2.125m estimated over up to ten years (https://www.find-tender.service.gov.uk/Notice/014516-2024). These are not comparable recurring standalone software payments: physical digitisation/collection custody, framework ceilings, or enterprise DAMS integration.
+- Counter-case: buyer-side spend confirms procurement, not software substitutability. Public institutional jobs skew toward complex procurement, liability, physical custody, bespoke integrations and incumbent lock-in. No buyer contact, build, spend, or merge.
+- Next: private-sector repeat paid digital completion with independently verifiable outputs, low exception burden and concrete ten-buyer access. Next numbered attempt remains 761; PR #3 draft.
