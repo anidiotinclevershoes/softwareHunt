@@ -37,12 +37,13 @@
       "D": "D1",
       "verification": "Structural and output checks where appropriate, but final user approval of taste or life story is the true oracle",
       "competitor": "https://www.canva.com/",
-      "C": "AI repeatedly creates schemes but furniture fit, stock and personal taste subjective",
-      "repeated_AI": "Template room boards and retailer configurators plentiful; consultant calls are paid premium",
-      "AI_built_entry": "UK decorator clients search, ten buyer-evidence cases missing",
-      "first_ten": "Price includes weekly consultation and taste, not a bounded machine-verifiable digital job",
-      "strongest_kill": "KILLED",
-      "verdict": "No new template generator"
+      "C": "C3",
+      "repeated_AI": "AI repeatedly creates schemes but furniture fit, stock and personal taste subjective",
+      "AI_built_entry": "Template room boards and retailer configurators plentiful; consultant calls are paid premium",
+      "first_ten": "UK decorator clients search, ten buyer-evidence cases missing",
+      "strongest_kill": "Price includes weekly consultation and taste, not a bounded machine-verifiable digital job",
+      "verdict": "KILLED",
+      "cheapest_falsification": "No new template generator"
     },
     {
       "id": 848,
@@ -57,12 +58,13 @@
       "D": "D2",
       "verification": "Structural and output checks where appropriate, but final user approval of taste or life story is the true oracle",
       "competitor": "https://www.storiedlife.co.uk/",
-      "C": "AI transcription and narrative editing already supplied; customer owns correction of memories",
-      "repeated_AI": "Same vendor already builds and sells software-only digital solution, no separate additional budget",
-      "AI_built_entry": "Family-history buyers, one-time and often sensitive privacy content",
-      "first_ten": "Existing £99 end-to-end alternative owns interview/edit/output; unsupported entrant capture",
-      "strongest_kill": "KILLED",
-      "verdict": "Need observed paid switching despite Chronicle-style all-in-one"
+      "C": "C4",
+      "repeated_AI": "AI transcription and narrative editing already supplied; customer owns correction of memories",
+      "AI_built_entry": "Same vendor already builds and sells software-only digital solution, no separate additional budget",
+      "first_ten": "Family-history buyers, one-time and often sensitive privacy content",
+      "strongest_kill": "Existing £99 end-to-end alternative owns interview/edit/output; unsupported entrant capture",
+      "verdict": "KILLED",
+      "cheapest_falsification": "Need observed paid switching despite Chronicle-style all-in-one"
     },
     {
       "id": 849,
