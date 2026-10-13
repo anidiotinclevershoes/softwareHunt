@@ -1,0 +1,13 @@
+{
+  "api_pages": 6,
+  "filtering_rules": "Fixed expert query: notice-type=cn-standard AND PD>=20260101. Read API pages in order until 300 unique publication numbers are kept or 20 pages are read. Require publication number N-YYYY, a non-blank title and a YYYY-MM-DD publication date. Title preference is English notice-title, then English procedure/lot title, then the lexicographically first available language. Canonical URL is the English HTML link. Drop malformed rows and exact duplicate notice ids. No subjective removal. Manifest sampling is a later beacon draw from this snapshot.",
+  "licence": "TED public procurement notices published by the Publications Office. Reuse with attribution under the Publications Office / Commission reuse policy. https://ted.europa.eu/",
+  "pool_file": "research/randomisation/pools/public_record/pool.jsonl",
+  "query": "notice-type=cn-standard AND PD>=20260101",
+  "raw_file_sha256": "96eeecea83f0583f1ddc29b7a7f517a9981d5a051e8e4152e79fd6e695cea521",
+  "retrieval_timestamp": "2026-10-13T21:07:45Z",
+  "row_count": 300,
+  "source_organisation": "Publications Office of the European Union, Tenders Electronic Daily",
+  "source_type": "public_record",
+  "source_url": "https://api.ted.europa.eu/v3/notices/search"
+}

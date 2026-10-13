@@ -1,0 +1,11 @@
+{
+  "filtering_rules": "Use dict/index.noun from the WordNet 3.1 database archive. Skip blank and header lines. Keep lines whose part of speech is n. Drop malformed lines and exact duplicate lemmas. Display value replaces underscores with spaces and collapses whitespace. No subjective removal.",
+  "licence": "WordNet 3.1 licence. Free to use with the attribution and licence terms distributed at https://wordnet.princeton.edu/license-and-commercial-use and in the database archive.",
+  "pool_file": "research/randomisation/pools/word/pool.jsonl",
+  "raw_file_sha256": "3f7d8be8ef6ecc7167d39b10d66954ec734280b5bdcd57f7d9eafe429d11c22a",
+  "retrieval_timestamp": "2026-10-13T21:05:03Z",
+  "row_count": 117953,
+  "source_organisation": "Princeton University WordNet",
+  "source_type": "word",
+  "source_url": "https://wordnetcode.princeton.edu/wn3.1.dict.tar.gz"
+}

@@ -17,6 +17,7 @@
 - The five closest-looking cases—industrial parts equivalence, handwritten music engraving, braille music, construction takeoff and SDS authoring—failed on direct incumbent automation plus specialist/physical/regulatory verification of the complete outcome.
 - Read `research/2026-10-13-attempts-861-960-commercial-decision.md`, `research/2026-10-13-attempts-861-960-ledger.md` and `research/evidence/2026-10-13-861-960-final-cases.json`.
 - Post-run live hunt board: **195 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; no new outreach/build-ready.** CPO remains separate and unchanged by this run.
+- **#961–#1060 is not a hunt result.** A frozen randomised manifest exists and every row is `UNRESEARCHED`. See section 13. Do not reroll it or start its searches without a later instruction.
 
 
 This is a long-running, standalone, **adversarial software opportunity hunt**. The founder has spent considerable effort on diverse niches, searches and validations. Its purpose is to find a **credible small standalone paid software business**, *not* to manufacture ideas or lower the commercial bar until something survives.
@@ -50,6 +51,7 @@ This is a long-running, standalone, **adversarial software opportunity hunt**. T
    - `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`
    - `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md`
    - `V3_6_CAPTURABLE_SPEND.md`
+   - `V3_7_RANDOMISED_DEMAND_RESIDUE.md`
    - `LEGACY_RESEARCH_LEDGER_2026-09-20.md`
    - `RUN_LOG.md`
    - this `NEW_CHAT_HANDOFF_2026-10-13.md`, plus any newer dated authority/handoff.
@@ -231,3 +233,15 @@ The user moved CPO investigation to a separate chat and instructed this thread t
 - Do not reopen #861–960 without new independent buyer-side transaction evidence that defeats the recorded kill.
 - If another run is explicitly ordered, use independently observable paid transactions/awards as seeds and work backward; do not begin with speculative pain or vendor copy.
 - No outreach, build, spend, deployment or merge was performed.
+
+## 13. Frozen randomised manifest #961–#1060 — 2026-10-13
+
+This section does not change the #861–#960 result or the live commercial board. The user ordered a randomisation manifest only.
+
+- #861–#960 remains complete at 100 kills.
+- #961–#1060 research has not started. Every manifest row is `UNRESEARCHED`.
+- The only new artifact is the frozen randomised demand-residue manifest, its pools, beacon record, generator and `V3_7_RANDOMISED_DEMAND_RESIDUE.md`.
+- Live commercial board unchanged: 195 KILLED, #761 ANOMALY, #762 / #779 / #825 BANKED, #843 INCOMPLETE; no new outreach-ready or build-ready result.
+- CPO is being handled separately and was not modified.
+- No outreach, product build, spending or merge occurred.
+- Beacon round 6549822. Do not reroll. Do not start the six-pair searches unless a later instruction orders that hunt. Read `V3_7_RANDOMISED_DEMAND_RESIDUE.md` and `research/randomisation/2026-10-13-demand-residue-manifest-961-1060-validation.md`.

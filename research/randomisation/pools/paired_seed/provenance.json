@@ -1,0 +1,20 @@
+{
+  "component_pool_row_counts": {
+    "commodity": 12583,
+    "historical_date": 28044,
+    "location": 6310,
+    "occupation": 3039,
+    "public_record": 300,
+    "wikipedia_page": 300,
+    "word": 117953
+  },
+  "filtering_rules": "paired_seed has no independent item list. Each paired cell draws two unused items from two different pools among the first seven types. Those items are consumed and cannot appear again. The component order is the first two types after a shuffle of the seven.",
+  "licence": "Inherits the licence of each component item.",
+  "pool_file": "",
+  "raw_file_sha256": "not-applicable",
+  "retrieval_timestamp": "2026-10-13T21:07:49Z",
+  "row_count": null,
+  "source_organisation": "Derived from the seven frozen source pools",
+  "source_type": "paired_seed",
+  "source_url": "derived:research/randomisation/pools"
+}

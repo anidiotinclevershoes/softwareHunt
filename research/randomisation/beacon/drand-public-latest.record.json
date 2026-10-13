@@ -1,0 +1,12 @@
+{
+  "beacon_url": "https://api.drand.sh/public/latest",
+  "previous_signature": "8cf0b21f5d01ac25a22b99e48f5ad239b48c20928a180ef7036025a19a5babecae5763adb324951aae531e0925d48332198421aa13fa53a66f063b7cb96eb7fff0782e3ca901221da377ad10eb9b223bccdc84b44902caa3f3b1c22430dfc667",
+  "randomness": "29c46ebee073e9e02e2a0094a39d0bd1ff50dba43a8f1ab723418675332fa992",
+  "response_sha256": "a07a4d99b3616e16314afd1d51a84a13690fe373235c475ded61899cf5112376",
+  "retrieval_timestamp": "2026-10-13T21:08:08Z",
+  "round": 6549822,
+  "round_response_sha256": "a07a4d99b3616e16314afd1d51a84a13690fe373235c475ded61899cf5112376",
+  "round_url": "https://api.drand.sh/public/6549822",
+  "signature": "9505bf773fcad4be7aed97858953b0920e090cff0968e25ef73eb8bf404929c71a425a995e403400492d3e418cbfbc651996f345c9a72bbb1a6a16b748ae22a7c1f2495312b9124c0d1e2cf8de9ea83b7ac4277432fe01885718972498538613",
+  "verification": "HTTPS GET of /public/latest matched HTTPS GET of /public/{round} on round, randomness and signature."
+}

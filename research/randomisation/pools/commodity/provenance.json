@@ -1,0 +1,13 @@
+{
+  "download_url": "http://publications.europa.eu/resource/cellar/c3c0d050-b5fa-11f0-b37f-01aa75ed71a1.0006.03/DOC_1",
+  "filtering_rules": "Parse the English XHTML of OJ L 2025/1926. Keep rows only from tables whose header contains CN code, Description, Conventional rate of duty and Supplementary unit. Keep 4, 6 and 8 digit codes. Collapse whitespace, strip numeric footnote markers and leading hierarchy dashes. Drop blank descriptions and exact duplicate codes. Value is the code, one space, then the cleaned description. No subjective removal.",
+  "legal_act": "Commission Implementing Regulation (EU) 2025/1926",
+  "licence": "Official Journal of the European Union, L series, 2025/1926, English. Commission Implementing Regulation (EU) 2025/1926. Public legal text. Reuse of Commission documents is subject to Commission Decision 2011/833/EU.",
+  "pool_file": "research/randomisation/pools/commodity/pool.jsonl",
+  "raw_file_sha256": "608fe2429fed1e9261f5a9d9870157cf48abe85ea0716aa06c97d5c4af4420fb",
+  "retrieval_timestamp": "2026-10-13T21:07:35Z",
+  "row_count": 12583,
+  "source_organisation": "Publications Office of the European Union / European Commission",
+  "source_type": "commodity",
+  "source_url": "http://publications.europa.eu/resource/oj/L_202501926.ENG.xhtml"
+}
