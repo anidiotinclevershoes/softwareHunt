@@ -404,3 +404,11 @@
 - The formal 100-case closeout remains **94/1/4/1 as an immutable run snapshot**. Post-closeout live board is now **95 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; zero new outreach/build-ready**. CPO remains existing OUTREACH-READY; six user-sent messages have unknown dates/outcomes and were not repeated.
 - No outreach, follow-up, reminders, sample solicitation, spending, prototype, product code, deployment, PR merge or #861+ attempt. Next value order: actual CPO replies; #761 permissioned finished-job benchmark if already obtainable; #825 real paid buyers only with separate authorisation; otherwise stop.
 
+## 2026-10-13 — Existing CPO contact-fit audit
+- Continued with the highest-value permissible evidence step: audited the six user-reported CPO addresses against current public sources. **12 targeted public searches**, plus source opens; no new formal discovery case and no outreach.
+- Added `validation/CPO_CONTACT_FIT_AUDIT_2026-10-13.md` and updated `validation/CPO_OUTREACH_TRACKER.md`.
+- Result: **three exact named/direct claimant-side CPO contacts** (Kevin McEnteggart; Jodie Pritchard/Baileys; Arran Dixon/DXN), **one exact-service firm through a generic mailbox** (Atchams), **one adjacent high-volume electrical-wayleave operator** (Darlands), and **one non-fit residential estate agent** (Whittaker & Co).
+- Whittaker's matching official domain is a Harpenden property-sales site and the Property Ombudsman lists Residential Sales; exclude it from the validation denominator and do not follow up. Darlands' 3–6 month inspection→review→submission→agreement→payment process is relevant adjacent land-rights evidence, not the same long-lived CPO test.
+- Therefore the outreach record is **four plausible exact probes + one adjacent + one mis-target**, not six homogeneous CPO probes. CPO status remains **OUTREACH-READY, not BUILD-READY**; buyer spend, current tools, delivery and replies remain unknown.
+- No new prospect list, email, follow-up, reminder, spend, build, deployment or merge. Next evidence remains actual send dates/delivery/replies for the four exact-fit targets; no silence is interpreted yet.
+

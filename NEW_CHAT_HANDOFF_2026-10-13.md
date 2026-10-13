@@ -199,3 +199,14 @@ This section supersedes only the **live disposition**, not the audited 100-case 
 - **#825 remains BANKED; further desk research is exhausted.** Only independently verifiable digital-only paid buyers can advance it.
 - **Most valuable next evidence remains actual CPO replies/dates/objections.** Do not resend or auto-follow up. No outreach, spend, build or merge was performed.
 
+## 11. CPO contact-fit correction — 2026-10-13
+
+Read `validation/CPO_CONTACT_FIT_AUDIT_2026-10-13.md` with the tracker. Public verification changed the interpretation of the six user-reported addresses, not the outreach status:
+
+- exact named/direct: McEnteggart, Baileys/Jodie, DXN/Arran;
+- exact advertised service via generic mailbox: Atchams;
+- adjacent electrical-wayleave operator: Darlands;
+- non-fit residential estate agent: Whittaker & Co — exclude and do not follow up.
+
+The effective record is **four plausible exact CPO probes, one adjacent probe and one mis-target**, with all send dates, delivery and replies still unknown. CPO remains OUTREACH-READY, not BUILD-READY. No replacement contact or message was created.
+

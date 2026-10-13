@@ -125,3 +125,9 @@ New direct-product and acceptance evidence gives #841 survey CSV→topographic C
 
 #761 remains an anomaly, but its only rational next test is a permissioned 10–20-job original-DWG + markup + accepted-revised-DWG benchmark with a pre-registered zero-unflagged-error gate. #825 remains banked and has exhausted useful desk evidence; only independently verifiable paid digital-only customers can advance it. Highest priority remains actual outcomes from the six existing user-sent CPO messages. No resend, outreach, spend, build, merge or formal #861+ run was performed.
 
+## CPO existing-contact fit audit — 2026-10-13 (newest CPO evidence)
+
+Public verification of the six already-contacted addresses found they are **not six equivalent claimant-side CPO probes**: three exact named/direct practitioners (McEnteggart, Baileys/Jodie, DXN/Arran), one exact-service firm through a generic inbox (Atchams), one adjacent claimant-side wayleave operator (Darlands), and one non-fit residential estate agent (Whittaker & Co). Detailed record: `validation/CPO_CONTACT_FIT_AUDIT_2026-10-13.md`; tracker updated.
+
+CPO remains **OUTREACH-READY, not BUILD-READY**. Send dates, delivery and replies remain unknown. Whittaker must be excluded from the denominator and not followed up; Darlands evidence must be labelled adjacent. No new contact, message, follow-up or replacement prospect was created.
+
