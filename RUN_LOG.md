@@ -303,3 +303,9 @@
 - User requested continuation aiming for five genuine survivors. Target is aspirational; no automatic promotion or relaxation of second-kill, founder-fit, market-entry and M/D evidence gates.
 - Committed research/2026-10-13-buyer-side-proof-search.md. Clutch buyer reviews identify UK data engineering (<$10k), London compensation data annotation ($10k–$49,999), UK document translation (<$10k), plus fintech invoice RPA and hotel document digitisation (unpriced). These are buyer-reported project bands, not verified invoices.
 - Most fail or remain incomplete: bespoke integrations, source/licensing and labor QA, AI translation competition, physical custody. No five survivors manufactured. Zero new survivors; next formal numbered attempt 761 remains. No outreach, build, spending or merge. PR #3 stays draft.
+
+## 2026-10-13 — Compliance / Deadline / Fine seed research
+- Committed research/2026-10-13-compliance-deadline-fine-seeds.md; eight official penalty/deadline artefacts plus six competitor/pricing follow-ups. These are exploratory probes, not certified numbered attempts 761 onward.
+- Official evidence: Irish CRO €100 + €3/day up to €1,200 and possible audit exemption effects; UK late private accounts £150–£1,500; RBO 14-day change obligation; sponsor worker-change 10-working-day reporting; waste-carrier renewal and packaging EPR penalty regimes.
+- Competitive check: CRO reminders already free; B1 filing service from €119+VAT; RBO filing service €150+VAT; UK sponsor compliance software £49–£399/month; packaging EPR software from £29/month. Supplier pricing is not buyer payment evidence. Generic reminders and reporting fail complete-job/competition tests; no new survivors.
+- Next: find buyer-side evidence of paid deadline-triggered full deliverables, not statutory fines mistaken for software spend. No outreach/build/merge/spend; PR #3 draft.
