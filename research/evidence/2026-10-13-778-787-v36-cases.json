@@ -44,13 +44,13 @@
       "D": "D2",
       "verification_oracle": "Compare point cloud/model deviation within job-specified tolerances; cannot automatically verify occluded dimensions/family semantics",
       "C": "C2",
-      "competitor_evidence": "https://skyscansurveys.co.uk/scan-to-bim/ ; https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Role-of-Autodesk-ReCap-in-scan-to-BIM-workflows.html",
-      "AI_repeated": "AI image segmentation improves starting geometry; human Revit model QA remains",
+      "competitor_evidence": "https://www.faro.com/en/Products/Software/As-BuiltTM-Software ; https://skyscansurveys.co.uk/scan-to-bim/",
+      "AI_repeated": "Point cloud AI can speed wall/pipe object extraction, but FARO's native Revit As-Built tools already do so; repeated dependable whole-model classification and quality still require specialist interpretation.",
       "AI_built": "AI-assisted geometry-to-Revit workflows exist; maintaining Revit/IFC accuracy and support costly",
-      "first_ten_access": "RICS surveyors and architect firms; no verified first ten with absent incumbent solution",
-      "second_kill": "No demonstrated unattended complete Revit model at professional accuracy, multiple mature service providers; too much manual QA",
+      "first_ten_access": "UK architectural/survey firms through RICS member listings; independent professional discussion https://www.reddit.com/r/Architects/comments/1c4240e reports one outsourced buyer and another who handles scans in-house, not ten named willing payers.",
+      "second_kill": "Authoritative FARO Revit integration already provides automated BIM extraction and constraint handling. Independent practitioners report inconsistent outsourcing demand and manual geometry interpretation; no evidence a small third-party fully autonomous model would be accepted.",
       "verdict": "BANKED LEAD",
-      "next_attack": "Independent sample dataset + acceptance diff; reject if required manual specialist review per project"
+      "next_attack": "Find authorised 3–5 point-cloud + accepted Revit/IFC pairs and original acceptance tolerance reports. If >20% need human model interpretation, reject on founder operation. No outreach/build authorization."
     },
     {
       "id": "780",
