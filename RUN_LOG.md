@@ -287,3 +287,9 @@
 - Notable prices: estate agency sales progression £400/file or £1,400/month, but human exception work dominates; digital signage £30 managed versus £25 self-service per screen, only £5 convenience delta; electrical O&M manual assembly is a research lead with no confirmed base fee.
 - Preserve prior PowerPoint-to-SCORM and accessible-document founder-fit kills. No new candidate promotion, outreach, build, spend or merge. PR #3 stays draft.
 - Next action: complete a certified batch of 20 with distinct payer/trigger/outcome and full economic/competitive/AI/feasibility checks, commit ledger and report.
+
+## 2026-10-13 — Construction/property money trail and O&M second kill
+- Committed research/2026-10-13-construction-property-followup.md. Eight exploratory adjacent probes and one adversarial O&M competitor pass, none certified as 761-series attempts.
+- Project-OM published discounted £198/£348/from £498 service tiers, but OM Manuals already offers software at £249/month and Liaison Systems offers construction handover software. Generic O&M generator KILLED for no evidenced selection wedge or complete done-for-you delivery. Vendor offers M2, not confirmed buyer spend.
+- RAMS document software exists at £10/report or £25/month from SmartRAMS; HandsHQ from £52.80/month including VAT. Generic RAMS generation directional kill. Other adjacent paid services entail specialist signoff, fieldwork, approval chasing, or missing price evidence.
+- Zero promotions; next certified attempt remains 761. Further discovery must diversify beyond construction/property and prioritise buyer-side payments. No outreach, build, spending or merge. Draft PR #3 remains draft.
