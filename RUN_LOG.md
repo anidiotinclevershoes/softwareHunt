@@ -309,3 +309,8 @@
 - Official evidence: Irish CRO €100 + €3/day up to €1,200 and possible audit exemption effects; UK late private accounts £150–£1,500; RBO 14-day change obligation; sponsor worker-change 10-working-day reporting; waste-carrier renewal and packaging EPR penalty regimes.
 - Competitive check: CRO reminders already free; B1 filing service from €119+VAT; RBO filing service €150+VAT; UK sponsor compliance software £49–£399/month; packaging EPR software from £29/month. Supplier pricing is not buyer payment evidence. Generic reminders and reporting fail complete-job/competition tests; no new survivors.
 - Next: find buyer-side evidence of paid deadline-triggered full deliverables, not statutory fines mistaken for software spend. No outreach/build/merge/spend; PR #3 draft.
+
+## 2026-10-13 — Verified statutory payments and CRO rejection second-kill
+- Committed research/2026-10-13-actual-penalties-and-cro-rejections.md. CRO 2025 report: 15,163 companies actually paid late filing fees, average €572.54, approximately €8.7m total; 1,422 court extension application notices. UK Companies House 2024–25: 317,985 penalties issued, 47,673 appeals (issued does not mean paid).
+- CRO official filing guidance documents immediate B1 rejection for missing signatures or financial statements and 14-day correction conditions for some other defects. This suggests a narrower pre-submission completeness/receipt assurance anomaly, not proven product demand. Free reminders, existing filing agents and integrated compliance products weaken entry; financial statements and filing authorization remain human-dependent.
+- No survivor; narrow anomaly only. Exploratory follow-ups, not numbered attempts 761+. No outreach/build/spend/merge; PR #3 draft.
