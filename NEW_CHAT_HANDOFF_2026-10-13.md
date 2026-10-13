@@ -245,3 +245,12 @@ This section does not change the #861–#960 result or the live commercial board
 - CPO is being handled separately and was not modified.
 - No outreach, product build, spending or merge occurred.
 - Beacon round 6549822. Do not reroll. Do not start the six-pair searches unless a later instruction orders that hunt. Read `V3_7_RANDOMISED_DEMAND_RESIDUE.md` and `research/randomisation/2026-10-13-demand-residue-manifest-961-1060-validation.md`.
+
+
+## Randomised demand-residue hunt #961–#1060 completed — 2026-10-13
+
+The user explicitly ordered execution of the frozen V3.7 manifest. All 100 rows were researched without rerolls: six literal pairings per row, 600 searches total. **All 100 were KILLED at the two-route demand-convergence gate.** Counts: 22 no qualifying residue, 43 partial/noisy returns without convergence, 35 returns in both batches but only coincidental/reference/isolated material. No row advanced to buyer/spend/complete-outcome/competitor/AI gates because none established multiple independent seekers of the same unresolved job.
+
+Records: `research/2026-10-13-demand-residue-attempts-961-1060-commercial-decision.md`, `research/2026-10-13-demand-residue-attempts-961-1060-ledger.md`, and `research/evidence/2026-10-13-demand-residue-961-1060.json`. The frozen manifest remains unchanged as the draw artifact; its `UNRESEARCHED` values describe creation state, not the current verdict.
+
+Live hunt board: **295 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; zero new outreach-ready or build-ready.** CPO was not modified. No outreach, build, spend or merge occurred. Do not reopen #961–#1060 without new independent buyer-side transaction evidence. The next commercially useful discovery should start from observable payments/awards for repeatable digital deliverables, not another speculative or random niche list.

@@ -433,3 +433,14 @@
 - Validation passed: 100 rows, ids #961–#1060, four distinct types per row, each type 50 times, unique underlying items, paired components from different types, required provenance, all statuses `UNRESEARCHED`, no product/verdict/research-result fields, JSON/CSV/Markdown agreement, sidecar hashes, and byte-identical regeneration. Readback: `research/randomisation/2026-10-13-demand-residue-manifest-961-1060-validation.md`.
 - Board unchanged: #861–#960 remains 100 kills; live hunt board remains 195 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; CPO remains separately OUTREACH-READY. No outreach, product build, spending or merge.
 - Next decisive action, only if a later instruction orders the hunt: execute the V3.7 six-literal-pairing protocol on the frozen rows. Do not reroll. Do not start that research from this entry.
+
+
+## 2026-10-13 — V3.7 randomised demand-residue hunt #961–#1060
+
+- User returned the validated frozen manifest and ordered the hunt to continue. No reroll, seed replacement or attractive reinterpretation occurred.
+- Issued all six literal pair routes for each of 100 rows: **600 public-web searches**. Native public search was used; no Exa credits were consumed.
+- Result: **100 KILLED at the two-route convergence gate**: 22 no qualifying residue; 43 partial/noisy returns with no convergence; 35 results in both batches but only coincidental/reference/isolated material.
+- No row established multiple independent people or organisations seeking substantially the same unresolved complete software outcome. Therefore no row advanced to buyer/spend, competitor, repeated-AI, AI-built-entry, recurrence or first-ten gates.
+- Added the commercial decision, compact ledger and full query/source evidence JSON. The frozen manifest remains unchanged as an immutable draw artifact.
+- Live hunt board becomes **295 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; zero new outreach/build-ready**. CPO remains separate and unchanged.
+- No outreach, build, spending, deployment or merge. Next useful discovery should begin with independently verifiable payments/awards for repeatable digital delivery, not another speculative niche list.
