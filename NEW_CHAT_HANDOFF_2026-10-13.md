@@ -188,3 +188,14 @@ The 100-case process did improve research quality. It did **not** produce a comp
 ---
 
 **Handoff integrity:** Derived from the actual GitHub files on the research branch inspected 2026-10-13 and their current documented verdicts. Numbers and sources are not independent new commercial verification. All source links and the complete row-by-row evidence remain in the repository.
+
+## 10. Post-handoff live update — 2026-10-13
+
+This section supersedes only the **live disposition**, not the audited 100-case closeout count above. A bounded follow-up is in `research/2026-10-13-post-closeout-commercial-validation-priorities.md`; no #861 was created.
+
+- **#841 is now KILLED for standalone entry** after a second-kill: documented Civil 3D automation plus a £79/month UK direct-product offer price-compress the deterministic CSV→CAD slice, while industry guidance and current services retain project-specific survey judgement and professional QA. Its original BANKED row and the historical closeout count remain unchanged for audit.
+- **Live #761–860 board:** 95 KILLED, 1 ANOMALY #761, 3 BANKED #762/#779/#825, 1 INCOMPLETE #843, zero new OUTREACH-READY/BUILD-READY.
+- **#761 remains ANOMALY only.** Public examples do not provide a matched original DWG + real markup + accepted revised DWG set. Test only if 10–20 permissioned completed-job triples are already available; otherwise park it.
+- **#825 remains BANKED; further desk research is exhausted.** Only independently verifiable digital-only paid buyers can advance it.
+- **Most valuable next evidence remains actual CPO replies/dates/objections.** Do not resend or auto-follow up. No outreach, spend, build or merge was performed.
+
