@@ -1,0 +1,25 @@
+# 2026-10-13 | CRO B1 accepted-filing assurance — adversarial technical closeout
+
+**Status:** Existing ANOMALY kept; do not promote to DESK-VALIDATION or OUTREACH-READY. Not a new 761+ economic attempt. This is a deeper second-kill of the specific preflight/status monitoring concept.
+
+## Economic fact versus buyable job
+- CRO 2025 annual report https://cro.ie/wp-content/uploads/2026/07/CRO-Annual-Report-2025-Final-19-June.pdf previously documented 15,163 companies paying late fees, aggregate circa €8.7m, average €572.54. These are **paid statutory fees, not SaaS demand**, and contain no breakdown by filing defect.
+- Official 56-day complete filing including B1, uploaded financial statements, signature page and payment: https://cro.ie/annual-return/filing-electronically/ .
+- CRO's page on B1 errors https://cro.ie/annual-return/filing-an-annual-return/common-errors/common-errors-form-b1/ says CORE now sends **email** when filing is sent back. Therefore a stand-alone email/status watcher duplicates a notification already owned by the source system. A successful submission also depends on company officer actions and attachments that outsiders cannot guarantee.
+- The CRO describes 2026 B1 filing pressure: over 52,000 companies with 30 September ARD and 25 November due date https://cro.ie/annual-return/filing-an-annual-return/peak-filing/ . This is concentrated risk and a potentially reachable market segment, not observed incremental spend. CORE itself warns on discrepancies, and user must monitor presenter emails/spam.
+
+## New technical fact (important)
+- Official submission detail endpoint schema https://services.cro.ie/cws/help/operations/submission and company-submissions search https://services.cro.ie/cws/help/operations/submissionsForCompany/ expose sub_status_desc, sub_received_date, sub_type_desc, doc_type_desc, accounting year and document count **after the record is accessible**. Example responses contain placeholder 'String content' and **do not prove** live status enumerations, freshness, whether a bounced B1 is returned in the feed or whether status distinguishes receipt from full compliance.
+- Official identity requirement page https://cro.ie/services-and-help/core/core-help/form-b1-identity-requirements/ confirms some B1s are returned instantly when name, birth date, PPSN or IPN/RBO information does not match government records; submissions may remain on hold. Independent software **cannot access DSP matching oracle** and must not attempt to obtain personal identifiers. It can give a checklist but cannot guarantee acceptance.
+- The official 14-day sendback correction rule has exceptions: unsigned/one-signature forms and missing financial statements automatically rejected. https://cro.ie/annual-return/filing-an-annual-return/ . No official rejection **rate by reason** identified. The public API alone cannot pre-validate signatures, account correctness or identity match.
+
+## Commercial and verification gates
+- M4 aggregate penalties but M0 for purchase of independent monitoring specifically. C4 for CORE self-checking/email notifications; C2 alternative bundled company-secretarial agents. D2 for read-only public metadata and schema, **D0 for verified prevention oracle**. No live authorized API key used; no measured status latency or specific rejection-state samples.
+- Buyer would be accountant / company secretarial practice managing many companies, not a low-value one-company reminder. Existing practice already files and receives notifications; separate monitoring incurs setup and liability. First-ten possible via Companies Registration Office filing agents / directories, but **no independently documented customer failure or selection advantage**.
+- Repeated general-purpose AI can parse public help and remind a human, but cannot obtain government ID oracle or certify filing acceptance. An AI-built app can poll official statuses, but CORE and mail already supply the core alert. Both AI substitution and AI build fail the defensibility criterion.
+- Strongest second kill: value captured by **filing acceptance**, while this product can only monitor secondary metadata and notify humans. It does not own the complete protected outcome or reliably prevent late fees. An incident missed by the monitor would create disproportionate trust/support burden for solo founder.
+
+## Decision
+**ANOMALY / PARK for buyer evidence only**, not a recurring desk-research lane. Do not build or seek API access until at least three filing agents describe measurable uncaught rejected/held B1s, describe why CORE/email is inadequate, and volunteer willingness to pay for an independent external exception checker. No outreach conducted. Exact cheap falsification question (for future authorised use): 'In the last 12 months, has a B1 been sent back or placed on hold without your existing CORE alerts / practice checks catching it in time, and what did that incident actually cost you?' 
+
+No outreach, API registration, spending, build, or branch merge performed.
