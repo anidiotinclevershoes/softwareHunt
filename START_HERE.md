@@ -1,6 +1,9 @@
 # Software Opportunity Hunt — V3 Persistent Authority
 Version: 2026-10-13 | Status: active V3 operating contract with approved V3.1, V3.2, V3.3, V3.4, V3.5 and V3.6 amendments
 
+## New-chat handoff (newest checkpoint — 2026-10-13)
+The complete GitHub handoff is **[`NEW_CHAT_HANDOFF_2026-10-13.md`](NEW_CHAT_HANDOFF_2026-10-13.md)**. Read it before resuming in a new conversation, then re-establish all the live authority files below. It consolidates exact current candidate states, the completed V3.6 #761–860 hundred-case audit, six CPO user-sent contacts, graveyard constraints, research-file map and executable restart instructions. **100/100 distinct attempts; 94 killed, 1 anomaly, 4 banked, 1 incomplete; zero new outreach-ready/build-ready**. Research remains on the active branch/draft PR #3 and should not be merged, built or used for outreach without a further user instruction. Intermediate older board snapshots below are historical; the final numbered checkpoint takes precedence.
+
 ## Start-of-run rule
 Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md`, `V3_6_CAPTURABLE_SPEND.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
 
