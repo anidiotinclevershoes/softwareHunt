@@ -77,3 +77,11 @@ At end of each substantive research batch append a dated entry to `RUN_LOG.md` a
 ## Approved next run — V3.5 attempts 761–860
 
 The user authorised a new-chat continuation emphasising people and companies already paying substantial amounts for convenience. Run 100 materially distinct money-first cases numbered 761–860 using the V3.5 40/30/30 composition. First prove spend, payer and trigger; then isolate the convenience and test whether a small product can complete it. Preserve all prior verdicts and complete GitHub persistence/readback. This authorises research only: no outreach, spending, production build or merge.
+
+## Current V3.6 execution checkpoint — 2026-10-13 (newest; supersedes the older future-tense 761 notice above)
+
+The approved V3.6 capturable-spend amendment is `V3_6_CAPTURABLE_SPEND.md`. The user ordered its GitHub update and execution. `AGENTS.md` and `HUNT_AGENT_PROMPT.md` now require an **S0–S4 spend-capture grade** in addition to M/C/D. Individual service prices are not evidence of sales for the entrant. Maintain existing CPO/legacy status and no outreach/build without separate authorization.
+
+Formal attempt run **761–777** is now recorded in `research/evidence/2026-10-13-761-777-v36-capturable-spend.json`, report `research/2026-10-13-v36-capturable-spend-deep-761-777.md`. **17 audited distinct cases**: 10 company paid, 5 personal premium, 2 differential; **15 killed, one ANOMALY** (#761 recurring subcontracted DWG as-built changes; full reliable unattended job unverified) and **one BANKED LEAD** (#762 continued ROBUS catalogue-page outsourcing despite automated PIM; no independently purchasable entrant wedge). Zero newly outreach-ready/build-ready. M4 FCA procurement proof shows independent spend but no founder-accessible entry. No customer outreach or build.
+
+**Next unused formal attempt ID = 778**. The authorized 100-case batch 761–860 is **17/100**, with **83 still required**: 30 company-paid, 25 individual/prosumer and 28 differential; retain >=60 cases outside regulation/reconciliation/standards conversion. This statement is current and takes precedence over historical lines above describing 761 as future work. The existing 15/20 deep-batch preference still applies as execution chunks, not a replacement for the 100 authorization.
