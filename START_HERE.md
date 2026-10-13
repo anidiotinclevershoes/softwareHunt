@@ -1,8 +1,8 @@
 # Software Opportunity Hunt — V3 Persistent Authority
-Version: 2026-10-13 | Status: active V3 operating contract with approved V3.1, V3.2, V3.3, V3.4 and V3.5 amendments
+Version: 2026-10-13 | Status: active V3 operating contract with approved V3.1, V3.2, V3.3, V3.4, V3.5 and V3.6 amendments
 
 ## Start-of-run rule
-Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
+Read this file, `HUNT_AGENT_PROMPT.md`, `V3_1_SURVIVOR_DISCOVERY.md`, `V3_2_MARKET_ENTRY_SIDECAR.md`, `V3_3_DESK_TO_OUTREACH.md`, `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md`, `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md`, `V3_6_CAPTURABLE_SPEND.md`, and `LEGACY_RESEARCH_LEDGER_2026-09-20.md` before each substantive hunt, validation, or handoff. If only one file can be carried forward, carry `HUNT_AGENT_PROMPT.md` and this file's board/status notes. This package is the reference source, not an assurance of automatic cross-chat memory. Attach it to the project / new conversation and instruct the agent to read it. Update the board and evidence after each substantive run; never silently rewrite historical verdicts.
 
 ## Authority precedence
 1. User's latest explicit decisions and constraints.
@@ -34,6 +34,9 @@ The user approved `V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md` on 2026-10-12. 
 
 ## V3.5 follow-the-money / convenience amendment
 The user approved `V3_5_FOLLOW_THE_MONEY_CONVENIENCE.md` on 2026-10-13. New discovery begins with observed meaningful spending by an individual or company, then isolates the convenience being purchased and tests whether software can deliver that complete result. Record M0–M4 spend evidence and separate convenience from expertise, trust, accountability, physical work, relationships, licensing and status. For attempts 761–860 use 40 company-paid delegation, 30 individual/prosumer premium-convenience and 30 explicit premium-differential cases; at least 60 must be outside regulation, compliance, accounting reconciliation and standards-file conversion. This changes discovery order and mix only. All commercial, complete-result, sidecar, AI, documentation, outreach, founder-operation and build gates remain active.
+
+## V3.6 capturable-spend amendment
+The user approved the shift on 2026-10-13 from evidence that someone spends money to evidence that **this founder could capture a separately purchased completed digital outcome**. `V3_6_CAPTURABLE_SPEND.md` is active in this research branch: after M0–M4 spend, apply S0–S4 spend-capture evidence, preferring independently paid digital execution, existing paid coexistence and buyer-side selection evidence. Vendor fees alone do not prove a new separate purchase. Keep 5 seed streams and bounded 15–20 deep cases; retain the authorised 761–860 40/30/30 formal batch, without counting exploratory probes as certified attempts. V3–V3.5 and all old kills remain binding.
 
 ## Promotion discipline
 Statuses: ANOMALY; BANKED; DESK-VALIDATION; OUTREACH-READY; BUILD-READY; KILLED. Only BUILD-READY after direct buyer evidence of pain and willingness to pay / credible purchase commitment, with deliverability shown. 'No qualified result' is valid. Theoretical pricing and market sizes are not evidence. Do not recommend founder effort merely because 100 searches were performed.
