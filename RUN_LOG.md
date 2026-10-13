@@ -412,3 +412,13 @@
 - Therefore the outreach record is **four plausible exact probes + one adjacent + one mis-target**, not six homogeneous CPO probes. CPO status remains **OUTREACH-READY, not BUILD-READY**; buyer spend, current tools, delivery and replies remain unknown.
 - No new prospect list, email, follow-up, reminder, spend, build, deployment or merge. Next evidence remains actual send dates/delivery/replies for the four exact-fit targets; no silence is interpreted yet.
 
+
+
+## 2026-10-13 — V3.6 money-first continuation #861–960
+- User separated CPO investigation into another chat and instructed this thread to hunt for further options. Re-established branch authority and used native public web search after Exa credits and the separate Parallel allowance were unavailable.
+- Completed **100 distinct cases**: 40 company-paid delegation, 30 prosumer convenience and 30 priority/deadline jobs. Full-history collision audit excluded and replaced **32 provisional duplicates** before final numbering.
+- Result: **100 KILLED; 0 anomaly; 0 banked; 0 incomplete; 0 outreach-ready; 0 build-ready.** This is a completed negative commercial run, not a stalled/evidence-outage run.
+- Closest second-kill cases: #885 industrial parts equivalence, #903 handwritten music engraving, #926 braille music transcription, #947 construction quantity takeoff and #957 SDS authoring. Each had real or plausible spend, but direct incumbent products plus specialist/physical/regulatory acceptance prevented a complete founder-operable software outcome.
+- Added `research/2026-10-13-attempts-861-960-commercial-decision.md`, `research/2026-10-13-attempts-861-960-ledger.md`, and `research/evidence/2026-10-13-861-960-final-cases.json`.
+- Live hunt board becomes **195 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; zero new outreach/build-ready**. CPO status remains separately OUTREACH-READY and was not changed here.
+- No outreach, follow-up, spend, build, deployment or merge. Next hunt should start from independently observable transactions/awards and work backward to the deliverable, only if explicitly requested.

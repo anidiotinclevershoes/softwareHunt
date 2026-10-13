@@ -10,9 +10,18 @@
 
 ## 1. Executive handoff — current commercial truth
 
+### Newest hunt continuation: #861–960
+- **100 genuinely distinct money-first attempts completed:** 40 company-paid, 30 prosumer, 30 priority/deadline.
+- **100 KILLED; zero anomaly, banked, incomplete, outreach-ready or build-ready.** This was a completed negative decision run, not an evidence outage.
+- Full-history collision checking rejected and replaced **32 provisional duplicates**; no old kill was resurrected.
+- The five closest-looking cases—industrial parts equivalence, handwritten music engraving, braille music, construction takeoff and SDS authoring—failed on direct incumbent automation plus specialist/physical/regulatory verification of the complete outcome.
+- Read `research/2026-10-13-attempts-861-960-commercial-decision.md`, `research/2026-10-13-attempts-861-960-ledger.md` and `research/evidence/2026-10-13-861-960-final-cases.json`.
+- Post-run live hunt board: **195 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; no new outreach/build-ready.** CPO remains separate and unchanged by this run.
+
+
 This is a long-running, standalone, **adversarial software opportunity hunt**. The founder has spent considerable effort on diverse niches, searches and validations. Its purpose is to find a **credible small standalone paid software business**, *not* to manufacture ideas or lower the commercial bar until something survives.
 
-**Latest completed formally numbered V3.5/V3.6 hundred-case run: #761–860.**
+**Previous immutable formally numbered V3.5/V3.6 hundred-case run: #761–860.**
 - **100 genuinely distinct numbered payer + purchase-trigger + bought-outcome attempts investigated** across 11 JSON manifests. **99 have resolved verdicts; one has inadequate priced-demand evidence.**
 - **94 KILLED; 1 ANOMALY (#761 outsourced CAD as-built revisions); 4 BANKED LEADS (#762 production catalogues, #779 point-cloud-to-BIM, #825 household digital-photo organisation, #841 survey-point-to-topographic CAD); 1 INCOMPLETE (#843 Irish restaurant professional menu/allergen analysis).**
 - **0 new OUTREACH-READY; 0 new BUILD-READY; 0 paid pilots, direct entrant purchase commitments or verified S4 signals.** This is not 100 proven customer purchases.
@@ -210,3 +219,15 @@ Read `validation/CPO_CONTACT_FIT_AUDIT_2026-10-13.md` with the tracker. Public v
 
 The effective record is **four plausible exact CPO probes, one adjacent probe and one mis-target**, with all send dates, delivery and replies still unknown. CPO remains OUTREACH-READY, not BUILD-READY. No replacement contact or message was created.
 
+
+
+## 12. Hunt-only continuation #861–960 — 2026-10-13
+
+The user moved CPO investigation to a separate chat and instructed this thread to hunt for more options. Native public web search was used after Exa credits and the separate Parallel allowance were unavailable; this did not consume Exa credits.
+
+- 100 final distinct cases; 32 provisional historical collisions excluded/replaced.
+- Honest result: **100 KILLED, no survivor state**.
+- Strongest repeated lesson: the available spend usually bought accountable expert judgment, physical/system acceptance or an incumbent end-to-end workflow. The digitally deterministic residue was already cheap/free/directly automated.
+- Do not reopen #861–960 without new independent buyer-side transaction evidence that defeats the recorded kill.
+- If another run is explicitly ordered, use independently observable paid transactions/awards as seeds and work backward; do not begin with speculative pain or vendor copy.
+- No outreach, build, spend, deployment or merge was performed.
