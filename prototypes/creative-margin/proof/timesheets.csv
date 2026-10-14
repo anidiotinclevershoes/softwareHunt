@@ -1,0 +1,41 @@
+entry_id,project_id,rate_code,hours,entry_note
+T001A,P001,DES,90,Project delivery
+T001B,P001,PM,18,Coordination
+T002A,P002,STR,155,Project delivery
+T002B,P002,PM,26,Coordination
+T003A,P003,DEV,120,Project delivery
+T003B,P003,PM,22,Coordination
+T004A,P004,PM,70,Project delivery
+T004B,P004,PM,12,Coordination
+T005A,P005,JR,62,Project delivery
+T005B,P005,PM,10,Coordination
+T006A,P006,DES,105,Project delivery
+T006B,P006,EXT,18,Rate unresolved
+T007A,P007,STR,170,Project delivery
+T007B,P007,PM,26,Coordination
+T008A,P008,DEV,135,Project delivery
+T008B,P008,PM,22,Coordination
+T009A,P009,PM,85,Project delivery
+T009B,P009,PM,12,Coordination
+T010A,P010,JR,77,Project delivery
+T010B,P010,PM,10,Coordination
+T011A,P011,DES,120,Project delivery
+T011B,P011,PM,18,Coordination
+T012A,P012,STR,185,Project delivery
+T012B,P012,PM,26,Coordination
+T013A,P013,DEV,150,Project delivery
+T013B,P013,PM,22,Coordination
+T014A,P014,PM,100,Project delivery
+T014B,P014,PM,12,Coordination
+T015A,P015,JR,92,Project delivery
+T015B,P015,PM,10,Coordination
+T016A,P016,DES,135,Project delivery
+T016B,P016,PM,18,Coordination
+T017A,P017,STR,,Hours missing
+T017B,P017,PM,26,Coordination
+T018A,P018,DEV,165,Project delivery
+T018B,P018,PM,22,Coordination
+T019A,P019,PM,115,Project delivery
+T019B,P019,PM,12,Coordination
+T020A,P020,JR,107,Project delivery
+T020B,P020,PM,10,Coordination
