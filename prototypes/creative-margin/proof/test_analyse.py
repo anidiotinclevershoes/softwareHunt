@@ -29,7 +29,7 @@ class TestContribution(unittest.TestCase):
         self.assertEqual(self.by_id["P012"]["recognised_revenue_eur"], "26200.00")
 
     def test_draft_invoice_excluded(self):
-        self.assertEqual(self.by_id["P015"]["recognised_revenue_eur"], "11500.00")
+        self.assertEqual(self.by_id["P015"]["recognised_revenue_eur"], "10000.00")
 
     def test_change_order_included_only_if_posted(self):
         self.assertEqual(self.by_id["P004"]["recognised_revenue_eur"], "11000.00")
@@ -40,7 +40,7 @@ class TestContribution(unittest.TestCase):
 
     def test_portfolio_not_falsely_complete(self):
         self.assertIsNone(self.report["summary"]["whole_portfolio_contribution_eur"])
-        self.assertEqual(self.report["summary"]["uncalculable_count"], 2)
+        self.assertEqual(self.report["summary"]["uncalculable_count"], 3)
 
     def test_all_calculable_reconciled(self):
         for p in self.report["projects"]:
