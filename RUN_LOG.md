@@ -444,3 +444,11 @@
 - Added the commercial decision, compact ledger and full query/source evidence JSON. The frozen manifest remains unchanged as an immutable draw artifact.
 - Live hunt board becomes **295 KILLED, #761 ANOMALY, #762/#779/#825 BANKED, #843 INCOMPLETE; zero new outreach/build-ready**. CPO remains separate and unchanged.
 - No outreach, build, spending, deployment or merge. Next useful discovery should begin with independently verifiable payments/awards for repeatable digital delivery, not another speculative niche list.
+
+
+### 2026-10-14 — cashflow-first bounded commercial scan (partial)
+- New founder objective: eventual €5k MRR, first payment speed, founder-operable product. Existing V3–V3.7 gates remain in force; 40/40/20 weighting proposed only.
+- Research files: `research/2026-10-14-cashflow-first-initial-commercial-probe.md` and `research/2026-10-14-cashflow-first-continuation-scan.md`.
+- Checked paid-market price/capability evidence for vertical business operations, website care, club payments and tutoring. The continuation scan contains 12 market/job rows, including repeated earlier observations and overlapping outcomes; **not** certified as 12 new deep distinct attempts or completion of the requested 20–30.
+- No S3/S4 entrant-specific evidence, named first-ten matching prospects, customer conversations, or new outreach/build-ready survivors. No changes to existing board, CPO outreach, or frozen #961–#1060 manifest.
+- Working branch only; no main changes or PR merge.
