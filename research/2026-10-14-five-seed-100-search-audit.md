@@ -1,0 +1,110 @@
+# Five-seed 100 search-pass audit, 14 October 2026
+
+100 economic-artifact web queries were submitted across thematic batches, with 20 each allocated to wet, meteor, star, escalate, and breed. Search results blended across queries, so evidence is not verified for each individual job. **This is a preliminary search pass, NOT 100 complete validations.**
+
+Confirmed research strands: UK CCTV drain survey report £200–£350 (https://www.checkatrade.com/blog/cost-guides/cctv-drain-survey-cost/); ACAS tipping records (https://www.acas.org.uk/tips-and-service-charges/policies-and-records/) and TiPJAR £65–£165 per month (https://www.wearetipjar.com/tipjar-pricing/); Chargeflow chargeback recovery 25% of recovered amount (https://www.chargeflow.io/pricing); FOS complaints deadlines (https://www.financial-ombudsman.org.uk/businesses/resolving-complaint/time-limits-businesses); UK farm-saved-seed royalty collection (https://www.gov.uk/guidance/farm-saved-seed); Astronomy Ireland €50–€110 membership (https://astronomy.ie/product/subscribe-join/).
+
+No buyer interviews, first-ten proof, or new outreach/build-ready case. Existing kills and frozen V3.7 #961–#1060 unmodified.
+
+## Attempt index (not findings)
+
+- 001 wet: damp survey evidence packs — individual commercial result unverified
+- 002 wet: flood remediation insurer photos — individual commercial result unverified
+- 003 wet: water ingress contractor callbacks — individual commercial result unverified
+- 004 wet: wet hire plant off-hire tracking — individual commercial result unverified
+- 005 wet: laundry service lost items — individual commercial result unverified
+- 006 wet: commercial kitchen grease collection — individual commercial result unverified
+- 007 wet: roof leak warranty claim — individual commercial result unverified
+- 008 wet: water sampling chain of custody — individual commercial result unverified
+- 009 wet: pool maintenance client logs — individual commercial result unverified
+- 010 wet: waterproofing guarantee register — individual commercial result unverified
+- 011 wet: boat bilge pump servicing — individual commercial result unverified
+- 012 wet: mould landlord tenant evidence — individual commercial result unverified
+- 013 wet: drain blockage CCTV report — individual commercial result unverified
+- 014 wet: wet concrete curing records — individual commercial result unverified
+- 015 wet: car wash fleet accounts — individual commercial result unverified
+- 016 wet: commercial carpet cleaning quotes — individual commercial result unverified
+- 017 wet: marina berth electricity reconciliation — individual commercial result unverified
+- 018 wet: wet room installation handover — individual commercial result unverified
+- 019 wet: fire sprinkler test records — individual commercial result unverified
+- 020 wet: water tanker delivery tickets — individual commercial result unverified
+- 021 meteor: meteorite specimen provenance — individual commercial result unverified
+- 022 meteor: astronomy observatory reservations — individual commercial result unverified
+- 023 meteor: meteor shower event tickets — individual commercial result unverified
+- 024 meteor: satellite imagery request fulfilment — individual commercial result unverified
+- 025 meteor: space education workshop bookings — individual commercial result unverified
+- 026 meteor: planetarium school visit administration — individual commercial result unverified
+- 027 meteor: astronomy equipment rental — individual commercial result unverified
+- 028 meteor: observatory weather cancellation — individual commercial result unverified
+- 029 meteor: meteorological instrument calibration — individual commercial result unverified
+- 030 meteor: weather station data licensing — individual commercial result unverified
+- 031 meteor: storm damage adjuster intake — individual commercial result unverified
+- 032 meteor: space memorabilia consignment — individual commercial result unverified
+- 033 meteor: astrophotography print fulfilment — individual commercial result unverified
+- 034 meteor: telescope repair job cards — individual commercial result unverified
+- 035 meteor: amateur astronomy club subscriptions — individual commercial result unverified
+- 036 meteor: meteorite dealer authenticity certificate — individual commercial result unverified
+- 037 meteor: dark-sky tourism guest scheduling — individual commercial result unverified
+- 038 meteor: scientific sample transport log — individual commercial result unverified
+- 039 meteor: geospatial imagery licensing quotes — individual commercial result unverified
+- 040 meteor: space exhibit loan agreements — individual commercial result unverified
+- 041 star: hotel guest review recovery — individual commercial result unverified
+- 042 star: restaurant review dispute records — individual commercial result unverified
+- 043 star: holiday let cleaning quality — individual commercial result unverified
+- 044 star: care home family feedback triage — individual commercial result unverified
+- 045 star: school inspection evidence — individual commercial result unverified
+- 046 star: film location talent release — individual commercial result unverified
+- 047 star: sports club membership renewals — individual commercial result unverified
+- 048 star: arts festival volunteer scheduling — individual commercial result unverified
+- 049 star: star-rated energy certificate marketing — individual commercial result unverified
+- 050 star: beauty salon no-show fees — individual commercial result unverified
+- 051 star: ecommerce review warranty complaints — individual commercial result unverified
+- 052 star: five-star tradesman referrals — individual commercial result unverified
+- 053 star: restaurant hygiene rating corrective actions — individual commercial result unverified
+- 054 star: property management tenant ratings — individual commercial result unverified
+- 055 star: tour operator guide feedback — individual commercial result unverified
+- 056 star: hospitality staff tip pooling — individual commercial result unverified
+- 057 star: hotel minibar discrepancy — individual commercial result unverified
+- 058 star: guest luggage storage liability — individual commercial result unverified
+- 059 star: independent hotel room inspection — individual commercial result unverified
+- 060 star: award submission evidence — individual commercial result unverified
+- 061 escalate: financial complaint response deadlines — individual commercial result unverified
+- 062 escalate: insurance broker renewal chase — individual commercial result unverified
+- 063 escalate: supplier nonconformance corrective actions — individual commercial result unverified
+- 064 escalate: landlord repairs escalation — individual commercial result unverified
+- 065 escalate: B2B overdue invoice disputes — individual commercial result unverified
+- 066 escalate: construction snag escalation — individual commercial result unverified
+- 067 escalate: healthcare patient complaint triage — individual commercial result unverified
+- 068 escalate: school safeguarding case handling — individual commercial result unverified
+- 069 escalate: telecom service outage credits — individual commercial result unverified
+- 070 escalate: SaaS customer escalation register — individual commercial result unverified
+- 071 escalate: product warranty repair escalation — individual commercial result unverified
+- 072 escalate: parcel lost shipment claims — individual commercial result unverified
+- 073 escalate: chargeback evidence packages — individual commercial result unverified
+- 074 escalate: workplace grievance timeline — individual commercial result unverified
+- 075 escalate: public procurement clarification — individual commercial result unverified
+- 076 escalate: planning objection submission — individual commercial result unverified
+- 077 escalate: utility billing complaint — individual commercial result unverified
+- 078 escalate: fleet accident incident follow-up — individual commercial result unverified
+- 079 escalate: travel insurance claim appeal — individual commercial result unverified
+- 080 escalate: consumer ombudsman referral packet — individual commercial result unverified
+- 081 breed: dog breeder litter contracts — individual commercial result unverified
+- 082 breed: pedigree cat kitten waiting lists — individual commercial result unverified
+- 083 breed: horse stud booking fees — individual commercial result unverified
+- 084 breed: cattle insemination recording — individual commercial result unverified
+- 085 breed: sheep pedigree transfer — individual commercial result unverified
+- 086 breed: poultry hatching preorders — individual commercial result unverified
+- 087 breed: plant breeders royalty reporting — individual commercial result unverified
+- 088 breed: seed grower licence records — individual commercial result unverified
+- 089 breed: aquarium fish lineage certificates — individual commercial result unverified
+- 090 breed: rare-breed livestock sale — individual commercial result unverified
+- 091 breed: kennel health-test disclosure — individual commercial result unverified
+- 092 breed: veterinary breeding scan appointment — individual commercial result unverified
+- 093 breed: embryo transfer documentation — individual commercial result unverified
+- 094 breed: show dog co-ownership agreements — individual commercial result unverified
+- 095 breed: breed society membership renewals — individual commercial result unverified
+- 096 breed: animal transport export certificates — individual commercial result unverified
+- 097 breed: stallion semen shipment chain of custody — individual commercial result unverified
+- 098 breed: nursery cultivar licensing — individual commercial result unverified
+- 099 breed: breeder deposit refund disputes — individual commercial result unverified
+- 100 breed: animal microchip registration handover — individual commercial result unverified
