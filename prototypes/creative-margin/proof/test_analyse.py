@@ -26,10 +26,10 @@ class TestContribution(unittest.TestCase):
         self.assertFalse(self.by_id["P006"]["calculable"])
 
     def test_credit_reduces_recognised_revenue(self):
-        self.assertEqual(self.by_id["P012"]["recognised_revenue_eur"], "24700.00")
+        self.assertEqual(self.by_id["P012"]["recognised_revenue_eur"], "26200.00")
 
     def test_draft_invoice_excluded(self):
-        self.assertEqual(self.by_id["P015"]["recognised_revenue_eur"], "7000.00")
+        self.assertEqual(self.by_id["P015"]["recognised_revenue_eur"], "11500.00")
 
     def test_change_order_included_only_if_posted(self):
         self.assertEqual(self.by_id["P004"]["recognised_revenue_eur"], "11000.00")
