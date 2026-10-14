@@ -107,6 +107,9 @@ def calculate():
             warnings.append("Retainer revenue allocation requires verification")
         if "change order" in p["scope_notes"].lower():
             warnings.append("Change order must be verified against approved scope")
+        if "allocation unclear" in p["scope_notes"].lower():
+            warnings.append("Revenue allocation uncertain; project contribution withheld")
+            labour_known = False
         contribution = revenue - labour_cost - direct_cost if labour_known else None
         margin = contribution / revenue * 100 if contribution is not None and revenue != ZERO else None
         results.append({
