@@ -24,7 +24,7 @@ def build():
         f"- Projects with unresolved labour inputs: **{summary['uncalculable_count']}**.",
         f"- Posted recognised revenue across all projects: **€{summary['all_project_recognised_revenue_eur']}**.",
         f"- Contribution of calculable subset only: **€{summary['calculable_subset_contribution_eur']}** on €{summary['calculable_subset_revenue_eur']} revenue (**{summary['calculable_subset_margin_pct']}%**).",
-        "- **No whole-portfolio contribution is reported** because two projects have incomplete labour costing.",
+        "- **No whole-portfolio contribution is reported** because some projects have unresolved labour or revenue allocation.",
         "",
         "## Project-level contribution",
         "",
