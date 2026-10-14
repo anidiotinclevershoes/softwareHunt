@@ -1,0 +1,21 @@
+project_id,client_alias,project_type,quoted_fee_eur,planned_hours,scope_notes
+P001,Fictional Client 1,Brand identity,12000,125,Original scope
+P002,Fictional Client 2,Website,24000,240,Original scope
+P003,Fictional Client 3,Campaign,18000,185,Original scope
+P004,Fictional Client 4,Packaging,9500,90,Change order requested
+P005,Fictional Client 5,Retainer,7000,75,Original scope
+P006,Fictional Client 6,Brand identity,13500,137,Original scope
+P007,Fictional Client 7,Website,25500,252,Original scope
+P008,Fictional Client 8,Campaign,19500,197,Original scope
+P009,Fictional Client 9,Packaging,11000,102,Unbilled additional work
+P010,Fictional Client 10,Retainer,8500,87,Original scope
+P011,Fictional Client 11,Brand identity,15000,149,Original scope
+P012,Fictional Client 12,Website,27000,264,Original scope
+P013,Fictional Client 13,Campaign,21000,209,Retainer allocation unclear
+P014,Fictional Client 14,Packaging,12500,114,Original scope
+P015,Fictional Client 15,Retainer,10000,99,Original scope
+P016,Fictional Client 16,Brand identity,16500,161,Original scope
+P017,Fictional Client 17,Website,28500,276,Missing time entry
+P018,Fictional Client 18,Campaign,22500,221,Original scope
+P019,Fictional Client 19,Packaging,14000,126,Original scope
+P020,Fictional Client 20,Retainer,11500,111,Original scope
