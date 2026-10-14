@@ -1,0 +1,25 @@
+invoice_line_id,project_id,status,line_type,amount_eur,note
+I001A,P001,posted,invoice,12000,Original fee
+I002A,P002,posted,invoice,24000,Original fee
+I003A,P003,posted,invoice,18000,Original fee
+I004A,P004,posted,invoice,9500,Original fee
+I004B,P004,posted,invoice,1500,Approved change order
+I005A,P005,posted,invoice,7000,Original fee
+I006A,P006,posted,invoice,13500,Original fee
+I007A,P007,posted,invoice,25500,Original fee
+I008A,P008,posted,invoice,19500,Original fee
+I009A,P009,posted,invoice,11000,Original fee; additional work not billed
+I010A,P010,posted,invoice,8500,Original fee
+I011A,P011,posted,invoice,15000,Original fee
+I012A,P012,posted,invoice,27000,Original fee
+I012B,P012,posted,credit,800,Client credit
+I013A,P013,posted,invoice,21000,Original fee; retainer allocation unverified
+I014A,P014,posted,invoice,12500,Original fee
+I015A,P015,posted,invoice,10000,Original fee
+I015B,P015,draft,invoice,2000,Not recognised
+I016A,P016,posted,invoice,16500,Original fee
+I017A,P017,posted,invoice,28500,Original fee
+I018A,P018,posted,invoice,22500,Original fee
+I019A,P019,posted,invoice,14000,Original fee
+I019B,P019,draft,invoice,4000,Invoice incomplete
+I020A,P020,posted,invoice,11500,Original fee
