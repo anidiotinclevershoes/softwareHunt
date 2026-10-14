@@ -452,3 +452,10 @@
 - Checked paid-market price/capability evidence for vertical business operations, website care, club payments and tutoring. The continuation scan contains 12 market/job rows, including repeated earlier observations and overlapping outcomes; **not** certified as 12 new deep distinct attempts or completion of the requested 20–30.
 - No S3/S4 entrant-specific evidence, named first-ten matching prospects, customer conversations, or new outreach/build-ready survivors. No changes to existing board, CPO outreach, or frozen #961–#1060 manifest.
 - Working branch only; no main changes or PR merge.
+
+
+### 2026-10-14 — five-seed 100-case queue, NOT validated completion
+- Commissioned by user: 20 discovery routes each for `wet`, `meteor`, `star`, `escalate`, `breed`, independent of frozen V3.7 #961–#1060.
+- Staged 100 distinct buyer-job hypotheses in `research/2026-10-14-five-seed-100-hypothesis-queue.md` (commit `c8a8ae323f4fba22e6de7ad9de479b17c9fb5f41`). These are hypotheses, **not** 100 completed research attempts; no qualifying survivor, outreach or build promotion.
+- Source-backed boundaries include incumbent plant hire off-hire tracking, established Irish cattle breeding services, UK plant breeders' rights/royalty collection, and Financial Ombudsman complaint deadlines.
+- Work remaining: 100 genuinely researched and deduplicated cases, commercial evidence and second-kill; no changes to frozen manifest, historical graveyard or main.
