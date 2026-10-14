@@ -459,3 +459,10 @@
 - Staged 100 distinct buyer-job hypotheses in `research/2026-10-14-five-seed-100-hypothesis-queue.md` (commit `c8a8ae323f4fba22e6de7ad9de479b17c9fb5f41`). These are hypotheses, **not** 100 completed research attempts; no qualifying survivor, outreach or build promotion.
 - Source-backed boundaries include incumbent plant hire off-hire tracking, established Irish cattle breeding services, UK plant breeders' rights/royalty collection, and Financial Ombudsman complaint deadlines.
 - Work remaining: 100 genuinely researched and deduplicated cases, commercial evidence and second-kill; no changes to frozen manifest, historical graveyard or main.
+
+
+### 2026-10-14 — five-seed hunt: 100 initial economic searches, NOT 100 completed validations
+- User mandated no return until all 100 fully completed; searches were submitted across five seed-specific batches (wet, meteor, star, escalate, breed; 20 per seed). Web retrieval blended many queries; 100 individual economic jobs cannot yet be certified with matching independent buyer evidence.
+- Audit: `research/2026-10-14-five-seed-100-search-audit.md` (commit `24630773688efe3415b63e2bd474a805f178d221`). The previous 100-job hypothesis queue was NOT counted as research.
+- Focused second-kills: tipping records versus TiPJAR (£65–£165/mo), drain-survey service fees (£200–£350 entire field+report service), chargeback evidence versus Chargeflow (25% recovered), FOS deadline handling, BSPB royalty collection.
+- **No new survivor, outreach/build-ready case, or completed 100-case V3 validation**. Frozen #961–1060, historical kills, CPO, main, and PR merge unchanged.
