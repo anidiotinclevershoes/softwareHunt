@@ -481,3 +481,9 @@
 - **Verdict:** 0 new DESK-VALIDATION, OUTREACH-READY or BUILD-READY; no board/graveyard changes. Ecommerce/CRM-heavy sample is not representative of IE/UK market.
 - **Strongest counter-case:** incumbent solutions and low-price service alternatives already complete much of the job; integration and support burdens swamp the accessible opportunity.
 - **Next decisive action:** diversify beyond ecommerce/CRM into Ireland/UK buyer-side transactions and verify complete paid digital outcomes with reachable first-ten prospects before promotion.
+
+## 2026-10-14 — Five-track acquisition-first concurrent pilot (unnumbered)
+- Five exploratory streams (buyer commissions, distributor catalogues, contractor document operations, contractor accreditation administration, tender writing), plus adversarial generic lead/quote comparator. Initial concurrent searches hit provider rate limits; fallback native search completed directional screens. Not five autonomous agents and not five certified V3 audits. Formal #961–#1060 untouched.
+- Evidence and source URLs: `research/2026-10-14-five-track-acquisition-first-screen.md` (committed). No buyer contacted, no build or merge.
+- Findings: identifiable channels (EDA, APHCI, CIF), published spend/prices and buyer requests exist, but acquisition is not verified. Critical prior-kill: generic O&M software already killed after second competitor pass, not resurrected. Only a distinct wider contractor back-office purchasing hypothesis remains worth direct buyer falsification; not qualified.
+- Board: zero new OUTREACH-READY / BUILD-READY; no changed legacy statuses. Next: test actual recurring purchased complete output plus ten accessible matching buyers and selection proof before software build.
