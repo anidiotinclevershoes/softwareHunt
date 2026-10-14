@@ -1,0 +1,7 @@
+rate_code,role,fully_burdened_eur_per_hour,status
+DES,Designer,54,known
+STR,Strategist,76,known
+DEV,Developer,68,known
+PM,Project manager,62,known
+JR,Junior designer,38,known
+EXT,Contractor rate, ,ambiguous
