@@ -487,3 +487,7 @@
 - Evidence and source URLs: `research/2026-10-14-five-track-acquisition-first-screen.md` (committed). No buyer contacted, no build or merge.
 - Findings: identifiable channels (EDA, APHCI, CIF), published spend/prices and buyer requests exist, but acquisition is not verified. Critical prior-kill: generic O&M software already killed after second competitor pass, not resurrected. Only a distinct wider contractor back-office purchasing hypothesis remains worth direct buyer falsification; not qualified.
 - Board: zero new OUTREACH-READY / BUILD-READY; no changed legacy statuses. Next: test actual recurring purchased complete output plus ten accessible matching buyers and selection proof before software build.
+
+## 2026-10-14 — Contractor-document service check
+- Ten official-site companies screened; one bounded paid-pilot offer costed. Findings, URLs, competitor kill, acquisition constraints and next decision are in `validation/2026-10-14-contractor-backoffice-offer-acquisition-10-accounts.md`.
+- Prior generic O&M KILL unchanged. No outreach or build; no qualified promotion; frozen numbered hunt unaffected.
