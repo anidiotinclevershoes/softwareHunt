@@ -1,0 +1,22 @@
+expense_id,project_id,status,category,amount_eur,note
+E001,P001,posted,Freelancer,1500,Direct project expense
+E002,P002,posted,Production,3000,Direct project expense
+E003,P003,posted,Production,2000,Direct project expense
+E004,P004,posted,Freelancer,850,Direct project expense
+E005,P005,posted,Production,400,Direct project expense
+E006,P006,posted,Production,1700,Direct project expense
+E007,P007,posted,Freelancer,3200,Direct project expense
+E008,P008,posted,Production,2200,Direct project expense
+E009,P009,posted,Production,1050,Direct project expense
+E010,P010,posted,Freelancer,600,Direct project expense
+E011,P011,posted,Production,1900,Direct project expense
+E011B,P011,draft,Production,900,Not posted
+E012,P012,posted,Production,3400,Direct project expense
+E013,P013,posted,Freelancer,2400,Direct project expense
+E014,P014,posted,Production,1250,Direct project expense
+E015,P015,posted,Production,800,Direct project expense
+E016,P016,posted,Freelancer,2100,Direct project expense
+E017,P017,posted,Production,3600,Direct project expense
+E018,P018,posted,Production,2600,Direct project expense
+E019,P019,posted,Freelancer,1450,Direct project expense
+E020,P020,posted,Production,1000,Direct project expense
