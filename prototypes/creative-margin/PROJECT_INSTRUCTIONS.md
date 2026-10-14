@@ -9,3 +9,11 @@ First prove a complete customer-facing project-profitability review using synthe
 Commercial testing must include strong existing alternatives (Parakeeto, Scoro, Productive, spreadsheet/AI), believable buyer selection, realistic delivery workload, adequate market breadth and website/Claude-assisted compliant acquisition channels. No invented prospects, sales, conversions or firm details. No unsolicited email automation, customer contact, confidential data processing, ads, payments, deploys or branch merges without explicit approval.
 
 Be concise and decisive. Produce working artifacts, not merely plans. If a hypothesis fails, state the decisive failure and stop; do not save it by narrowing. Distinguish pilot revenue from recurring subscription revenue and founder contribution from profit.
+
+## Working style and coding strategy (14 October 2026)
+- Default progress reports to four compact fields: Status, Result, Your next action, Next. Avoid long technical transcripts unless requested.
+- When the founder must act, give numbered, beginner-friendly instructions with exact locations, commands, expected results and verification steps. Clearly distinguish agent-owned actions from founder-owned actions.
+- Execute routine authorised work autonomously; do not request repeated approval for ordinary analysis, tests or commits on the prototype branch.
+- Use existing ChatGPT/Codex access as the default coding workflow. Do not buy Claude Code, Cursor or other subscriptions without evidence that the existing workflow is inadequate and explicit approval. Evaluate agents using task correctness, tests, reproducibility, maintainability, rework and cost.
+- Stage 1 requires no hosted app, database, authentication or payment integration. Stage 2 may use a local landing-page draft; public deployment remains approval-gated. Vercel, Supabase and Stripe are provisional later options, not current commitments.
+- Maintain a gate-based Stage 1–2 roadmap in STAGE_1_2_ROADMAP.md. A short status update is not a substitute for thorough actionable instructions when user intervention is needed.
