@@ -473,3 +473,11 @@
 - Final screening closeout: `research/2026-10-14-five-seed-board-verdict.md` commit `feda94b423d6d3edc6d9452eed2975731f5884d9`. Five 20-row screening files and a second-kill addendum committed on this branch.
 - **12 directional incumbent/physical-job kills** and **88 evidence-INCOMPLETE**, not added to formal 195-KILLED graveyard. **Zero new DESK-VALIDATION/OUTREACH-READY/BUILD-READY**. No buyer conversations, qualifying individual payment or first-ten list.
 - Frozen V3.7 #961–1060 untouched. Existing prior kills/CPO outreach unmodified; no merge to main. No claim of 100 completed deep commercial validations.
+
+## 2026-10-14 — Distribution-first method pilot (15 exploratory buyer/job probes)
+- **Scope:** 5 replacement, 5 community-request, 5 paid digital-work probes. Sources, case-level evidence, limitations and directional counter-cases: `research/2026-10-14-distribution-first-pilot.md`.
+- **Status:** exploratory unnumbered method test; not 15 certified V3 M/S/C/D + AI/second-kill audits, no #961–#1060 attempts consumed. No direct buyer contact.
+- **Findings:** forced replacement deadlines plus named vendors are stronger selection signals than generic complaints; marketplace listings can reveal priced independent deliverables but advertised offers do not prove actual spend, and even observed sales do not establish recurring SaaS willingness. Community discussions often name existing complete alternatives.
+- **Verdict:** 0 new DESK-VALIDATION, OUTREACH-READY or BUILD-READY; no board/graveyard changes. Ecommerce/CRM-heavy sample is not representative of IE/UK market.
+- **Strongest counter-case:** incumbent solutions and low-price service alternatives already complete much of the job; integration and support burdens swamp the accessible opportunity.
+- **Next decisive action:** diversify beyond ecommerce/CRM into Ireland/UK buyer-side transactions and verify complete paid digital outcomes with reachable first-ten prospects before promotion.
