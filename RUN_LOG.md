@@ -491,3 +491,9 @@
 ## 2026-10-14 — Contractor-document service check
 - Ten official-site companies screened; one bounded paid-pilot offer costed. Findings, URLs, competitor kill, acquisition constraints and next decision are in `validation/2026-10-14-contractor-backoffice-offer-acquisition-10-accounts.md`.
 - Prior generic O&M KILL unchanged. No outreach or build; no qualified promotion; frozen numbered hunt unaffected.
+
+## 2026-10-14 — Retrospective acquisition-first re-ranking (non-promoting comparison)
+- Reviewed current GitHub authority, completed and banked historical leads, old founder-fit kills and latest contractor offer, plus current buyer-directory/vendor-price evidence. Full sourced comparison: `research/2026-10-14-revenue-first-retrospective-shortlist.md`.
+- Creative Margin Engine from prior September investigation is potentially a stronger **paid-pilot acquisition hypothesis** than the contractor document service (broad agencies, diagnostic website hook, possible monthly pricing/quoting loop), but is NOT an active promoted V3 survivor. Parakeeto pricing and agency competitors prove offered services/products only, not new entrant purchase or profit. Data quality and financial interpretation are serious counter-cases.
+- #825 family photo organisation remains BANKED and may sell one-off higher tickets but has 20–40h labour / weak MRR; CPO remains OUTREACH-READY separately, with user-reported outreach and no buyer payment; quarry only provisional banked validation. Contractor service remains an unvalidated paid-pilot hypothesis and generic O&M stays KILLED.
+- No outreach/build/spend/board change/frozen #961–1060 attempts. Next compare 10 named creative-agency prospects, their existing cost visibility and willingness to buy a file-based margin review before committing to contractor website or software.
