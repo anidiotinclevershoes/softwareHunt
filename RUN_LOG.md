@@ -520,3 +520,12 @@
 - **Mechanisms retained as research hypotheses:** a complete outcome coexisting with a customer's paid system; buyer-intent interception; real-client first-job followed by independent demand test; consultant or marketplace partner distribution. Require separable paid digital output, documented acceptance oracle, realistic buyer access, switching/adoption economics and limited ongoing expert work; the ecosystem is not itself proof of distribution.
 - **Board unchanged:** NO new OUTREACH-READY or BUILD-READY candidate. CPO remains separately OUTREACH-READY with six reported prior outbound contacts, replies unreported. #861–960 remain 100 KILLED, #961–1060 frozen UNRESEARCHED, prior 195 KILLED/banked/anomaly/incomplete unchanged. No outreach, build, purchases, or PR merge performed.
 - **Next decisive action:** User-authorised narrow money-first search for independently paid complete digital outputs with first-ten buyer access using existing V3–V3.7 rules; validate prospect selection and paid pilots before build. Research A does NOT change approved authority or restart the frozen numbered hunt.
+
+
+## 2026-10-15 — Research A-guided bounded hunt
+- Read active V3–V3.7 authority and Research A sidecar; new non-authority application lens saved at research/2026-10-15-research-a-applied-discovery-lens.md.
+- Completed 18 distinct exploratory buyer/job screens across paid commercial workflows, with direct sources, M/S/C/D evidence, competing solutions and second-kill conclusions. Two prior-history collisions excluded from count. Full report: research/2026-10-15-research-a-guided-18-case-hunt.md.
+- Results: 16 directional KILL; one EVIDENCE-INCOMPLETE; one RESEARCH WATCH without board status; zero new OUTREACH-READY or BUILD-READY. No customer contacted, build started, payment made or branch merged.
+- Evidence highlight: Microsoft NCE missed-renewal loss is credible as a consequence but independent paid software selection is unproven and existing distributor tools are material competitors. Event organiser-controlled attendee data likewise prevents straightforward substitution despite per-event prices.
+- Historic verdicts unchanged. Numbered #961–1060 manifest remains frozen UNRESEARCHED; this was a bounded unnumbered screen rather than 100-case execution.
+- Next: evidence of buyer-selected independently paid complete digital outcomes, objective output acceptance and a credible first-ten route, not another generic marketplace-app idea.
