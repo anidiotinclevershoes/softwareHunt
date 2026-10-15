@@ -1,0 +1,11 @@
+{
+  "filtering_rules": "Enumerate every proleptic Gregorian date from 1950-01-01 through 2026-10-12 inclusive, using Python datetime. No external file and no subjective removal.",
+  "licence": "Calendar dates are uncopyrightable facts. No external dataset licence.",
+  "pool_file": "research/randomisation/pools/historical_date/pool.jsonl",
+  "raw_file_sha256": "181d604f69b65d67c640b4c20f33f2ad6881d874204b57059e33cdd462153ff9",
+  "retrieval_timestamp": "2026-10-13T21:07:49Z",
+  "row_count": 28044,
+  "source_organisation": "Proleptic Gregorian calendar enumeration",
+  "source_type": "historical_date",
+  "source_url": "mechanical:1950-01-01/2026-10-12"
+}

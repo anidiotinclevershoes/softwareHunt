@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-12",
+  "resume_commit": "45e3f6b108112b56678830d77045a59e0e55887f",
+  "interruption": "User reported credit interruption. Recovered all 100 discovery records and four excluded probes from GitHub; no discovery cases repeated for count.",
+  "transcript_recovered_followups": [
+    {
+      "id": 573,
+      "query": "Shopify PDF stamping watermark digital downloads Sky Pilot SendOwl pricing",
+      "urls": [
+        "https://web.skypilotapp.com/pages/pdf-stamping",
+        "https://apps.shopify.com/sky-pilot"
+      ],
+      "observation": "Sky Pilot documents customer stamping; lower-plan add-on is $9; listing displayed 422 reviews.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 601,
+      "query": "Transkribus pricing TEI XML export handwriting transcription archives",
+      "urls": [
+        "https://www.transkribus.org/pricing",
+        "https://www.transkribus.org/new-plans"
+      ],
+      "observation": "Annual/free plans and export differences exist; retrieved price labels conflict, so no exact price used in decision.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 604,
+      "query": "Resolume Arena LED pixel mapping slices export output projection pricing",
+      "urls": [
+        "https://resolume.com/software/avenue-arena",
+        "https://resolume.com/support/advanced-output"
+      ],
+      "observation": "Advanced output controls physical/virtual devices and portions of compositions.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 610,
+      "query": "fulldome video production conversion fisheye 180 dome content Blendy Dome VJ",
+      "urls": [
+        "https://blendydomevj.com/",
+        "https://blendydomevj.com/support/"
+      ],
+      "observation": "Dome simulation, slicing, blending and output formats documented.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 612,
+      "query": "Kontakt instrument scripting KSP developer sample library custom service UK",
+      "urls": [
+        "https://vi-control.net/community/threads/kontakt-ksp-developer-needed-leslie-speed-switching-script-paid.170590/",
+        "https://docs.native-instruments.com/pdf-guides/kontakt/Kontakt_8_KSP_Reference_Manual-en_260924.pdf"
+      ],
+      "observation": "Paid bespoke STOP/RAMP/FAST instrument scripting request; NI publishes KSP reference.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 619,
+      "query": "PerfectTablePlan pricing wedding seating professional license",
+      "urls": [
+        "https://www.perfecttableplan.com/html/purchase.html",
+        "https://www.perfecttableplan.com/html/licensing.html"
+      ],
+      "observation": "Home $29.95, Professional $299.95 offers; individual licensing and export limits.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 621,
+      "query": "DJI Terra mission planning DJI Pilot 2 waypoint mapping official",
+      "urls": [
+        "https://terra.dji.com/user-manual/en/detailed-inspection/route-planning.html"
+      ],
+      "observation": "Native flight route settings, waypoints and safety checks.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 642,
+      "query": "Machinations pricing indie free plan game economic simulation",
+      "urls": [
+        "https://machinations.io/pricing",
+        "https://machinations.gitbook.io/docs/accounts/pricing"
+      ],
+      "observation": "Indie plans and simulation limits documented; no exact numerical price recovered.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 644,
+      "query": "ELSA Speak teacher speech assessment pricing official",
+      "urls": [
+        "https://elsaspeak.com/en/english-for-schools/plans",
+        "https://elsaspeak.com/en/elsa-api/"
+      ],
+      "observation": "Small-group assessment and speech API pricing documented; scoring accuracy not tested.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 660,
+      "query": "Vectric PhotoVCarve photo relief Aspire 3D relief import photo",
+      "urls": [
+        "https://docs.vectric.com/docs/V12.0/Aspire/ENU/Help/form/3d-toolpath-files/index.html",
+        "https://docs.vectric.com/docs/V12.5/Aspire/ENU/Help/form/import-vectors/"
+      ],
+      "observation": "Image-to-3D component and imported photo-carving toolpaths documented.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 602,
+      "query": "UK independent research agency survey data processing weighting banner tables MRS buyer guide",
+      "urls": [
+        "https://www.mrs.org.uk/pdf/Best-Practice-Guide-to-Buying-Research-and-Insight.pdf"
+      ],
+      "observation": "MRS guide identifies a UK/Ireland accredited-supplier directory. This is a route, not ten qualified buyers.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 606,
+      "query": "Punchout Catalogs Shopify customer reviews UK United Kingdom",
+      "urls": [
+        "https://apps.shopify.com/punchout-cloud/reviews",
+        "https://apps.shopify.com/punchout-cloud"
+      ],
+      "observation": "Direct2Lab and IVF Store reviews describe custom support. Displayed customers are US analogues, not verified UK leads.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 582,
+      "query": "Cutter Squidge contact Variety Foods UK contact Omnitub contact",
+      "urls": [
+        "https://cutterandsquidge.com/pages/contact",
+        "https://varietyfoods.co.uk/pages/contact",
+        "https://www.omnitub.co.uk/en-eu/pages/contact"
+      ],
+      "observation": "Actual public business contact pages. Omnitub sells baths and is an adjacent scheduling example, not a perishable-food buyer.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    },
+    {
+      "id": 640,
+      "query": "OpenWeigh offline weighbridge MidWeigh offline internet ticket software",
+      "urls": [
+        "https://www.midsoft.co.uk/product/weighbridge/",
+        "https://www.openweigh.com/bridge_link.html",
+        "https://openweigh.com/"
+      ],
+      "observation": "Ticketing and serial bridge integration documented. Did not prove every competitor works offline.",
+      "provenance": "Recovered from actual pre-interruption tool output in conversation; raw response was not checkpointed"
+    }
+  ],
+  "new_followups": [
+    {
+      "id": 632,
+      "query": "independent piano teachers PracticeFirst automatic assessment polyphonic piano limitations price",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Title: PracticeFirst | MusicFirst\nURL: https://www.musicfirst.com/software/practicefirst\nPublished: N/A\nAuthor: N/A\nHighlights:\nPracticeFirst | MusicFirst\n\n \n\n# PracticeFirst \n\nAutomated practice assessment\n\nPracticeFirst is a music learning application that gives you the tools you need to improve your skills. Our powerful AI provides immediate and intuitive practice feedback, assessing rhythm, pitch, intonation, and duration. The assessment rigor can be easily adjusted from \"Easy\" to \"Hard,\" so that you're challenged but never frustrated. \n\n### Extensive Content Library\n\nPracticeFirst includes thousands of pieces and exercises for strings, winds, brass, piano, guitar, ukulele, pitched percussion, and voice. Explore our ever-growing repertoire library to find your favorite songs, method books, and more. You can also create your own exercises by uploading notation or audio files.\n\n \n\n### Immediate, intuitive practice feedback\n\nWith PracticeFirst, you can get an in-depth look at your students' practice. Overall scores are given and broken down into three individual scores for length, pitch, and rhythm. Students can see detailed annotations by hovering over the feedback line. The assessment rigor is adjustable from \"easy\" to \"hard,\" or \"simplified\" or \"full\" feedback to accommodate all levels. PracticeFirst provides feedback on rhythm, pitch, intonation, and duration.\n\n---\n\nTitle: PracticeFirst | MusicFirst UK\nURL: https://www.musicfirst.co.uk/software/practicefirst\nPublished: N/A\nAuthor: N/A\nHighlights:\nPracticeFirst™, powered by MatchMySound™, is a truly affordable way to allow your students to practise anytime, anywhere, on most internet-enabled devices. Students receive instantaneous & intuitive feedback, allowing them to gain meaningful insights into the quality of their practice and accelerate their achievement. Perfect for band, orchestra, choral, and solo instrumental & vocal practice, PracticeFirst gives music teachers easy-to-use tools for creating assignments.\n...\nPracticeFirst is the industry leader in providing detailed and nuanced student performance feedback, assessing accuracy in:\n\n- Rhythm\n- Pitch\n- Intonation\n- Duration\n\n \n\n \n\n###\n...\n- Upload your own exercise notation or audio files, or use included method books and repertoire.\n- Click-track (floating tempo) or metronome options for recording.\n- Adjust assessment rigor from \"easy\" to \"hard\", and set score threshold for submission.\n\n- Tailored for students of all levels\n- Comes with exercises and pieces, and also allows you to create your own\n- Create exercises with multiple parts from multipart scores\n- Assesses rhythmic and pitch accuracy\n- Assignment types include memorisation and sight reading modes\n- Grading scale can be adjusted from easy to hard\n- Works for polyphonic instruments like piano and guitar\n- Teachers can now let students choose their instrument themselves when practising\n- Includes a built-in tuner for instruments that need to be tuned before playing",
+            "_meta": {
+              "searchTime": 1496.4
+            }
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": 641,
+      "query": "youth football coaches fair playing time rotation app paid reviews GamePlan",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Title: Coach smarter.\nURL: https://getgameplan.co.uk/\nPublished: N/A\nAuthor: N/A\nHighlights:\nThe all-in-one platform for grassroots football coaches. Match plans, fair playing time, live games, all in one place.\n...\nSmart playing time tools help you keep games balanced and every player motivated.\n...\nGamePlan gives coaches one simple place to run the whole season, from fixtures and parent communication to fair rotations and live match management, without needing spreadsheets, notebooks or five different apps.\n...\n#### Fair minutes for every player.\n\nKnow every kid is getting their share of game time.\n...\nSquads, formations, fair-play rotations, live match mode, season stats and parent sharing. Built for grassroots football coaches.\n...\n### Fair-play rotations.\n\nAuto-balance minutes across the whole matchday squad.\n...\nStart free, no card required. Upgrade when you want fair rotations, full match plans, season stats and live match mode.\n...\nFree One coach, one team. Everything you need to run matchday.](/pricing)\n\n[Most popularTeam.\n\n£5/mo Up to 5 coaches per team. Stats and live match mode unlocked.](/pricing)\n...\n£25/mo Multiple teams, club admin, club-branded sharing & QR.](/pricing)\n...\nJoin the grassroots football coaches running their season with GamePlan. Free to start. No card required.\n...\n- Lineup builder\n- Formation creator\n- Fair playing time\n...\n- U7 3v3\n- U8-U9 5v5\n- U10-U11 7v7\n- U12-U13 9v9\n- U14+ 11v11\n- Fair playing time\n\n---\n\nTitle: Less than a round ofHalf-time oranges.\nURL: https://getgameplan.co.uk/pricing\nPublished: N/A\nAuthor: N/A\nHighlights:\nStart free, no card required. Upgrade when you want fair rotations, full game plans, season stats and live match mode.\n...\n### Coach.\n\nOne coach, one team. Everything you need to run matchday.\n...\n- 1 coach, 1 team\n- Match Hub for every fixture\n- Single team link for parents\n- Availability tracking\n- Formation planner\n- Fair-play sub planner\n...\n### Team.\n\nFor teams with multiple coaches who want the full toolkit.\n...\n- Everything in Coach\n- Up to 5 coaches per team (1 head + 4 assistants)\n- Match & season stats\n- Live match mode - sub times recalculated for no-shows & injuries\n...\n### Club.\n\nFor clubs running multiple teams across age groups.\n...\n- Everything in Team\n- Multiple teams & coaches\n- Club admin dashboard\n- Assign coaches to teams\n- Club-branded parent sharing link & QR code\n- Priority support\n...\n## All three plans, side by side.\n\n| Feature | Coach | Team | Club |\n| --- | --- | --- | --- |\n| Coaching basics | | | |\n| Teams | 1 | 1 | Unlimited |\n| Coaches per team | 1 | Up to 5 | Unlimited |\n| Match Hub | | | |\n| Training scheduling | | | |\n| Season calendar | | | |\n| Parents | | | |\n| Team share link | | | |\n| Printable QR poster | | | |\n| Availability tracking | | | |\n| Club-branded share & QR | | | |\n| Match planning | | | |\n| Formation planner | | | |\n| Fair-play sub planner | | | |\n| Goalkeeper rotation | | | |\n| Shareable lineup & sub plan images | | | |\n| Matchday | | | |\n| Live match mode | | | |\n| Live recalculation of minutes | | | |\n| Match & season stats | | | |\n| Player of the Match | | | |\n| Club | | | |\n| Club admin dashboard | | | |\n| Multi-team management | | | |\n| Assign coaches to teams | | | |\n| Priority support | | | |\n...\n## The bits coaches always ask.\n\nDo parents pay anything\n...\nNo. Parents never pay and never need an account. Only the coach (or club) is on a plan.\n...\nYes. Upgrade or downgrade at any time inside the dashboard. Changes take effect immediately.\n...\nNothing breaks. Your data carries through and you can roll into a new season in a couple of taps.\n\nIs there a discount for clubs?.\n\nYes - annual billing on the Club tier saves £60/year, and one Club plan covers every team in the club.\n...\nSet up your team in under 5 minutes. No card required. Upgrade only when you want the full kit.\n...\nFor the coaches running it, the kids playing it, and the parents getting them there.\n...\n- Lineup builder\n- Formation creator\n- Fair playing time\n...\n- U7 3v3\n- U8-U9 5v5\n- U10-U11 7v7\n- U12-U13 9v9\n- U14+ 11v11\n- Fair playing time",
+            "_meta": {
+              "searchTime": 1853.3
+            }
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": 652,
+      "query": "UK charity volunteer automated reference requests follow up software references pricing",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Title: SignMeUp\nURL: https://www.signmeup.org.uk/\nPublished: N/A\nAuthor: N/A\nHighlights:\nKeep DBS progress alongside volunteer roles, so your team can see which checks are clear and which need a follow-up.\n...\n### Keep outstanding references in view.\n\nReview reference progress across your volunteer team without opening every individual application.\n\nComplete and incomplete references are easy to distinguish at a glance.\n...\nKeep roles, references, DBS checks, risk management and training together when reviewing a volunteer application.\n...\n#### ⭐ DBS check and referencing management\n\nConduct and manage DBS checks directly through SignMeUp, and automatically send and follow-up with reference checks.\n...\napplications and management\n\nCreate customisable volunteer application forms, manage and review volunteer applications, and allow volunteers to choose from custom rosters of roles and specify the dates and times that they can help at your event.\n...\n### £3 per volunteer and attendee per event\n\nSignMeUp is available to all UK-based charities, non-profits and voluntary bodies who organise and run events.\n\nOur subscription pricing is really simple: it costs just £3 per volunteer and attendee per event. So if your event will have 150 attendees and 50 volunteers, it would cost £600 to use SignMeUp for that event. This includes everything listed above, except DBS checks which are charged at an additional £5 per check.\n\nSignMeUp is run by The Software Charity, a UK registered charity. All of the subscription fees we collect are used directly to run our software and fund future projects. We want to help other charities get the most out of our software, and so in some cases are able to offer subsidies.\n\n---\n\nTitle: Automated Reference Checking Software | UK | RefAssure\nURL: https://refassure.co.uk/reference-checking-software/\nPublished: N/A\nAuthor: N/A\nHighlights:\n# Automated Reference Checking Software — From 99p Per Reference\n...\nRefAssure automates employment reference checking for UK recruiters, HR teams and employers. Candidate consent, referee requests, automated chasing, professional PDF reports — all handled for you. From 99p per reference, no monthly fees, no contracts.\n\n Candidate consent built in 5 auto email chasers SMS reminders included Professional PDF reports UK GDPR compliant No monthly fees \n\n \n\n## What is automated reference checking software?\n\nAutomated reference checking software replaces the manual process of drafting emails, chasing unresponsive referees, and compiling responses into reports. Instead, the software handles the entire process automatically — from sending the initial request to generating the final PDF report.\n\nRefAssure goes a step further. Before any referee is contacted, it collects written, timestamped consent from the candidate by email and SMS. This satisfies GDPR requirements, meets KCSIE obligations for education providers, and supports CQC safe recruitment evidence in care settings. It is a step most reference checking tools skip entirely.\n...\nUp to 5 automated email chasers per reference\n...\nPay-as-you-go — no monthly fees, no contracts\n...\n99p From per reference — no monthly minimum\n...\nBefore any referee is contacted, the candidate receives an email and SMS requesting written consent. Timestamped, stored, and included in the PDF report. GDPR gold standard.\n...\nProfessional email sent to the referee instantly on your behalf, with a secure unique link to the online reference form. No login required for referees.\n...\nUp to 5 automated email chasers sent over 12 days if the referee does not respond. Zero manual intervention required after setup.\n...\n2 SMS reminders sent to the referee during the chase sequence. Significantly better response rates than email alone.\n...\nA branded PDF report with the full reference responses, referee details, consent record and timestamped audit trail generated automatically on completion.\n...\nYou add the candidate. RefAssure handles everything else — candidate consent, referee requests, chasing, and the PDF report.\n...\nRefAssure contacts the candidate by email and SMS. They consent and submit referee details — timestamped automatically before any referee is approached.\n...\nBranded email with a secure form link sent instantly. No login required for referees.\n...\n5 email chasers + 2 SMS reminders sent automatically over 12 days. Zero manual effort.\n...\nMost reference checking software charges £50–£500 per month before you have sent a single reference. RefAssure charges only for what you use.\n\n| | Xref, Zinc, Checkster | RefAssure |\n| --- | --- | --- |\n| Monthly fee | £50–£500/month | £0 — none ever |\n| Per reference cost | £3–£8 per reference | From 99p per reference |\n| Candidate consent | Rarely included | Automatic, timestamped |\n| Setup fee | Often £200–£500 | None |\n| Contract required | Usually 12 months | No contract |\n| Per-user fees | £10–£50 per seat/month | Unlimited users included |\n| SMS chasing | Rarely included | Always included |\n| Credits expire | Monthly allowance lost | Never expire |\n...\nThe average UK recruitment agency processing 50 references a month pays £400–£500 in subscription fees plus £3–£8 per reference with leading platforms. With RefAssure, the same volume costs £45 — that is 90 percent less, with more features included as standard.\n...\nMost platforms charge £50–£500/month before a single reference is sent. RefAssure charges only for what you use — from 99p per reference, no monthly fees, no contracts.\n\n| Provider | Cost per reference | Monthly subscription | Contract required |\n| --- | --- | --- | --- |\n| RefAssure | 99p | None | No |\n| Typical UK competitor | £3–5 | £50–200/month | Usually yes |\n| Enterprise platforms (Xref, Zinc) | £5–10+ | £200–500+/month | Annual contract |\n| Manual process (staff time) | £15–25 equivalent | N/A | N/A |\n...\n£9.99\n\n99p per reference\n\n5 email chasers 2 SMS reminders PDF report Full audit trail\n...\n£45.00\n\nEverything included Best for growing agencies Credits never expire Unlimited team\n...\n£85.00\n\n85p per reference\n...\nEverything included Lowest cost per ref Credits never expire Unlimited team\n\n All packs include everything — email chasing, SMS reminders, PDF reports, audit trail, unlimited team members. Credits never expire. Full pricing details →\n...\nRefAssure £49.50 99p/ref — no subscription\n...\nis automated reference checking software? \n\nAutomated reference checking software sends employment reference requests on your behalf, chases referees who do not respond, collects candidate consent before contacting referees, and generates professional PDF reports with a full audit trail — without manual intervention. RefAssure does all of this automatically from a 2-minute setup per candidate.\n\n How does RefAssure differ from manual reference checking? \n\nManual reference checking requires consultants to draft and send emails, make follow-up calls, and compile responses into reports — typically 45 to 90 minutes of active effort per reference. RefAssure replaces this entirely. After a 2-minute setup, the system sends requests, chases referees up to 7 times by email and SMS, and generates a professional PDF report automatically.\n...\nthe referee responds, automated chasing significantly speeds up completion — most references return within 1 to 3 days compared to 1 to 2 weeks\n...\nDoes RefAssure collect candidate consent before contacting referees? \n\nYes. RefAssure contacts the candidate first by email and SMS to collect written, timestamped consent before any referee is approached. This is GDPR best practice, a requirement under KCSIE for education providers, and expected in regulated sectors including care and healthcare. The consent record is included in every PDF report.\n\n How much does reference checking software cost? \n\nRefAssure uses pay-as-you-go credits with no monthly fees. Credits start from £9.99 for 10 references (99p each). Larger packs reduce the cost to as low as 80p per reference. There are no contracts, no setup fees, and credits never expire. Subscription alternatives typically charge £50 to £500 per month plus per-reference fees of £3 to £8.\n\n What is the cheapest reference checking software in the UK? \n\nRefAssure is one of the most affordable automated reference checking platforms in the UK at 99p per reference. Unlike competitors who charge £3 to £5 per reference plus monthly platform subscriptions, RefAssure has no monthly fee, no annual contract, and no minimum commitment. You only pay for the references you use.\n\n Can I use reference checking software without a subscription? \n\nYes. RefAssure operates on a pay-as-you-go credit system. Buy credits when you need them and use them at your own pace. There is no monthly subscription, no annual contract, and no minimum spend. Credits never expire, making it ideal for agencies with variable or seasonal hiring volumes.\n...\nThe request, consent collection, chasing, and PDF report generation are all automated. Reviewing the completed reference and making a hiring decision remains a human responsibility. RefAssure automates the entire administrative process and delivers a clean report for your team to act on.\n...\nDo referees need an account to complete a reference? \n\nNo. Referees receive a secure, unique link directly to the online reference form. There is no account to create, no login, and no software to install. This removes friction and consistently improves completion rates compared to manual email-based processes.\n...\nPricing All 5 credit packs — from 99p\n...\nRequests sent instantly, PDF reports back in 1–3 days. No demo required, no subscription, from 99p per reference.\n...\nPay per reference from 99p. No monthly fees, no contracts, no minimum spend. Credits never expire.",
+            "_meta": {
+              "searchTime": 4828.3
+            }
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "id": 654,
+      "query": "UK independent cafe demand based staff scheduling customer case rota automatic constraints",
+      "result": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Title: Café Staff Scheduling Software | Coffee Shop Rota & Workforce Management\nURL: https://alphanomic.co.uk/industries/cafe-staff-scheduling-software\nPublished: N/A\nAuthor: N/A\nHighlights:\nCreate employee rotas, manage attendance, approve leave requests and control labour costs from one workforce platform designed for cafés and coffee shop teams.\n\n- Cover morning setup, lunch rush and weekend peaks with part-time and student staff\n- Publish barista, counter and kitchen rotas without rebuilding spreadsheets every week\n- Track attendance and leave so one absence never empties the counter\n...\nSee morning rush, lunch and weekend gaps while the rota is still a draft.\n...\nWhether you run an independent café or a multi-site coffee brand, Alphanomic connects barista rotas, counter cover, attendance, leave and labour visibility in one platform.\n\nPart-time availability, shift swaps and multi-location reporting stay in one place instead of spreadsheets and WhatsApp.\n...\nPlan baristas, counter staff and kitchen cover around opening, rush and closing shifts.\n...\nTrack clock-ins against the rota and approve leave with café cover visible.\n...\nCompare labour, fill gaps and publish rotas across every coffee shop location.\n...\n, counter and kitchen cover ... fill last-minute gaps, and stop\n...\nPlan baristas, counter, kitchen and supervisors from one rota — with templates, opening shifts and lunch cover.\n...\nStaff request swaps and pick up open barista or counter shifts while managers keep approval before the rota updates.\n\nApprove leave against café cover so weekend peaks never lose counter staff unexpectedly.\n...\nClock-ins, overtime and the live rota sit together so managers see cover before the rush — not after payroll.\n...\nBaristas and counter staff clock in against the published rota, with late arrivals visible before the morning rush.\n...\nReview scheduled hours and overtime risk before the rota publishes, not after payroll.\n...\nCafés run on lean teams, student availability, weekend peaks and tight margins. Most still manage all of that with spreadsheets, WhatsApp and printed rotas.\n...\nAlphanomic replaces spreadsheets and WhatsApp groups with one connected platform. Café rotas, attendance, leave and labour visibility live in one place, so managers spend time on service, not chasing admin.\n...\nOpening and peak-hour barista slots empty when one person calls in sick before the doors open.\n...\nExam weeks and term-time hours change every week, yet the rota is rebuilt in Excel from scratch.\n...\n### Part-time staff\n\nShort contracts and mixed availability make it hard to keep counter and kitchen cover balanced.\n...\nSaturday and Sunday demand jumps while flexible staff availability drops at the same time.\n...\nSwap messages scatter across WhatsApp with no manager approval trail on the live rota.\n...\nOne absence during lunch service leaves the counter short before managers find cover.\n...\nEach café plans separately, so head office cannot compare labour or fill gaps across the group.\n...\nTemplates, availability and open shifts cut weekly café scheduling from hours of spreadsheet work.\n...\nSee morning rush and lunch gaps before publish, then fill them with available baristas and counter staff.\n...\nOvertime risks are flagged while the rota is still a draft, before extra hours are worked.\n...\nFill open shifts and approved swaps before one absence empties the counter.\n...\nIndependent cafés and multi-site coffee brands use Alphanomic to publish barista rotas, track attendance and keep peak-period coverage under control.\n...\n### Set availability\n\nPart-time and student staff update availability once; managers see constraints while building the rota.\n...\n### Publish rotas\n\nBuild opening, rush and closing cover with templates, then publish live schedules to every café team.\n...\nin from mobile ... hours sit on\n...\nLeave is approved against café cover so weekend peaks never lose counter staff unexpectedly.\n...\nAlphanomic AI helps café managers analyse workforce information and identify potential staffing and scheduling issues around coverage, availability and labour. AI assists café managers. Managers remain in control of the final scheduling decision.\n...\n1. Employee availability\n2. Approved leave\n3. Morning, lunch and weekend requirements\n4. Existing rota\n5. Workforce information\n6. AI analysis\n7. Gaps, conflicts, overtime\n8. Manager review\n...\nGet AI-assisted suggestions that help managers place baristas, counter staff and kitchen support against peak demand.\n...\nSurface availability constraints and approved leave before opening and lunch cover is published.\n...\nHighlight uncovered morning rush, lunch and weekend slots while the rota is still a draft.\n...\nIdentify rising hours, overtime risk and staffing imbalances before managers approve the live rota.\n...\nAlphanomic adapts to how independent cafés, bakery coffee shops, drive-thru brands, franchise groups and multi-site hospitality operators actually run their weeks.\n\n### Independent cafés\n...\nPlan baristas, counter staff and kitchen support around opening, rush and closing with templates that carry week to week.\n...\nlabour reporting.\n...\nGive franchisees local rota control while head office compares labour, cover and attendance across every site.\n...\nMost cafés start with Excel rotas and group chats. They work until morning rush, student availability and multi-site reporting make manual processes the bottleneck.\n...\nCafé scheduling Spreadsheets Excel rotas rebuilt every week Alphanomic Live rotas published to mobile\n...\nAlphanomic\n...\nFree mobile app for café teams. Staff see live shifts on their phone. Managers approve swaps and track attendance without desk admin.\n...\n- Publish and update rotas\n- Approve swaps and leave\n- See who is on shift now\n- Fill gaps before service\n...\nPlan, publish and review café rotas with labour visibility before staff see the schedule.\n...\n- Build this week's rota\n\nUse your real sites, roles and shift patterns.\n- Check hours before you publish\n\nSee coverage and overtime risk while the week is still a draft.\n...\nStaff view schedules and request leave. Managers approve and track attendance from the same mobile workspace.\n\n---\n\nTitle: Hospitality Scheduling Software for Independent Operators | RotaSmart\nURL: https://rotasmart.co.uk/hospitality-scheduling-software\nPublished: N/A\nAuthor: N/A\nHighlights:\nRotaSmart helps operators move from forecast trade to staffing demand, planned labour, rota cost, wage percentage, and staff changes before the schedule is shared.\n\n Hospitality scheduling software\n...\nSee forecast, demand, rota cost, wage percentage, and staff changes in the same weekly view.\n...\nCover In view Demand and gaps stay close to the rota.\n...\n% Checked early ... while changes are still possible.\n\nStaff changes Tracked Requests and swaps stay with the weekly rota.\n\nBuilt by a hospitality operator Forecast, rota, and wage percentage in one weekly view Built for pubs, bars, cafes, food-led venues, and small groups Staff requests and shift changes stay controlled\n...\nIf you want to build and cost the weekly rota, start with hospitality rota software.\n...\nUse this when the job is to build, cost, and publish the weekly rota.\n...\nUse this when you want the full flow from forecast sales to planned labour and staff changes.\n...\nUse this when availability, swaps, time off, and team communication are the main issue.\n...\nwhen the rota is not treated as a separate admin task.\n...\nExpected trade shapes the schedule before shifts are published.\n...\nPlanned labour and wage percentage stay visible while shifts can still change.\n...\nKeep staff changes controlled\n\nAvailability, time off, and swaps return to the rota process instead of separate messages.\n...\nThe staffing demand created by that trade shape.\n...\nNamed shifts, availability, time off, and open gaps.\n...\nTurn the forecast into staffing pressure by role or area.\n...\nPlace shifts where demand and people constraints overlap.\n...\nagainst the trading week\n\nUse the weekly rota view to keep forecast trade, planned cost, availability, and staff changes close to the scheduling decision.\n...\nHospitality rotas change quickly, and managers need a simple way to connect trade, cover, cost, and people decisions before the week goes live.\n...\nStart with expected trade before shifts are placed.\n...\nKeep planned labour cost, wage percentage, and staffing pressure in view.\n...\nReview staffing constraints before the rota is published.\n...\nKeep shift changes, offers, swaps, time off, and clock-in tied to the week.\n...\nSeparate breakfast, lunch, prep, quiet periods, and close-down.\n...\nTranslate the trade shape into cover by role, area, and period.\n...\nPlace shifts with wage percentage, availability, and demand in view.\n...\nstaff actions connected to the rota instead ... scattered messages.\n...\nIt helps managers turn expected trade, staffing demand, availability, and staff changes into a publishable rota.\n...\nHospitality rota software focuses on building and costing the weekly rota.\n...\nStaff scheduling software focuses more on availability, swaps, time off, and team communication after the labour plan is clear.",
+            "_meta": {
+              "searchTime": 1631.2
+            }
+          }
+        ],
+        "isError": false
+      }
+    }
+  ],
+  "synthetic_checks": {
+    "source": "function runMicroChecks(){\n const out=[];const eq=(id,label,actual,expected)=>{const pass=JSON.stringify(actual)===JSON.stringify(expected);out.push({id,label,actual,expected,pass});if(!pass)throw Error(label)};\n const refusal=(id,label,fn)=>{let failed=false;try{fn()}catch{failed=true}eq(id,label,failed,true)};\n function weighted(rows){let n=0,base=0,yes=0;const ids=new Set();for(const r of rows){if(ids.has(r.id)||!Number.isFinite(r.w)||r.w<0)throw Error(\"invalid\");ids.add(r.id);if(r.v===null)continue;if(![0,1].includes(r.v))throw Error(\"answer\");n++;base+=r.w;yes+=r.w*r.v;}if(!base)throw Error(\"base\");return{n,base,proportion:yes/base};}\n const data=[{id:\"a\",w:1,v:1},{id:\"b\",w:3,v:0},{id:\"c\",w:2,v:null}];\n eq(602,\"Exclude missing\",weighted(data),{n:2,base:4,proportion:0.25});eq(602,\"Repeat deterministic\",weighted(data),weighted(data));\n refusal(602,\"Duplicate ID\",()=>weighted([...data,data[0]]));refusal(602,\"Zero base\",()=>weighted([{id:\"a\",w:0,v:1}]));refusal(602,\"Negative weight\",()=>weighted([{id:\"a\",w:-1,v:1}]));\n function stock(parts){if(!parts.length)throw Error(\"empty\");return Math.min(...parts.map(p=>{if(!Number.isInteger(p.n)||p.n<0||!Number.isInteger(p.q)||p.q<=0)throw Error(\"invalid\");return Math.floor(p.n/p.q);}));}\n eq(596,\"Component multiple\",stock([{n:15,q:2},{n:8,q:1}]),7);eq(596,\"Empty component\",stock([{n:0,q:1}]),0);refusal(596,\"Zero requirement\",()=>stock([{n:3,q:0}]));eq(596,\"Concurrent snapshot can oversell\",stock([{n:1,q:1}])+stock([{n:1,q:1}])>1,true);\n const esc=s=>s.replaceAll(\"&\",\"&amp;\").replaceAll(\"<\",\"&lt;\").replaceAll(\">\",\"&gt;\").replaceAll('\"',\"&quot;\");\n function cart(lines){let total=0;const seen=new Set();for(const l of lines){if(seen.has(l.sku)||!Number.isInteger(l.cents)||l.cents<0||!Number.isInteger(l.qty)||l.qty<=0)throw Error(\"invalid\");seen.add(l.sku);total+=l.cents*l.qty;}return{total:(total/100).toFixed(2),items:lines.map(l=>`<Item sku=\"${esc(l.sku)}\">${esc(l.description)}</Item>`).join(\"\")};}\n eq(606,\"Integer cent total\",cart([{sku:\"a\",cents:1999,qty:3,description:\"x\"}]).total,\"59.97\");eq(606,\"XML escaping\",cart([{sku:\"a\",cents:1,qty:1,description:\"a & <b>\"}]).items,'<Item sku=\"a\">a &amp; &lt;b&gt;</Item>');refusal(606,\"Duplicate SKU\",()=>cart([{sku:\"a\",cents:1,qty:1,description:\"x\"},{sku:\"a\",cents:1,qty:1,description:\"x\"}]));refusal(606,\"Fractional cents\",()=>cart([{sku:\"a\",cents:1.5,qty:1,description:\"x\"}]));\n return out;\n}",
+    "results": [
+      {
+        "id": 602,
+        "label": "Exclude missing",
+        "actual": {
+          "n": 2,
+          "base": 4,
+          "proportion": 0.25
+        },
+        "expected": {
+          "n": 2,
+          "base": 4,
+          "proportion": 0.25
+        },
+        "pass": true
+      },
+      {
+        "id": 602,
+        "label": "Repeat deterministic",
+        "actual": {
+          "n": 2,
+          "base": 4,
+          "proportion": 0.25
+        },
+        "expected": {
+          "n": 2,
+          "base": 4,
+          "proportion": 0.25
+        },
+        "pass": true
+      },
+      {
+        "id": 602,
+        "label": "Duplicate ID",
+        "actual": true,
+        "expected": true,
+        "pass": true
+      },
+      {
+        "id": 602,
+        "label": "Zero base",
+        "actual": true,
+        "expected": true,
+        "pass": true
+      },
+      {
+        "id": 602,
+        "label": "Negative weight",
+        "actual": true,
+        "expected": true,
+        "pass": true
+      },
+      {
+        "id": 596,
+        "label": "Component multiple",
+        "actual": 7,
+        "expected": 7,
+        "pass": true
+      },
+      {
+        "id": 596,
+        "label": "Empty component",
+        "actual": 0,
+        "expected": 0,
+        "pass": true
+      },
+      {
+        "id": 596,
+        "label": "Zero requirement",
+        "actual": true,
+        "expected": true,
+        "pass": true
+      },
+      {
+        "id": 596,
+        "label": "Concurrent snapshot can oversell",
+        "actual": true,
+        "expected": true,
+        "pass": true
+      },
+      {
+        "id": 606,
+        "label": "Integer cent total",
+        "actual": "59.97",
+        "expected": "59.97",
+        "pass": true
+      },
+      {
+        "id": 606,
+        "label": "XML escaping",
+        "actual": "<Item sku=\"a\">a &amp; &lt;b&gt;</Item>",
+        "expected": "<Item sku=\"a\">a &amp; &lt;b&gt;</Item>",
+        "pass": true
+      },
+      {
+        "id": 606,
+        "label": "Duplicate SKU",
+        "actual": true,
+        "expected": true,
+        "pass": true
+      },
+      {
+        "id": 606,
+        "label": "Fractional cents",
+        "actual": true,
+        "expected": true,
+        "pass": true
+      }
+    ],
+    "limitations": "Research-only synthetic microchecks, rerun after interruption. Not a customer benchmark, production integration, cXML schema test, statistical validation, product prototype or model comparison. Passing checks demonstrate easy atomic transformations; they do not prove reliable complete delivery."
+  },
+  "source_retrieval_notes": "Five full-page fetches after the last checkpoint were observed in conversation: Gift Card Hero marketplace, Punchout Cloud marketplace, TradeCentric pricing, Microsoft Power BI subscriptions, Shopify bundle eligibility. Raw responses were not persisted; findings are cited by URL in report. Ten earlier page responses remain in replacements-and-attacks.json.",
+  "operations": {
+    "counted_attempts": 100,
+    "excluded_overlap_probes": 4,
+    "discovery_search_calls": 104,
+    "followup_search_calls": 44,
+    "exa_search_calls": 148,
+    "requested_exa_result_slots": 422,
+    "secondary_search_engine_calls": 1,
+    "secondary_search_engine_queries": 4,
+    "secondary_results_used_for_claims": false,
+    "full_page_fetch_calls": 15,
+    "full_page_fetch_responses_archived": 10,
+    "postcheckpoint_page_fetches_recovered_from_transcript": 5,
+    "distinct_synthetic_microchecks": 13,
+    "practitioner_interviews": 0,
+    "agent_outreach": 0,
+    "customer_files": 0,
+    "pilots": 0,
+    "payments": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "api_responses": 15,
+  "filtering_rules": "Call the MediaWiki random generator for namespace 0 until 300 unique pages are stored or 40 responses are received. Keep page id, title, revision id and canonical URL. Drop missing, non-namespace-0, blank or duplicate page ids. No subjective removal. The manifest later draws from this frozen snapshot.",
+  "licence": "English Wikipedia content is available under CC BY-SA 4.0. This snapshot stores page id, title, revision id and canonical URL only, not article text. https://creativecommons.org/licenses/by-sa/4.0/",
+  "pool_file": "research/randomisation/pools/wikipedia_page/pool.jsonl",
+  "raw_file_sha256": "a63f5414255623163c09f1d636ed1f527951c3cb49f2a43212fe0845fe3604dc",
+  "retrieval_timestamp": "2026-10-13T21:07:40Z",
+  "row_count": 300,
+  "source_organisation": "Wikimedia Foundation, English Wikipedia",
+  "source_type": "wikipedia_page",
+  "source_url": "https://en.wikipedia.org/w/api.php?action=query&format=json&generator=random&grnnamespace=0&grnlimit=20&prop=info|revisions&rvprop=ids&inprop=url&redirects=1"
+}

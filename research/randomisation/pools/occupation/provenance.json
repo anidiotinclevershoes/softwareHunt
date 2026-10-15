@@ -1,0 +1,13 @@
+{
+  "api_pages": 31,
+  "api_total_reported": 3039,
+  "filtering_rules": "Read ESCO v1.2.0 from the official occupation search API. With selectedVersion=v1.2.0 the offset parameter is a page index at limit=100. Request pages until the reported total is consumed. Keep the English preferredLabel. Drop blank labels, missing URIs and exact duplicate URIs. No subjective removal. Raw file is the concatenation of unmodified responses.",
+  "licence": "European Commission ESCO v1.2.0. Free of charge for reuse with source acknowledgement. https://esco.ec.europa.eu/en/use-esco/download",
+  "pool_file": "research/randomisation/pools/occupation/pool.jsonl",
+  "raw_file_sha256": "189983588cb276e81a0db2377647979bbc6b3b26065dbab1222981fcc865a84c",
+  "retrieval_timestamp": "2026-10-13T21:07:11Z",
+  "row_count": 3039,
+  "source_organisation": "European Commission, ESCO",
+  "source_type": "occupation",
+  "source_url": "https://ec.europa.eu/esco/api/search?language=en&type=occupation&limit=100&offset=0&selectedVersion=v1.2.0"
+}

@@ -1,0 +1,2035 @@
+{
+  "schema_version": "1.0",
+  "run_date": "2026-10-12",
+  "repository": "anidiotinclevershoes/softwareHunt",
+  "branch": "research/fresh-discovery-2026-10-12-partial",
+  "numeric_ids": "661-760",
+  "authority": [
+    "AGENTS.md",
+    "START_HERE.md",
+    "HUNT_AGENT_PROMPT.md",
+    "V3_1_SURVIVOR_DISCOVERY.md",
+    "V3_2_MARKET_ENTRY_SIDECAR.md",
+    "V3_3_DESK_TO_OUTREACH.md",
+    "V3_4_DOCUMENTED_WORKFLOW_IMPLEMENTABILITY.md"
+  ],
+  "count_audit": {
+    "counted_attempts": 100,
+    "unique_ids": 100,
+    "unique_job_strings": 100,
+    "composition": {
+      "paid_coexistence": 40,
+      "boundary_completion": 30,
+      "underserved_entry": 30
+    },
+    "excluded_prior_to_final_count": [
+      {
+        "id": 690,
+        "old": "Shopify catalogue to EU digital product passport QR records",
+        "reason": "legacy ledger already banked Digital Product Passports / PPWR"
+      },
+      {
+        "id": 717,
+        "old": "Insurance bordereau to Lloyd's delegated-authority data submission",
+        "reason": "legacy ledger already banked insurance bordereaux"
+      },
+      {
+        "id": 737,
+        "old": "Craft breweries needing alcohol-duty return calculations",
+        "reason": "legacy ledger already banked alcohol-duty reconciliation"
+      },
+      {
+        "id": 746,
+        "old": "Small timber importers needing EUDR due-diligence statements",
+        "reason": "legacy ledger already banked timber/EUDR"
+      }
+    ],
+    "historical_rows_reviewed": 634,
+    "semantic_close_pairs_reviewed": [
+      "713 rail CIF vs 714 bus TransXChange: different buyers, standards and accepted outputs",
+      "690 Norway VOEC vs 692 Windsor parcels: tax return vs carrier parcel dataset",
+      "741 general lab uncertainty vs 756 optical OMA order file: measurement report vs proprietary order interchange"
+    ],
+    "lifetime_unique_upper_bound_after_run": 753,
+    "note": "Prior history is known to contain at least seven duplicates, so 753 is an upper bound rather than a certified exact lifetime total."
+  },
+  "research_operations": {
+    "exa_search_calls": 125,
+    "discovery_probes": 104,
+    "excluded_duplicate_probes": 4,
+    "counted_distinct_attempts": 100,
+    "followup_calls": 21,
+    "requested_result_slots": 459,
+    "note": "Follow-up searches, competitor attacks, source checks and access-route searches count as zero attempts. Requested slots are not unique sources."
+  },
+  "decision_counts": {
+    "KILLED": 97,
+    "INCOMPLETE": 2,
+    "ANOMALY": 1
+  },
+  "promoted_survivors": [],
+  "banked_anomalies": [
+    742
+  ],
+  "deeper_second_kill_ids": [
+    686,
+    690,
+    691,
+    692,
+    699,
+    709,
+    720,
+    730,
+    731,
+    734,
+    741,
+    742,
+    756,
+    759
+  ],
+  "evidence_limit": "Desk research only. No buyer interviews, replies, pilots, payments or customer files.",
+  "cases": [
+    {
+      "id": 661,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "Shopify cross-border order to customs-ready commercial invoice",
+      "query": "Shopify customs commercial invoice HS code country of origin Incoterms app pricing merchant review",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Multiple Shopify apps already generate customs commercial invoices, including free/low-cost offers; no uncovered complete result.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Multiple Shopify apps already generate customs commercial invoices, including free/low-cost offers; no uncovered complete result.",
+      "first_ten_route": null,
+      "sources": [
+        "https://apps.shopify.com/print-commercial-invoices",
+        "https://apps.shopify.com/commercial-invoice",
+        "https://apps.shopify.com/origo-eu-uk-customs-invoice"
+      ]
+    },
+    {
+      "id": 662,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "WooCommerce sales to EU VAT OSS evidence and return pack",
+      "query": "WooCommerce EU VAT OSS return report plugin pricing documentation customer",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "WooCommerce OSS plugins and tax platforms already deliver the quarterly return workflow.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "WooCommerce OSS plugins and tax platforms already deliver the quarterly return workflow.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.datafirefly.com/en/documentation/vat-oss-autopilot/",
+        "https://sellinor.dev/eu-vat-one-stop-shop-for-woocommerce/",
+        "https://wordpress.org/plugins/one-stop-shop-woocommerce/"
+      ]
+    },
+    {
+      "id": 663,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "Xero construction transactions to CIS monthly-return preflight",
+      "query": "Xero CIS monthly return subcontractor verification exception correction add-on UK",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Xero natively verifies subcontractors, applies CIS deductions and prepares monthly returns.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Xero natively verifies subcontractors, applies CIS deductions and prepares monthly returns.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.xero.com/uk/accounting-software/submit-vat-online/submit-cis-returns/",
+        "https://central.xero.com/0/article/Create-and-verify-a-CIS-contact",
+        "https://www.steveroot.co.uk/2026/01/13/xero-cis-correcting-a-submitted-return-it-is-possible/"
+      ]
+    },
+    {
+      "id": 664,
+      "lane": "P",
+      "seed": "heron",
+      "job": "QuickBooks Online transactions to Irish VAT3 ROS-ready return",
+      "query": "QuickBooks Online Ireland VAT3 ROS return export integration accountant",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "QuickBooks/ROS bridging already covers the VAT3 filing path.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "QuickBooks/ROS bridging already covers the VAT3 filing path.",
+      "first_ten_route": null,
+      "sources": [
+        "https://quickbooks.intuit.com/learn-support/en-ie/help-article/electronic-filing/submit-vat-return-bridging-software-ros-small/L1bSYhhY8_IE_en_IE",
+        "https://vendors.ie/blog/ros-integration-software",
+        "https://quickbooks.intuit.com/ie/vat-tracking/"
+      ]
+    },
+    {
+      "id": 665,
+      "lane": "P",
+      "seed": "thimble",
+      "job": "Sage 50 dispatches to accepted Intrastat submission",
+      "query": "Sage 50 Intrastat declaration CSV HMRC Northern Ireland add-on",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Sage 50 already exports the prescribed Intrastat CSV; the residual patch concerns older versions and a small Northern Ireland population.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Sage 50 already exports the prescribed Intrastat CSV; the residual patch concerns older versions and a small Northern Ireland population.",
+      "first_ten_route": null,
+      "sources": [
+        "https://gb-kb.sage.com/portal/app/portlets/results/viewsolution.jsp?solutionid=211216125043560",
+        "https://gb-kb.sage.com/portal/app/portlets/results/view2.jsp?k2dockey=201106145818240",
+        "https://www.gov.uk/government/publications/notice-60-intrastat-general-guide/notice-60-intrastat-general-guide"
+      ]
+    },
+    {
+      "id": 666,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "Stripe subscriptions to jurisdiction-compliant fiscal invoices",
+      "query": "Stripe Billing EU fiscal invoice sequential numbering archiving integration pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Stripe explicitly routes this to several marketplace e-invoicing partners; country-by-country rule maintenance makes a broad entrant worse.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Stripe explicitly routes this to several marketplace e-invoicing partners; country-by-country rule maintenance makes a broad entrant worse.",
+      "first_ten_route": null,
+      "sources": [
+        "https://docs.stripe.com/invoicing/e-invoicing",
+        "https://docs.stripe.com/invoicing/customize",
+        "https://stripe.com/guides/invoicing-best-practices-for-the-european-union"
+      ]
+    },
+    {
+      "id": 667,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "HubSpot consent events to auditable Meta Conversions API delivery",
+      "query": "HubSpot Meta Conversions API consent mode integration audit event delivery",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "HubSpot has native Meta CAPI event delivery, status and error handling.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "HubSpot has native Meta CAPI event delivery, status and error handling.",
+      "first_ten_route": null,
+      "sources": [
+        "https://knowledge.hubspot.com/ads/create-and-sync-ad-conversion-events-with-your-meta-ads-accounts-using-metas-conversion-api",
+        "https://trackingconsulting.com/hubspot-to-meta",
+        "https://getfairview.com/blog/connect-meta-ads-to-hubspot"
+      ]
+    },
+    {
+      "id": 668,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "Salesforce CPQ quote to customer-PO discrepancy clearance",
+      "query": "Salesforce CPQ purchase order mismatch validation order release app",
+      "competition": "C3",
+      "documentation": "D2",
+      "verdict": "KILLED",
+      "reason": "Conga already validates and enriches customer purchase orders inside Salesforce order management.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Conga already validates and enriches customer purchase orders inside Salesforce order management.",
+      "first_ten_route": null,
+      "sources": [
+        "https://documentation.conga.com/en/order-management-for-salesforce/current/order-management-for-users/working-with-customer-purchase-orders/managing-cpo-validation-and-enrichment-rules/creating-data-enrichment-and-validation-rules",
+        "https://documentation.conga.com/en/order-management-for-salesforce/current/order-management-for-users/working-with-customer-purchase-orders/managing-cpo-validation-and-enrichment-rules/mitigating-data-validation-issues",
+        "https://www.junorocket.com/salesforce-cpq-order-errors/"
+      ]
+    },
+    {
+      "id": 669,
+      "lane": "P",
+      "seed": "heron",
+      "job": "Jira release issues to medical-device change-control trace pack",
+      "query": "Jira medical device change control traceability release evidence add-on",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Ketryx and other Jira medical-device QMS integrations provide the complete traceability pack.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Ketryx and other Jira medical-device QMS integrations provide the complete traceability pack.",
+      "first_ten_route": null,
+      "sources": [
+        "https://marketplace.atlassian.com/apps/1211120/links-explorer-traceability-hierarchy",
+        "https://marketplace.atlassian.com/apps/1228398/ketryx-lifecycle-management-for-jira",
+        "https://www.ketryx.com/capabilities/jira-connector"
+      ]
+    },
+    {
+      "id": 670,
+      "lane": "P",
+      "seed": "thimble",
+      "job": "GitHub release to CycloneDX SBOM and VEX attestation",
+      "query": "GitHub release CycloneDX SBOM VEX attestation action pricing customer",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "GitHub actions and open-source tooling already generate and verify SBOM/VEX attestations.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "GitHub actions and open-source tooling already generate and verify SBOM/VEX attestations.",
+      "first_ten_route": null,
+      "sources": [
+        "https://github.com/plusultra-tools/sbom-evidence-action",
+        "https://github.com/marketplace/actions/sbomify",
+        "https://github.com/marketplace/actions/generate-generic-attestations"
+      ]
+    },
+    {
+      "id": 671,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "GitLab pipeline to verified SLSA provenance bundle",
+      "query": "GitLab SLSA provenance attestation verification pipeline documentation",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "GitLab natively emits SLSA provenance.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "GitLab natively emits SLSA provenance.",
+      "first_ten_route": null,
+      "sources": [
+        "https://docs.gitlab.com/ci/pipeline_security/slsa/level_3/",
+        "https://docs.gitlab.com/ci/pipeline_security/slsa/",
+        "https://gitlab.com/components/slsa"
+      ]
+    },
+    {
+      "id": 672,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "AWS CloudTrail activity to validated least-privilege IAM policy",
+      "query": "AWS IAM Access Analyzer policy generation CloudTrail least privilege validation",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "AWS Access Analyzer natively generates and validates least-privilege policies from CloudTrail.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "AWS Access Analyzer natively generates and validates least-privilege policies from CloudTrail.",
+      "first_ten_route": null,
+      "sources": [
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-policy-generation.html",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html",
+        "https://docs.aws.amazon.com/IAM/latest/UserGuide/access-analyzer-policy-validation.html"
+      ]
+    },
+    {
+      "id": 673,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "Microsoft Entra permissions to completed access-recertification package",
+      "query": "Microsoft Entra access reviews evidence export remediation completion",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Microsoft Entra access reviews already automate removal, revocation and evidence export.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Microsoft Entra access reviews already automate removal, revocation and evidence export.",
+      "first_ten_route": null,
+      "sources": [
+        "https://learn.microsoft.com/en-us/entra/id-governance/deploy-access-reviews",
+        "https://learn.microsoft.com/en-us/entra/id-governance/complete-access-review",
+        "https://learn.microsoft.com/en-ca/entra/id-governance/access-reviews-downloadable-review-history"
+      ]
+    },
+    {
+      "id": 674,
+      "lane": "P",
+      "seed": "heron",
+      "job": "Microsoft Purview records to defensible retention-disposition review",
+      "query": "Microsoft Purview retention disposition review evidence export workflow",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Microsoft Purview natively runs disposition reviews and preserves review metadata.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Microsoft Purview natively runs disposition reviews and preserves review metadata.",
+      "first_ten_route": null,
+      "sources": [
+        "https://learn.microsoft.com/en-us/purview/disposition",
+        "https://learn.microsoft.com/en-us/purview/retention-label-flow",
+        "https://sharepointmaven.com/how-to-set-up-a-disposition-review-for-content-under-retention-in-sharepoint-online/"
+      ]
+    },
+    {
+      "id": 675,
+      "lane": "P",
+      "seed": "thimble",
+      "job": "Google Vault matter to checksum-verified legal export",
+      "query": "Google Vault export checksums legal matter load file verification service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Google Vault exports already contain hashes/checksums; legal-review platforms ingest the result.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Google Vault exports already contain hashes/checksums; legal-review platforms ingest the result.",
+      "first_ten_route": null,
+      "sources": [
+        "https://support.google.com/vault/answer/6099459?hl=en",
+        "https://support.everlaw.com/hc/en-us/articles/360039427791-Uploading-Exported-Google-Vault-Files",
+        "https://support.google.com/vault/answer/11030798?hl=en"
+      ]
+    },
+    {
+      "id": 676,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "Slack incident channel to timestamped postmortem and Jira action pack",
+      "query": "Slack incident channel postmortem timeline Jira actions integration",
+      "competition": "C4",
+      "documentation": "D2",
+      "verdict": "KILLED",
+      "reason": "Incident.io and peers turn Slack incidents into timelines, postmortems and tracked actions.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Incident.io and peers turn Slack incidents into timelines, postmortems and tracked actions.",
+      "first_ten_route": null,
+      "sources": [
+        "https://incident.io/blog/slack-jira-integration-does-it-reduce-incident-mttr",
+        "https://kestra.io/blueprints/incident-response-jira-slack",
+        "https://github.com/Shanksg/clawskills/blob/main/playbooks/slack-jira-incident.md"
+      ]
+    },
+    {
+      "id": 677,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "Power BI semantic model to source-controlled TMDL deployment package",
+      "query": "Power BI TMDL semantic model source control deployment pipeline documentation",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Microsoft already documents and supports TMDL/PBIP source control and CI/CD.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Microsoft already documents and supports TMDL/PBIP source control and CI/CD.",
+      "first_ten_route": null,
+      "sources": [
+        "https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-build-pipelines",
+        "https://learn.microsoft.com/en-us/training/modules/manage-semantic-model-lifecycle/",
+        "https://www.richardswinbank.net/pbi/deploy_tmdl_semantic_models_to_power_bi"
+      ]
+    },
+    {
+      "id": 678,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "Revit model to IFC export validated against IDS requirements",
+      "query": "Revit IFC IDS validation buildingSMART add-in service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Revit IDS inspection add-ins and buildingSMART validators already provide the result.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Revit IDS inspection add-ins and buildingSMART validators already provide the result.",
+      "first_ten_route": null,
+      "sources": [
+        "https://marketplace.autodesk.com/apps/586f7e37-09c5-4f1e-bfbd-41c79d63c409",
+        "https://technical.buildingsmart.org/resources/software-implementations/",
+        "https://diroots.com/revit-plugins/ids-for-revit/"
+      ]
+    },
+    {
+      "id": 679,
+      "lane": "P",
+      "seed": "heron",
+      "job": "Archicad model to validated COBie asset spreadsheet",
+      "query": "Archicad COBie export validation asset data service",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Archicad has an established COBie export workflow and implementation guidance.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Archicad has an established COBie export workflow and implementation guidance.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.graphisoft.com/en-us/downloads/archicad/cobie/",
+        "https://gsdownloads.graphisoft.com/cdn/ftp/techsupport/documentation/templates/Archicad%20UKI%20COBie%20Template%20Guide.pdf",
+        "https://gsdownloads.graphisoft.com/cdn/ftp/techsupport/documentation/IFC/ArchiCAD17%20and%20COBie2.pdf"
+      ]
+    },
+    {
+      "id": 680,
+      "lane": "P",
+      "seed": "thimble",
+      "job": "SolidWorks BOM to ERP import with units and revisions preserved",
+      "query": "SolidWorks BOM ERP import units revisions integration add-on",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Several SolidWorks-to-ERP BOM integrations preserve revisions and units.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Several SolidWorks-to-ERP BOM integrations preserve revisions and units.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.plmcadutilities.com/solidworks-dynamics-365-finance-and-operations-integration",
+        "https://totaleto.com/solidworks-erp/",
+        "https://elmosolutions.com/agni-link/"
+      ]
+    },
+    {
+      "id": 681,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "Blender OpenUSD scene to validated USDZ interchange package",
+      "query": "Blender OpenUSD USDZ validation asset interchange service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "OpenUSD validation and Blender tooling are open and readily automatable; no paid wedge survived.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "OpenUSD validation and Blender tooling are open and readily automatable; no paid wedge survived.",
+      "first_ten_route": null,
+      "sources": [
+        "https://openusd.org/dev/api/md_pxr_2usd_validation_2usd_validation_2_r_e_a_d_m_e.html",
+        "https://docs.blender.org/manual/en/latest/files/import_export/usd.html",
+        "https://github.com/blender/blender/blob/9b81403e/tests/python/bl_usd_export_test.py"
+      ]
+    },
+    {
+      "id": 682,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "Altium BOM to purchasable alternate-component release",
+      "query": "Altium BOM approved alternates lifecycle availability procurement add-on",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Altium 365 BOM Portal already suggests and approves alternates with lifecycle data.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Altium 365 BOM Portal already suggests and approves alternates with lifecycle data.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.altium.com/documentation/altium-365/bom-portal/sourced-manufacturer-supplier-data?version=7.2",
+        "https://www.altium.com/documentation/altium-365/bom-portal",
+        "https://www.altium.com/capabilities/supply-chain/bom-management"
+      ]
+    },
+    {
+      "id": 683,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "Figma variables to versioned Style Dictionary token package",
+      "query": "Figma variables Style Dictionary design tokens sync GitHub pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Tokens Studio and Figma/GitHub workflows already produce versioned design-token packages.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Tokens Studio and Figma/GitHub workflows already produce versioned design-token packages.",
+      "first_ten_route": null,
+      "sources": [
+        "https://tokens.studio/variables",
+        "https://github.com/figma/variables-github-action-example",
+        "`https://www.figma.com/file/{file_key}/{title}`."
+      ]
+    },
+    {
+      "id": 684,
+      "lane": "P",
+      "seed": "heron",
+      "job": "NetSuite item master to ECLASS-classified catalogue",
+      "query": "NetSuite item master ECLASS classification export integration",
+      "competition": "C1",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "ECLASS is well documented, but correct classification still needs product semantics and no exact NetSuite buyer/spend anomaly was found.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "ECLASS is well documented, but correct classification still needs product semantics and no exact NetSuite buyer/spend anomaly was found.",
+      "first_ten_route": null,
+      "sources": [
+        "https://eclass.eu/support/guides/guides-for-expert-groups/implementation-guide",
+        "https://docs.oracle.com/en/cloud/saas/netsuite-suiteprojects-pro/online-help/article_163455683746.html",
+        "https://service.stibosystems.com/documentation/step2025q1/content/solenabl/eclassadvanced/reference_guide/supported_versions_and_formats.html?TocPath=Solution+Enablement%7CProduct+MDM+Solution+Enablement%7CECLASS%3A+European+Classification+for+Advanced+e-Commerce%7CECLASS+Advanced+Quick+Start+Guide%7C_____3"
+      ]
+    },
+    {
+      "id": 685,
+      "lane": "P",
+      "seed": "thimble",
+      "job": "Acrobat PDF to PAC-validated PDF UA document",
+      "query": "Adobe Acrobat PDF UA remediation PAC validation service price",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "PAC exposes deterministic failures, but production PDF/UA remediation still needs page-level human accessibility judgment.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "PAC exposes deterministic failures, but production PDF/UA remediation still needs page-level human accessibility judgment.",
+      "first_ten_route": null,
+      "sources": [
+        "https://inclusiveweb.net/en/document-accessibility",
+        "https://a-accessibility.com/pdf-ua-remediation",
+        "https://colonfilm.com/pdf-accessibility-remediation"
+      ]
+    },
+    {
+      "id": 686,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "Zotero Word manuscript to journal-ready JATS XML",
+      "query": "Word Zotero manuscript JATS XML conversion service pricing scholarly",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Exact DOCX-to-JATS APIs cost $2.50–$3.50 per conversion and human-reviewed services start around $19; the complete job is already cheap.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Exact DOCX-to-JATS APIs cost $2.50–$3.50 per conversion and human-reviewed services start around $19; the complete job is already cheap.",
+      "first_ten_route": "DOAJ journal directory and OJS ecosystem provide identifiable journal publishers.",
+      "sources": [
+        "https://doc2jats.com/",
+        "https://fulltextcreator.com/",
+        "https://xml.khdproduction.com/",
+        "https://github.com/TypesetIO/converters",
+        "https://blog.scispace.com/simplifying-journal-publishing-and-automating-jats-xml-article-production-e5098ed43d75",
+        "https://ncbi.nlm.nih.gov/books/NBK279666/"
+      ]
+    },
+    {
+      "id": 687,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "WordPress media library to AVIF with URL-safe visual verification",
+      "query": "WordPress media library WebP AVIF conversion preserve URLs visual regression",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "WordPress image-conversion plugins already handle AVIF/WebP and URL preservation.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "WordPress image-conversion plugins already handle AVIF/WebP and URL preservation.",
+      "first_ten_route": null,
+      "sources": [
+        "https://wordpress.org/plugins/tanupom-in-place-converter-for-webp/",
+        "https://wordpress.org/plugins/webp-uploads/",
+        "https://wordpress.org/plugins/lightweight-modern-media/"
+      ]
+    },
+    {
+      "id": 688,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "Amazon catalogue to completed EU GPSR safety attributes",
+      "query": "Amazon seller GPSR responsible person safety attributes bulk update service",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Amazon bulk tooling and seller-compliance products already manage GPSR attributes; responsible-person evidence remains external.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Amazon bulk tooling and seller-compliance products already manage GPSR attributes; responsible-person evidence remains external.",
+      "first_ten_route": null,
+      "sources": [
+        "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/91cabfcb-3466-4f61-8a92-41804a1a05a3",
+        "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/425275d6-3bd0-49d0-8f46-49576a2a3452",
+        "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/12890e07-93ca-4d96-bbbb-3317412e43f4"
+      ]
+    },
+    {
+      "id": 689,
+      "lane": "P",
+      "seed": "heron",
+      "job": "Amazon orders to country-level packaging EPR declaration data",
+      "query": "Amazon seller packaging EPR report Germany France data service",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Amazon itself supplies EPR reports for the relevant country programs.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Amazon itself supplies EPR reports for the relevant country programs.",
+      "first_ten_route": null,
+      "sources": [
+        "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/b03437cc1628b1506c9e4d61e3233678",
+        "https://sell.amazon.de/en/einhaltung-der-erweiterten-herstellerverantwortung",
+        "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/3b4c6ee8d2d54c2a769e67a99ca035b6"
+      ]
+    },
+    {
+      "id": 690,
+      "lane": "P",
+      "seed": "heron",
+      "job": "Shopify orders to Norwegian VOEC VAT return dataset",
+      "query": "Shopify Norway VOEC VAT return report app pricing documentation",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Norway provides a simple quarterly VOEC portal and tax-compliance apps already cover Shopify sellers; frequency and savings are too low.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Norway provides a simple quarterly VOEC portal and tax-compliance apps already cover Shopify sellers; frequency and savings are too low.",
+      "first_ten_route": null,
+      "sources": [
+        "https://apps.shopify.com/bokforing-visma-eekonomi",
+        "https://www.skatteetaten.no/en/business-and-organisation/vat-and-duties/vat/foreign/e-commerce-voec/submit-vat-return/",
+        "https://apps.shopify.com/vatcompliance?locale=nb",
+        "https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/voec/voec-guidelines-mars-2024.pdf",
+        "https://www.skatteetaten.no/globalassets/bedrift-og-organisasjon/voec/sell-charge-and-ship-goods-to-norway.pdf",
+        "https://apps.shopify.com/ioss-vat-calculation-app?locale=nb"
+      ]
+    },
+    {
+      "id": 691,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "WooCommerce SKU packaging weights to UK EPR dataset",
+      "query": "WooCommerce packaging EPR report weights UK submission data",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Exact UK packaging-EPR products already generate DEFRA RPD files from £29/month, including a Shopify app.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Exact UK packaging-EPR products already generate DEFRA RPD files from £29/month, including a Shopify app.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.gov.uk/guidance/report-packaging-data-create-your-reporting-file",
+        "https://www.gov.uk/government/publications/packaging-data-how-to-create-your-file-for-extended-producer-responsibility/file-specification-for-packaging-data-from-2025",
+        "https://www.gov.uk/guidance/how-to-collect-your-packaging-data-for-extended-producer-responsibility",
+        "https://eprcompliance.co.uk/pricing/",
+        "https://eprcompliance.co.uk/",
+        "https://packaging-epr.com/uk-epr"
+      ]
+    },
+    {
+      "id": 692,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "Shopify Northern Ireland orders to Windsor Framework parcel dataset",
+      "query": "Shopify Windsor Framework parcels B2C B2B data carrier integration Northern Ireland",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Royal Mail, Parcelforce, ShipStation and carrier integrations already implement Windsor parcel data at the shipping boundary.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Royal Mail, Parcelforce, ShipStation and carrier integrations already implement Windsor parcel data at the shipping boundary.",
+      "first_ten_route": null,
+      "sources": [
+        "https://changelog.shopify.com/posts/windsor-framework-shipping-from-great-britain-to-northern-ireland",
+        "https://www.gov.uk/government/publications/communications-resources-to-help-you-move-goods-from-great-britain-to-northern-ireland/information-to-share-with-your-supply-chain-in-northern-ireland",
+        "https://www.gov.uk/government/publications/communications-resources-to-help-you-move-goods-from-great-britain-to-northern-ireland/fact-sheet-business-to-business-parcel-movements-under-the-windsor-framework",
+        "https://www.royalmail.com/windsor-framework",
+        "https://help.shipstation.com/hc/en-us/articles/28543998416155-Windsor-Framework-FAQ",
+        "https://assets-eu-01.kc-usercontent.com/220a4c02-94bf-019b-9bac-51cdc7bf0d99/8f55d3a2-995c-4832-8ab3-6edae35c8772/FAQ%20Sheet%20-%20New%20Parcel%20Arrangements%20under%20the%20Windsor%20Framework.pdf"
+      ]
+    },
+    {
+      "id": 693,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "Stripe Connect seller records to DAC7 reporting file",
+      "query": "Stripe Connect DAC7 seller reporting due diligence integration",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Stripe Connect already prepares DAC7/OECD seller reporting data.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Stripe Connect already prepares DAC7/OECD seller reporting data.",
+      "first_ten_route": null,
+      "sources": [
+        "https://docs.stripe.com/connect/platform-tax-reporting",
+        "https://docs.stripe.com/data/query-connect-data",
+        "https://docs.stripe.com/connect/get-started-tax-reporting"
+      ]
+    },
+    {
+      "id": 694,
+      "lane": "P",
+      "seed": "heron",
+      "job": "Airbnb Booking reservations to Irish short-term accommodation registration return",
+      "query": "Ireland short term accommodation register booking data submission software Airbnb",
+      "competition": "C1",
+      "documentation": "D1",
+      "verdict": "INCOMPLETE",
+      "reason": "The Irish short-term-let register and accepted return are not yet sufficiently specified; there is no current repeatable output to sell.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "The Irish short-term-let register and accepted return are not yet sufficiently specified; there is no current repeatable output to sell.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.failteireland.ie/en/short-term-letting-register/faq",
+        "https://enterprise.gov.ie/en/what-we-do/trade-investment/tourism/short-term-letting/short-term-letting-in-ireland.html",
+        "https://inovada.com/solutions/short-term-letting-os/"
+      ]
+    },
+    {
+      "id": 695,
+      "lane": "P",
+      "seed": "thimble",
+      "job": "Odoo invoices to delivered Peppol BIS e-invoices",
+      "query": "Odoo Peppol BIS Billing 3 e-invoice access point pricing UK Ireland",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Odoo Peppol modules and access points already create, validate and deliver BIS invoices.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Odoo Peppol modules and access points already create, validate and deliver BIS invoices.",
+      "first_ten_route": null,
+      "sources": [
+        "https://apps.odoo.com/apps/modules/19.0/eh_account_einvoice_peppol",
+        "https://ecosire.com/apps/odoo/ecosire-einvoice-peppol",
+        "https://ecosire.com/apps/odoo/eu-peppol-bis-einvoicing"
+      ]
+    },
+    {
+      "id": 696,
+      "lane": "P",
+      "seed": "hinge",
+      "job": "Excel payroll to accepted NEST pension contribution upload",
+      "query": "NEST pension contribution file CSV validation payroll upload service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "NEST publishes a template and validates uploads, while payroll products already export the contribution file.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "NEST publishes a template and validates uploads, while payroll products already export the contribution file.",
+      "first_ten_route": null,
+      "sources": [
+        "https://nestpensions.org.uk/schemeweb/helpcentre/contributions/making-contributions/where-to-upload-completed-csv-file.html",
+        "https://www.nestpensions.org.uk/schemeweb/helpcentre/contributions/making-contributions/csv-file-created-by-payroll-provider.html",
+        "https://www.nestpensions.org.uk/schemeweb/helpcentre/contributions/making-contributions/complete-a-contribution-csv-file.html"
+      ]
+    },
+    {
+      "id": 697,
+      "lane": "P",
+      "seed": "kiln",
+      "job": "SharePoint documents to ISO 9001 controlled-release register",
+      "query": "SharePoint ISO 9001 document control approval revision evidence add-on",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "SharePoint QMS/document-control products already deliver controlled revisions and evidence.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "SharePoint QMS/document-control products already deliver controlled revisions and evidence.",
+      "first_ten_route": null,
+      "sources": [
+        "https://microsoftmadeeasy.com/sharepoint-iso-9001-document-control",
+        "https://lialis.com/document-control/",
+        "https://www.konsolute.com/products/iso-certified-qms-system/"
+      ]
+    },
+    {
+      "id": 698,
+      "lane": "P",
+      "seed": "lattice",
+      "job": "ServiceNow CMDB records to CSDM conformance remediation",
+      "query": "ServiceNow CMDB CSDM data quality conformance remediation tool",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "ServiceNow natively measures CSDM/CMDB conformance and exposes remediation dashboards.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "ServiceNow natively measures CSDM/CMDB conformance and exposes remediation dashboards.",
+      "first_ten_route": null,
+      "sources": [
+        "https://store.servicenow.com/store/app/e909a36e1be06a50a85b16db234bcbe6",
+        "https://www.servicenow.com/docs/r/washingtondc/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.html",
+        "https://www.servicenow.com/docs/bundle/zurich-servicenow-platform/page/product/configuration-management/concept/overview-cmdb-health.html"
+      ]
+    },
+    {
+      "id": 699,
+      "lane": "P",
+      "seed": "heron",
+      "job": "Zendesk complaints to FCA DISP complaints return",
+      "query": "Zendesk FCA DISP complaints return reporting financial services integration",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Civica, ResolveCX and complaints platforms already handle FCA DISP workflows and regulatory reporting; a Zendesk bridge is only a feature.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Civica, ResolveCX and complaints platforms already handle FCA DISP workflows and regulatory reporting; a Zendesk bridge is only a feature.",
+      "first_ten_route": "The FCA Financial Services Register exposes identifiable regulated firms.",
+      "sources": [
+        "https://www.fca.org.uk/firms/regulatory-reporting/reporting-complaints",
+        "https://www.fca.org.uk/publications/consultation-papers/ps25-19-improving-complaints-reporting-process",
+        "https://handbook.fca.org.uk/handbook/disp1/disp1s11",
+        "https://www.civica.com/en-gb/product-pages/case-management-software/civica-complaints-management/sectors/financial-services-complaints-management-software/fca-complaints-management-software/",
+        "https://resolvecx.global/fca-complaint-management-software",
+        "https://www.fca.org.uk/firms/regdata/complaints-data-items-faqs"
+      ]
+    },
+    {
+      "id": 700,
+      "lane": "P",
+      "seed": "thimble",
+      "job": "Shopify electrical sales and returns to WEEE producer report",
+      "query": "Shopify WEEE producer compliance sales returns report UK app",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "WEEE compliance schemes and specialist EPR products own the accepted report; Shopify sales data alone cannot complete it.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "WEEE compliance schemes and specialist EPR products own the accepted report; Shopify sales data alone cannot complete it.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.remedy-epr.com/weee-compliance",
+        "https://www.gov.uk/guidance/regulations-waste-electrical-and-electronic-equipment",
+        "https://www.magicalapps.com/setup/how-to-charge-uk-weee-compliance-fees-on-shopify"
+      ]
+    },
+    {
+      "id": 701,
+      "lane": "B",
+      "seed": "kiln",
+      "job": "MARC21 library records to validated BIBFRAME RDF",
+      "query": "MARC21 to BIBFRAME conversion validator Library of Congress service",
+      "competition": "C2",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "The Library of Congress publishes the converter, mappings and examples; little paid work remains.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "The Library of Congress publishes the converter, mappings and examples; little paid work remains.",
+      "first_ten_route": null,
+      "sources": [
+        "https://id.loc.gov/tools/bibframe/",
+        "https://www.loc.gov/bibframe/implementation/",
+        "https://www.loc.gov/bibframe/mtbf/"
+      ]
+    },
+    {
+      "id": 702,
+      "lane": "B",
+      "seed": "lattice",
+      "job": "Supplier spreadsheet to BMEcat ETIM catalogue",
+      "query": "Excel product data BMEcat ETIM export validation service",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "BMEcat/ETIM conversion and validation are established paid services and tools.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "BMEcat/ETIM conversion and validation are established paid services and tools.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.excodata.com/bmecat-erstellung/",
+        "https://www.bmetoolbox.io/en/etim-validation/",
+        "https://www.excodata.com/en/solutions/"
+      ]
+    },
+    {
+      "id": 703,
+      "lane": "B",
+      "seed": "heron",
+      "job": "Order records to UBL despatch advice and invoice package",
+      "query": "order CSV UBL 2.1 despatch advice invoice validator service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Peppol/UBL APIs already generate, validate and deliver invoice and despatch messages.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Peppol/UBL APIs already generate, validate and deliver invoice and despatch messages.",
+      "first_ten_route": null,
+      "sources": [
+        "https://myinvoice.llc/en/e-procurement",
+        "https://myinvoice.llc/en/docs",
+        "https://www.invoicexml.com/api/validate/ubl"
+      ]
+    },
+    {
+      "id": 704,
+      "lane": "B",
+      "seed": "thimble",
+      "job": "Clinical records to validated HL7 FHIR bundle",
+      "query": "HL7 FHIR bundle validation service implementation guide validator",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "HL7 supplies a free validator, while local implementation-profile mapping is the hard, expert integration work.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "HL7 supplies a free validator, while local implementation-profile mapping is the hard, expert integration work.",
+      "first_ten_route": null,
+      "sources": [
+        "https://confluence.hl7.org/display/FHIR/Using+the+FHIR+Validator",
+        "https://www.hl7.org/fhir/validation.html",
+        "https://confluence.hl7.org/spaces/FHIR/pages/441520076/Running+the+Validator+as+a+local+HTTP+service%C2%A0"
+      ]
+    },
+    {
+      "id": 705,
+      "lane": "B",
+      "seed": "hinge",
+      "job": "Safety case data to accepted ICH E2B R3 XML",
+      "query": "ICH E2B R3 XML validation pharmacovigilance submission service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Veeva and pharmacovigilance platforms already produce and validate E2B(R3); safety-case judgment and liability remain.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "Veeva and pharmacovigilance platforms already produce and validate E2B(R3); safety-case judgment and liability remain.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.fda.gov/media/177186/download",
+        "https://safety.veevavault.help/en/lr/01226",
+        "https://www.fda.gov/media/165786/download"
+      ]
+    },
+    {
+      "id": 706,
+      "lane": "B",
+      "seed": "kiln",
+      "job": "Clinical-trial datasets to validated CDISC SDTM package",
+      "query": "CDISC SDTM package validation Pinnacle 21 service pricing",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Pinnacle 21 is the entrenched SDTM validation product.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Pinnacle 21 is the entrenched SDTM validation product.",
+      "first_ten_route": null,
+      "sources": [
+        "https://help.pinnacle21.certara.net/en/articles/10517281-p21-community-vs-p21-enterprise",
+        "https://www.certara.com/pinnacle-21-enterprise-software/validation/",
+        "https://www.certara.com/wp-content/uploads/2025/04/2025-03-24-P21-Fact-Sheet_Digital.pdf"
+      ]
+    },
+    {
+      "id": 707,
+      "lane": "B",
+      "seed": "lattice",
+      "job": "Mass-spectrometry files to mzML repository package",
+      "query": "mass spectrometry raw mzML conversion ProteomeXchange submission service",
+      "competition": "C2",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "ProteomeXchange publishes submission tooling; the academic workflow shows weak independent software spend.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "ProteomeXchange publishes submission tooling; the academic workflow shows weak independent software spend.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.proteomexchange.org/submission/index.html",
+        "https://www.proteomexchange.org/docs/Submission_Tutorial.pdf",
+        "https://proteomecentral.proteomexchange.org/doc/serviceDocs.php"
+      ]
+    },
+    {
+      "id": 708,
+      "lane": "B",
+      "seed": "heron",
+      "job": "qPCR run data to MIQE-complete experiment report",
+      "query": "qPCR data MIQE checklist report automation service",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "AnnealIQ already sells MIQE-oriented qPCR reporting and free analysis alternatives exist.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "AnnealIQ already sells MIQE-oriented qPCR reporting and free analysis alternatives exist.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.annealiq.ai/docs/miqe-compliance",
+        "https://www.annealiq.ai/",
+        "https://www.qpcrguru.com/"
+      ]
+    },
+    {
+      "id": 709,
+      "lane": "B",
+      "seed": "thimble",
+      "job": "Borehole logs spreadsheet to validated AGS file",
+      "query": "geotechnical borehole data AGS format validator conversion service UK",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "AGS and BGS provide a free validator, utilities and API, alongside listed commercial software.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "AGS and BGS provide a free validator, utilities and API, alongside listed commercial software.",
+      "first_ten_route": null,
+      "sources": [
+        "https://agsapi.bgs.ac.uk/",
+        "https://www.ags.org.uk/data-format/ags-validator/",
+        "https://www.bgs.ac.uk/technologies/geotechnical-data-services/",
+        "https://www.ags.org.uk/data-format/software/",
+        "https://www.ags.org.uk/about/become-a-member/data-format-rates/",
+        "https://britishgeologicalsurvey.github.io/pyagsapi/"
+      ]
+    },
+    {
+      "id": 710,
+      "lane": "B",
+      "seed": "hinge",
+      "job": "Spatial dataset to INSPIRE-valid GML package",
+      "query": "GIS shapefile INSPIRE GML validator conversion service UK EU",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "INSPIRE has an official validation service and mature GIS transformation suppliers.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "INSPIRE has an official validation service and mature GIS transformation suppliers.",
+      "first_ten_route": null,
+      "sources": [
+        "https://validation-service.inspire-helpdesk.eu/",
+        "https://www.gispo.studio/validate",
+        "https://validator.ippfbih.gov.ba/validator/test-selection/test_en.html"
+      ]
+    },
+    {
+      "id": 711,
+      "lane": "B",
+      "seed": "kiln",
+      "job": "Building energy model to validated gbXML EnergyPlus input",
+      "query": "gbXML EnergyPlus IDF validation conversion service",
+      "competition": "C2",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Open translators and test cases exist; creating a trustworthy energy model still depends on modelling assumptions outside the converter.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Open translators and test cases exist; creating a trustworthy energy model still depends on modelling assumptions outside the converter.",
+      "first_ten_route": null,
+      "sources": [
+        "https://publications.ibpsa.org/proceedings/bs/2023/papers/bs2023_1412.pdf",
+        "https://github.com/GreenBuildingXML/gbXML-to-IDF-Test-Cases",
+        "https://exa.ai/library/publication/lh83trqr69y"
+      ]
+    },
+    {
+      "id": 712,
+      "lane": "B",
+      "seed": "lattice",
+      "job": "BIM issue records to validated BCF coordination package",
+      "query": "BIM issue CSV BCF XML validation buildingSMART service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "BCF is implemented across BIM coordination suites and validated by existing buildingSMART tooling.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "BCF is implemented across BIM coordination suites and validated by existing buildingSMART tooling.",
+      "first_ten_route": null,
+      "sources": [
+        "https://validate.buildingsmart.org/",
+        "https://technical.buildingsmart.org/standards/bcf/",
+        "https://www.buildingsmart.org/standards/bsi-standards/bim-collaboration-format/"
+      ]
+    },
+    {
+      "id": 713,
+      "lane": "B",
+      "seed": "heron",
+      "job": "Rail schedule to Network Rail CIF feed",
+      "query": "UK rail timetable CIF file validation creation service",
+      "competition": "C2",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Open CIF libraries exist, while the small rail-supplier population and timetable-authoring systems absorb the paid job.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Open CIF libraries exist, while the small rail-supplier population and timetable-authoring systems absorb the paid job.",
+      "first_ten_route": null,
+      "sources": [
+        "https://github.com/peter-mount/nrod-cif",
+        "https://planarnetwork.github.io/gb-transit/",
+        "https://planarnetwork.github.io/gb-transit/feeds/using-this-data/"
+      ]
+    },
+    {
+      "id": 714,
+      "lane": "B",
+      "seed": "thimble",
+      "job": "Bus schedule to TransXChange feed",
+      "query": "UK bus timetable TransXChange validator publishing service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "The government BODS publication workflow and established scheduling systems already emit TransXChange.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "The government BODS publication workflow and established scheduling systems already emit TransXChange.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.gov.uk/guidance/publish-bus-open-data",
+        "https://publish.bus-data.dft.gov.uk/guidance/operator-requirements/?section=timetables",
+        "https://publish.bus-data.dft.gov.uk/guidance/operator-requirements/?section=dataquality"
+      ]
+    },
+    {
+      "id": 715,
+      "lane": "B",
+      "seed": "hinge",
+      "job": "Public-transport fares to NeTEx package",
+      "query": "UK NeTEx fares validation service public transport",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "DfT provides the fares service/profile and transport scheduling vendors already generate NeTEx.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "DfT provides the fares service/profile and transport scheduling vendors already generate NeTEx.",
+      "first_ten_route": null,
+      "sources": [
+        "https://fares-data.dft.gov.uk/",
+        "https://pti.org.uk/system/files/files/BODS_NeTEx_Fares_profile_v1_1.pdf",
+        "https://www.pti.org.uk/system/files/files/BODS_NeTEx_Fares_profile_v0-4.pdf"
+      ]
+    },
+    {
+      "id": 716,
+      "lane": "B",
+      "seed": "kiln",
+      "job": "Roadworks job data to Street Manager API payload",
+      "query": "Street Manager API permit notice payload validation service UK",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Street Manager publishes the API and incumbent streetworks systems already submit the payload.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Street Manager publishes the API and incumbent streetworks systems already submit the payload.",
+      "first_ten_route": null,
+      "sources": [
+        "https://department-for-transport-streetmanager.github.io/street-manager-docs/api-documentation/V7/V7.12/",
+        "https://department-for-transport-streetmanager.github.io/street-manager-docs/articles/business-rules-version-1-20.html",
+        "https://department-for-transport-streetmanager.github.io/street-manager-docs/api-documentation/V7/resource-guides/data-export-api-guide"
+      ]
+    },
+    {
+      "id": 717,
+      "lane": "B",
+      "seed": "kiln",
+      "job": "Product master to validated GS1 GDSN CIN message",
+      "query": "product spreadsheet GS1 GDSN CIN XML validation service",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Innovit, Syndigo, Qmica and GS1 services already validate and syndicate GDSN product messages.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Innovit, Syndigo, Qmica and GS1 services already validate and syndicate GDSN product messages.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.innovit.com/products/gdsn-connectors/",
+        "https://qmica.io/gs1-product-data-validation",
+        "https://www.help.gs1us.org/gdsn-harvester"
+      ]
+    },
+    {
+      "id": 718,
+      "lane": "B",
+      "seed": "heron",
+      "job": "Payroll rows to HMRC FPS RTI XML submission",
+      "query": "payroll CSV HMRC FPS RTI XML validation submission service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Payroll software already files FPS and HMRC publishes exhaustive schemas and tests.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Payroll software already files FPS and HMRC publishes exhaustive schemas and tests.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.gov.uk/government/publications/real-time-information-internet-submissions-2025-to-2026-technical-specifications",
+        "https://assets.publishing.service.gov.uk/media/5a82d5e1ed915d74e6237df5/paye-user.pdf",
+        "https://www.gov.uk/government/publications/real-time-information-internet-submissions-generic-technical-specifications"
+      ]
+    },
+    {
+      "id": 719,
+      "lane": "B",
+      "seed": "thimble",
+      "job": "Bank statement to ISO 20022 camt.053",
+      "query": "bank CSV to ISO 20022 camt.053 converter validation",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Several exact CSV-to-camt.053 converters exist; bank-specific mapping makes a generic entrant support-heavy.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Several exact CSV-to-camt.053 converters exist; bank-specific mapping makes a generic entrant support-heavy.",
+      "first_ten_route": null,
+      "sources": [
+        "https://toolsvana.com/tool/csv-to-camt",
+        "https://bank-statement-conversion.com/csv-to-camt053",
+        "https://www.statementbridge.nl/en/blog/convert-csv-to-camt053"
+      ]
+    },
+    {
+      "id": 720,
+      "lane": "B",
+      "seed": "hinge",
+      "job": "Product carbon data to PACT Pathfinder PCF JSON",
+      "query": "PACT Pathfinder product carbon footprint JSON validation service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "PACT supplies conformance tooling and carbon platforms already exchange the data; buyers purchase PCF calculation and supplier programs, not a JSON wrapper.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "PACT supplies conformance tooling and carbon platforms already exchange the data; buyers purchase PCF calculation and supplier programs, not a JSON wrapper.",
+      "first_ten_route": null,
+      "sources": [
+        "https://docs.carbon-transparency.org/pact-conformance-service/v3-test-cases-expected-results.html",
+        "https://docs.carbon-transparency.org/data-exchange-protocol/faq.html",
+        "https://github.com/wbcsd/data-exchange-protocol/blob/main/spec/v3/index.md",
+        "https://www.carbon-transparency.org/guides/guide-join-pact-network",
+        "https://www.carbon-transparency.org/case-studies/a-journey-of-change-fujitsu",
+        "https://docs.carbon-transparency.org/tr/data-exchange-protocol/latest/"
+      ]
+    },
+    {
+      "id": 721,
+      "lane": "B",
+      "seed": "kiln",
+      "job": "Electronic parts declaration to IPC-1752A XML",
+      "query": "IPC-1752A material declaration XML validation service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Free IPC-1752A generators and validators already provide the deterministic file layer.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Free IPC-1752A generators and validators already provide the deterministic file layer.",
+      "first_ten_route": null,
+      "sources": [
+        "https://desk.pareo.ai/ipc/",
+        "https://xmlgen.assentcompliance.com/",
+        "https://www.electronics.org/media/3789/download"
+      ]
+    },
+    {
+      "id": 722,
+      "lane": "B",
+      "seed": "lattice",
+      "job": "Medical-device identifiers to EUDAMED UDI dataset",
+      "query": "EUDAMED UDI data upload XML validation service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "EUDAMED publishes machine-to-machine definitions, while medical-device QMS vendors already own the UDI master and regulatory workflow.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "EUDAMED publishes machine-to-machine definitions, while medical-device QMS vendors already own the UDI master and regulatory workflow.",
+      "first_ten_route": null,
+      "sources": [
+        "https://health.ec.europa.eu/system/files/2022-08/md_eo-mdr-eudamed-data-exchange-notes_en_1.pdf",
+        "https://webgate.ec.europa.eu/eudamed-help/en/data-exchange/machine-to-machine/annex-2--xml-files-index-.html",
+        "https://webgate.ec.europa.eu/eudamed-help/en/files/DTX%20for%20EOs%20-%20services%20definition.pdf"
+      ]
+    },
+    {
+      "id": 723,
+      "lane": "B",
+      "seed": "heron",
+      "job": "Chemical mixture data to poison-centre PCN dossier",
+      "query": "ECHA poison centre notification PCN dossier UFI validation service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "ECHA supplies IUCLID/validation tools and regulatory suites already create PCN dossiers; mixture classification needs specialist inputs.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "ECHA supplies IUCLID/validation tools and regulatory suites already create PCN dossiers; mixture classification needs specialist inputs.",
+      "first_ten_route": null,
+      "sources": [
+        "https://poisoncentres.echa.europa.eu/prepare-and-submit-a-pcn",
+        "https://poisoncentres.echa.europa.eu/tools",
+        "https://poisoncentres.echa.europa.eu/documents/1789887/5577602/pcn_validation_rules_en.pdf/6f7c90ce-dc2e-d937-e084-b8f58fa71314"
+      ]
+    },
+    {
+      "id": 724,
+      "lane": "B",
+      "seed": "thimble",
+      "job": "Article SVHC data to accepted SCIP dossier",
+      "query": "ECHA SCIP dossier creation validation service pricing",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "ECHA Cloud and SCIP submission services already provide the dossier path.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "ECHA Cloud and SCIP submission services already provide the dossier path.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.trade-e-bility.com/scip-fast-lane/",
+        "https://echa.europa.eu/tools",
+        "https://echa.europa.eu/support/dossier-submission-tools/echa-cloud-services"
+      ]
+    },
+    {
+      "id": 725,
+      "lane": "B",
+      "seed": "hinge",
+      "job": "Machine information model to OPC UA NodeSet XML",
+      "query": "OPC UA NodeSet XML validation information model service",
+      "competition": "C2",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "The NodeSet schema is implementable, but authoring a correct machine information model remains engineering work.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "The NodeSet schema is implementable, but authoring a correct machine information model remains engineering work.",
+      "first_ten_route": null,
+      "sources": [
+        "https://reference.opcfoundation.org/specs/OPC-10000-6/annex-f",
+        "https://www.nuget.org/packages/UAOOI.SemanticData.UANodeSetValidation/",
+        "https://reference.opcfoundation.org/specs/OPC-10000-6/f-2"
+      ]
+    },
+    {
+      "id": 726,
+      "lane": "B",
+      "seed": "kiln",
+      "job": "BMS point list to BACnet EDE interchange file",
+      "query": "BACnet EDE file point list conversion validation service",
+      "competition": "C2",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Free BACnet EDE checkers/converters exist and no credible paid demand for the interchange-only job appeared.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Free BACnet EDE checkers/converters exist and no credible paid demand for the interchange-only job appeared.",
+      "first_ten_route": null,
+      "sources": [
+        "https://adquio.com/lithernet-adquio-ede-json-converter-without-yabe/?lang=en",
+        "https://plantroomlabs.com/tools/ede-check/",
+        "https://bacnet-ede.hexdocs.pm/BACnetEDE.html"
+      ]
+    },
+    {
+      "id": 727,
+      "lane": "B",
+      "seed": "lattice",
+      "job": "Luminaire photometry to EULUMDAT and IES files",
+      "query": "photometric data EULUMDAT LDT IES conversion validation service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Free photometric validators and LDT/IES converters make this a commodity utility.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Free photometric validators and LDT/IES converters make this a commodity utility.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.rastro.ai/tools/photometric-file-validator",
+        "https://www.rastro.ai/tools/ldt-ies-converter",
+        "https://fold1.com/eulumdattools/"
+      ]
+    },
+    {
+      "id": 728,
+      "lane": "B",
+      "seed": "heron",
+      "job": "Inspection results to QIF quality file",
+      "query": "metrology inspection CSV QIF quality information framework validation",
+      "competition": "C2",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "QIF has strong standards tooling, but metrology suites already own measurement semantics and customer distribution.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "QIF has strong standards tooling, but metrology suites already own measurement semantics and customer distribution.",
+      "first_ten_route": null,
+      "sources": [
+        "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=908116",
+        "https://www.iso.org/standard/77461.html",
+        "https://www.nist.gov/services-resources/software/qif-pmi-report-software"
+      ]
+    },
+    {
+      "id": 729,
+      "lane": "B",
+      "seed": "thimble",
+      "job": "GNSS observations to validated RINEX archive",
+      "query": "GNSS raw observations RINEX conversion validation service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "RINEX converters and quality checkers are already available; the standalone conversion value is low.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "RINEX converters and quality checkers are already available; the standalone conversion value is low.",
+      "first_ten_route": null,
+      "sources": [
+        "https://posflow.ai/gnss-rinex-converter",
+        "https://posflow.ai/rinex-quality-checker",
+        "https://postprocessingmaster.com/"
+      ]
+    },
+    {
+      "id": 730,
+      "lane": "B",
+      "seed": "hinge",
+      "job": "Weather-station observations to WMO BUFR message",
+      "query": "weather station CSV WMO BUFR encoding validation service",
+      "competition": "C3",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "WMO ships csv2bufr, mappings and training; enterprise weather vendors cover supported deployments.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "WMO ships csv2bufr, mappings and training; enterprise weather vendors cover supported deployments.",
+      "first_ten_route": null,
+      "sources": [
+        "https://codes.ecmwf.int/bufr/validator",
+        "https://csv2bufr.readthedocs.io/en/latest/mapping.html",
+        "https://github.com/wmo-im/csv2bufr",
+        "https://www.iblsoft.com/products/recode-weather/",
+        "https://pypi.org/project/csv2bufr/",
+        "https://training.wis2box.wis.wmo.int/practical-sessions/csv2bufr-templates/"
+      ]
+    },
+    {
+      "id": 731,
+      "lane": "U",
+      "seed": "lattice",
+      "job": "Small solar installers needing G98/G99 application packs",
+      "query": "UK small solar installer G98 G99 application form automation pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "CLRD already delivers the complete pack, routing, SLD, submission and audit trail for £69/month/25 packs with named installer testimonials; Kflows and Gridflow add direct competition.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "CLRD already delivers the complete pack, routing, SLD, submission and audit trail for £69/month/25 packs with named installer testimonials; Kflows and Gridflow add direct competition.",
+      "first_ten_route": "The official MCS installer directory exposes identifiable solar installers.",
+      "sources": [
+        "https://kflows.co.uk/solutions/solar",
+        "https://clrd.uk/solutions/small-team",
+        "https://clrd.uk/solutions/individual-installer",
+        "https://clrd.uk/",
+        "https://clrd.uk/faq",
+        "https://clrd.uk/solutions/established-business"
+      ]
+    },
+    {
+      "id": 732,
+      "lane": "U",
+      "seed": "heron",
+      "job": "Small EV-charge installers needing ENA notification completion",
+      "query": "UK EV charger installer ENA Connect Direct notification workflow service",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "ENA Connect Direct is the official AI-enabled connection workflow.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "ENA Connect Direct is the official AI-enabled connection workflow.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.energynetworks.org/industry/connecting-to-the-networks/connect-direct",
+        "https://www.energynetworks.org/industry/connecting-to-the-networks/frequently-asked-questions-about-connecting-to-the-networks",
+        "https://www.energynetworks.org/newsroom/ena-launches-ai-powered-platform-to-accelerate-domestic-connections-for-low-carbon-technologies"
+      ]
+    },
+    {
+      "id": 733,
+      "lane": "U",
+      "seed": "thimble",
+      "job": "Small heat-pump installers needing MCS commissioning packs",
+      "query": "UK heat pump MCS commissioning certificate paperwork software small installer",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Payaca, Heatio and Instool already provide installer compliance and commissioning packs.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Payaca, Heatio and Instool already provide installer compliance and commissioning packs.",
+      "first_ten_route": null,
+      "sources": [
+        "https://payaca.com/uk/features/compliance",
+        "https://heatio.com/features",
+        "https://instool.co.uk/heatpumps"
+      ]
+    },
+    {
+      "id": 734,
+      "lane": "U",
+      "seed": "hinge",
+      "job": "Micro machine builders needing UKCA technical files",
+      "query": "UK small machine builder UKCA technical file risk assessment service price",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "RiskMach, MachineSafe and StandardOS already sell machinery technical-file workflows.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "RiskMach, MachineSafe and StandardOS already sell machinery technical-file workflows.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.spierssafety.co.uk/ce-ukca-marking-machines/",
+        "https://www.riskmach.co.uk/ce-self-certification/",
+        "https://www.safemachine.co.uk/ce-marking-machinery/",
+        "https://machinesafe.co.uk/ce-marking-ukca-marking",
+        "https://www.safemachine.co.uk/wp-content/uploads/2024/04/HTF-WP-001321-White-Paper.pdf",
+        "https://www.riskmach.co.uk/certification/"
+      ]
+    },
+    {
+      "id": 735,
+      "lane": "U",
+      "seed": "kiln",
+      "job": "Small radio-device makers needing RED cybersecurity evidence",
+      "query": "EU Radio Equipment Directive cybersecurity technical documentation small manufacturer",
+      "competition": "C3",
+      "documentation": "D2",
+      "verdict": "KILLED",
+      "reason": "RED cybersecurity evidence requires device-specific testing and conformity judgment; software can organise but cannot independently complete the purchased result.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "RED cybersecurity evidence requires device-specific testing and conformity judgment; software can organise but cannot independently complete the purchased result.",
+      "first_ten_route": null,
+      "sources": [
+        "https://solidwaretools.com/redcheck/iot-sensor-manufacturer-eu-cybersecurity-documentation-sme.html",
+        "https://www.spilma.com/en/red/technical-file",
+        "https://www.gov.uk/government/publications/radio-equipment-regulations-2017/regulation-eu-202230-factsheet"
+      ]
+    },
+    {
+      "id": 736,
+      "lane": "U",
+      "seed": "lattice",
+      "job": "Independent importers needing CBAM quarterly reports",
+      "query": "EU CBAM small importer quarterly report service pricing supplier data",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "CBAM reporting is crowded with platforms and managed services, including public annual pricing.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "CBAM reporting is crowded with platforms and managed services, including public annual pricing.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.thesustainabilitycloud.com/products/cbam-importer/pricing/",
+        "https://ecocomply.ai/cbam-reporting",
+        "https://cbamguide.com/compliance/cbam-declarant-services/"
+      ]
+    },
+    {
+      "id": 737,
+      "lane": "U",
+      "seed": "thimble",
+      "job": "Small anaerobic-digestion operators needing Ofgem sustainability reports",
+      "query": "UK small anaerobic digestion Ofgem sustainability report software pricing",
+      "competition": "C2",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Ofgem defines quarterly and annual declarations, but installations at or above 1MW require independent audit; the below-1MW residual population is too narrow.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "Ofgem defines quarterly and annual declarations, but installations at or above 1MW require independent audit; the below-1MW residual population is too narrow.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.ofgem.gov.uk/sites/default/files/docs/2019/12/seg_sustainability_guidance_final_0.pdf",
+        "https://www.ofgem.gov.uk/guidance/guidance-anaerobic-digestion-generators-seg-sustainability-criteria-and-reporting-requirements",
+        "https://www.ofgem.gov.uk/sites/default/files/docs/2018/04/sustainability_reporting_guidance.pdf"
+      ]
+    },
+    {
+      "id": 738,
+      "lane": "U",
+      "seed": "thimble",
+      "job": "Small wineries needing EMCS e-AD drafts",
+      "query": "Ireland UK winery EMCS e-AD excise movement service small producer",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "EMCS is an official free submission system and excise-stock systems already prepare movements.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "EMCS is an official free submission system and excise-stock systems already prepare movements.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.gov.uk/guidance/receive-goods-into-and-remove-goods-from-an-excise-warehouse-excise-notice-197",
+        "https://www.revenue.ie/en/tax-professionals/tdm/excise/emcs-and-excise-product-movements/movement-of-excisable-products-20251106093520.pdf",
+        "https://www.gov.uk/guidance/excise-movement-and-control-system-how-to-register-and-use"
+      ]
+    },
+    {
+      "id": 739,
+      "lane": "U",
+      "seed": "hinge",
+      "job": "Small corrugated-box plants needing parametric FEFCO dielines",
+      "query": "UK small box manufacturer FEFCO parametric dieline generator pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "KASEMAKE and free parametric dieline generators already cover FEFCO geometry.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "KASEMAKE and free parametric dieline generators already cover FEFCO geometry.",
+      "first_ten_route": null,
+      "sources": [
+        "https://qpack.co.uk/tools/packaging-designer/",
+        "https://www.agcad.co.uk/en/kasemake/parametrics",
+        "https://custompackly.co.uk/dieline-generator"
+      ]
+    },
+    {
+      "id": 740,
+      "lane": "U",
+      "seed": "kiln",
+      "job": "Small sheet-metal shops needing verified bend deductions",
+      "query": "UK sheet metal bend allowance deduction calculator machine calibration service",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Free calculators and CAD/CAM products already calculate bends; trustworthy deductions depend on machine/material calibration.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Free calculators and CAD/CAM products already calculate bends; trustworthy deductions depend on machine/material calibration.",
+      "first_ten_route": null,
+      "sources": [
+        "https://metalfolding.co.uk/",
+        "https://www.sheetmetalcalculator.com/bend-deduction-calculator/",
+        "https://www.sheetmetalcalculator.com/"
+      ]
+    },
+    {
+      "id": 741,
+      "lane": "U",
+      "seed": "lattice",
+      "job": "Independent labs needing ISO 17025 uncertainty reports",
+      "query": "UK small laboratory ISO 17025 measurement uncertainty calculator report service",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Uncertainty services sell for $600–$1,500 per function and many calculators exist, but selecting significant contributors remains expert laboratory judgment.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "Uncertainty services sell for $600–$1,500 per function and many calculators exist, but selecting significant contributors remains expert laboratory judgment.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.isobudgets.com/uncertainty-budget-iso17025/",
+        "https://calproof.co.uk/tools/measurement-uncertainty-calculator/",
+        "https://uncertainty.formulaalchemy.com/",
+        "https://www.qimtonline.com/mod/page/view.php?forceview=1&id=448",
+        "https://www.isobudgets.com/shop/product/simple-uncertainty-calculator/",
+        "http://isgmax.com/unc_features.htm"
+      ]
+    },
+    {
+      "id": 742,
+      "lane": "U",
+      "seed": "heron",
+      "job": "Calibration labs needing digital calibration certificates",
+      "query": "digital calibration certificate DCC XML small calibration lab service",
+      "competition": "C2",
+      "documentation": "D4",
+      "verdict": "ANOMALY",
+      "reason": "The DCC XML schema, examples, validators and real NPL/NCC/SIKA/Kessler implementations make delivery implementable, but broad lab demand and a recurring software budget are not yet evidenced.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "The DCC XML schema, examples, validators and real NPL/NCC/SIKA/Kessler implementations make delivery implementable, but broad lab demand and a recurring software budget are not yet evidenced.",
+      "first_ten_route": "UKAS Find an Organisation exposes accredited calibration laboratories; NPL/PTB project contributors expose early adopters.",
+      "sources": [
+        "https://wiki.dcc.ptb.de/en/root",
+        "https://www.ptb.de/cms/en/research-development/ptbs-innovation-clusters/innovation-cluster-for-digitalization/kernziel1einheitlichkeitim/digital-calibration-certificate-dcc.html",
+        "https://www.ptb.de/dcc/v3.4.0-rc.1/autogenerated-docs/dcc.html",
+        "https://eprintspublications.npl.co.uk/9984/1/MS56.pdf",
+        "https://www.sika.net/en/applications/digitisation/digital-calibration-certificate-dcc/",
+        "https://www.imeko.org/publications/tc6-2022/IMEKO-TC6-2022-026.pdf"
+      ]
+    },
+    {
+      "id": 743,
+      "lane": "U",
+      "seed": "thimble",
+      "job": "Small aerospace suppliers needing AS9102 first-article reports",
+      "query": "UK small machine shop AS9102 FAIR software pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Mavlon, SolidWorks Inspection and DMOS already sell AS9102 first-article reporting.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Mavlon, SolidWorks Inspection and DMOS already sell AS9102 first-article reporting.",
+      "first_ten_route": null,
+      "sources": [
+        "https://mavlon.co/as9102-fai-software-for-small-shops",
+        "https://visiativ.co.uk/solutions/solidworks-inspection/",
+        "https://dallowaysystems.com/pricing"
+      ]
+    },
+    {
+      "id": 744,
+      "lane": "U",
+      "seed": "hinge",
+      "job": "Small auto suppliers needing PFMEA-control-plan consistency",
+      "query": "AIAG VDA PFMEA control plan linkage software small supplier pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "AIAG and automotive QMS products already link PFMEA and control plans.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "AIAG and automotive QMS products already link PFMEA and control plans.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.aiag.org/expertise-areas/data/enterprise-core",
+        "https://www.freedomdev.com/solutions/iatf-16949-quality-management",
+        "https://fmea-excellence.com/"
+      ]
+    },
+    {
+      "id": 745,
+      "lane": "U",
+      "seed": "kiln",
+      "job": "Small food exporters needing EHC application packs",
+      "query": "UK small food exporter export health certificate EHC application service",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "The EHC portal handles applications, while the official veterinarian must inspect/certify the consignment; software cannot deliver the whole result.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "The EHC portal handles applications, while the official veterinarian must inspect/certify the consignment; software cannot deliver the whole result.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.gov.uk/guidance/apply-for-an-export-health-certificate",
+        "https://www.gov.uk/government/publications/how-to-apply-for-an-export-health-certificate-ehc/apply-for-an-export-health-certificate",
+        "https://www.gov.uk/government/publications/how-to-apply-for-an-export-health-certificate-ehc"
+      ]
+    },
+    {
+      "id": 746,
+      "lane": "U",
+      "seed": "heron",
+      "job": "Small apparel sellers needing French textile EPR declarations",
+      "query": "France textile EPR small apparel seller declaration software pricing Refashion",
+      "competition": "C2",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "Refashion provides a simplified annual declaration in its own portal for sellers below 5,000 items; the small-seller automation value is too low.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Refashion provides a simplified annual declaration in its own portal for sellers below 5,000 items; the small-seller automation value is too low.",
+      "first_ten_route": null,
+      "sources": [
+        "https://pro.refashion.fr/en/marketer/file-your-declaration",
+        "https://media-pro.refashion.fr/2026/01/06_refashion_tutoextranet_faire-une-declaration-simplifiee_2026.pdf",
+        "https://pro.refashion.fr/en/marketer/meeting-legal-requirement"
+      ]
+    },
+    {
+      "id": 747,
+      "lane": "U",
+      "seed": "heron",
+      "job": "Specialist plant nurseries needing CITES permit packs",
+      "query": "UK plant nursery CITES import permit application service",
+      "competition": "C2",
+      "documentation": "D2",
+      "verdict": "KILLED",
+      "reason": "CITES permits are low-frequency and depend on species, provenance and authority decisions.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "CITES permits are low-frequency and depend on species, provenance and authority decisions.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.gov.uk/guidance/apply-for-a-cites-permit",
+        "https://www.gov.uk/guidance/cites-imports-and-exports",
+        "https://www.gov.uk/bringing-plants-and-wood-into-great-britain/bringing-endangered-species"
+      ]
+    },
+    {
+      "id": 748,
+      "lane": "U",
+      "seed": "thimble",
+      "job": "Small construction-product makers needing Declarations of Performance",
+      "query": "UK construction product Declaration of Performance generator small manufacturer",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Declaration-of-Performance tools and consultants exist; test evidence and product classification remain manufacturer responsibility.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Declaration-of-Performance tools and consultants exist; test evidence and product classification remain manufacturer responsibility.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.constructionproducts.org.uk/publications/technical-and-regulatory/understanding-your-declaration-of-performance-obligations-for-the-gb-market/",
+        "https://single-market-economy.ec.europa.eu/sectors/construction/construction-products-regulation-cpr/ce-marking-and-declaration-performance-and-conformity_en",
+        "https://cemarkingassociation.co.uk/latest-news/cpr-declarations-online/"
+      ]
+    },
+    {
+      "id": 749,
+      "lane": "U",
+      "seed": "hinge",
+      "job": "Independent candle makers needing CLP labels and UFI records",
+      "query": "UK candle maker CLP label UFI fragrance SDS software pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "CraftCert, CLPeasy and authoring services already provide candle CLP labels and UFI records.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "CraftCert, CLPeasy and authoring services already provide candle CLP labels and UFI records.",
+      "first_ten_route": null,
+      "sources": [
+        "https://craftcert.co.uk/",
+        "https://clpeasy.com/pricing",
+        "https://clpservicesforcandlemakers.co.uk/"
+      ]
+    },
+    {
+      "id": 750,
+      "lane": "U",
+      "seed": "kiln",
+      "job": "Micro cosmetics brands needing CPNP notification datasets",
+      "query": "UK EU micro cosmetics brand CPNP notification service pricing",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Notification services are cheap and the harder CPSR/responsible-person work still requires qualified review.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "Notification services are cheap and the harder CPSR/responsible-person work still requires qualified review.",
+      "first_ten_route": null,
+      "sources": [
+        "https://euverify.com/cosmetic-notifications-cpnp-scpn/",
+        "https://lexoraeu.com/shop/all-services/cpnp-notification/",
+        "https://cosmetics.eldris.ai/pricing/"
+      ]
+    },
+    {
+      "id": 751,
+      "lane": "U",
+      "seed": "lattice",
+      "job": "Small supplement brands needing label-rule preflight",
+      "query": "UK food supplement label compliance check small brand service price",
+      "competition": "C3",
+      "documentation": "D2",
+      "verdict": "KILLED",
+      "reason": "Supplement-label products compete with signed regulatory reviews; AI can preflight text but cannot replace the accountable review buyers purchase.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Supplement-label products compete with signed regulatory reviews; AI can preflight text but cannot replace the accountable review buyers purchase.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.vmslabel.com/regulatory-support",
+        "https://www.getclaimsafe.com/",
+        "https://www.simple-compliance.com/food-supplement-compliance/"
+      ]
+    },
+    {
+      "id": 752,
+      "lane": "U",
+      "seed": "heron",
+      "job": "Small SaaS vendors needing EU AI Act technical-documentation packs",
+      "query": "EU AI Act technical documentation small SaaS provider template service pricing",
+      "competition": "C2",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Annex IV is documented, but high-risk classification, evidence and conformity assessment remain company-specific; templates and generic AI make the pack layer weak.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "Annex IV is documented, but high-risk classification, evidence and conformity assessment remain company-specific; templates and generic AI make the pack layer weak.",
+      "first_ten_route": null,
+      "sources": [
+        "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-11",
+        "https://ai-act-service-desk.ec.europa.eu/en/ai-act/annex-4",
+        "https://simpleact.eu/documents/SimpleAct_AI_Act_for_SaaS_EN.pdf"
+      ]
+    },
+    {
+      "id": 753,
+      "lane": "U",
+      "seed": "thimble",
+      "job": "Micro foundries needing documented casting feeding calculations",
+      "query": "UK small foundry riser gating calculation casting simulation service price",
+      "competition": "C3",
+      "documentation": "D2",
+      "verdict": "KILLED",
+      "reason": "Casting simulation services start around €599, but geometry, process assumptions and defect interpretation require specialist engineering.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "Casting simulation services start around €599, but geometry, process assumptions and defect interpretation require specialist engineering.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.cast-designer.com/services/online-engineering-service.html",
+        "https://www.poligoncast.com/casting-simulation-services",
+        "https://nestechglobal.com/castingsimulationservices.html"
+      ]
+    },
+    {
+      "id": 754,
+      "lane": "U",
+      "seed": "hinge",
+      "job": "Small injection moulders needing shot and cooling estimates",
+      "query": "UK small injection moulding cooling time shot weight calculator service",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Free engineering calculators and moulding suites already estimate shot and cooling parameters.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "Free engineering calculators and moulding suites already estimate shot and cooling parameters.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.plastikcity.co.uk/knowledge-base/industry-calculators",
+        "https://kruger.industries/injection-moulding-cycle-time-calculator/",
+        "https://kruger.industries/engineering-tools/"
+      ]
+    },
+    {
+      "id": 755,
+      "lane": "U",
+      "seed": "kiln",
+      "job": "Dental labs needing implant-component order compatibility checks",
+      "query": "UK dental lab implant component compatibility order software",
+      "competition": "C3",
+      "documentation": "D1",
+      "verdict": "KILLED",
+      "reason": "Compatibility depends on proprietary manufacturer catalogues and clinical/product liability; distributors and lab systems own the data.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "Compatibility depends on proprietary manufacturer catalogues and clinical/product liability; distributors and lab systems own the data.",
+      "first_ten_route": null,
+      "sources": [
+        "https://online-dental.uk/",
+        "https://highlandcode.com/products/dentelligence/",
+        "https://www.dentsplysirona.com/en-gb/explore/digital-dentistry/product-topics/cloud-solutions-dental-lab.html"
+      ]
+    },
+    {
+      "id": 756,
+      "lane": "U",
+      "seed": "lattice",
+      "job": "Independent optical labs needing OMA VCA order-file validation",
+      "query": "optical lab OMA VCA lens order file validation software",
+      "competition": "C2",
+      "documentation": "D2",
+      "verdict": "INCOMPLETE",
+      "reason": "An OMA/VCA ecosystem exists, but accessible protocol, validator, buyer spend and an independent acceptance oracle were not established.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "An OMA/VCA ecosystem exists, but accessible protocol, validator, buyer spend and an independent acceptance oracle were not established.",
+      "first_ten_route": null,
+      "sources": [
+        "https://nidek-vca-converter.software.informer.com/",
+        "https://www.lensadvisor.com/pages/optical-labs",
+        "https://optoplus.cloud/lc/",
+        "https://rxuniverse.atlassian.net/wiki/spaces/RXUN/pages/13926437",
+        "https://izysolutions.com/2019/03/13/optical-lab-management-software/",
+        "https://www.freelancer.ec/projects/c-programming/irx-network-oma-vca-dcs"
+      ]
+    },
+    {
+      "id": 757,
+      "lane": "U",
+      "seed": "heron",
+      "job": "Independent pharmacies needing dm+d code mapping for NHS claims",
+      "query": "UK independent pharmacy dm+d product code mapping NHS reimbursement software",
+      "competition": "C4",
+      "documentation": "D4",
+      "verdict": "KILLED",
+      "reason": "dm+d is public, but pharmacy PMR/dispensing and wholesaler systems already map codes inside the claim workflow.",
+      "ai_test": "AI can accelerate a clone, but also lowers the incumbent/DIY cost and does not create a complete differentiated purchase.",
+      "commercial_gate": "dm+d is public, but pharmacy PMR/dispensing and wholesaler systems already map codes inside the claim workflow.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.pharmacompare.co.uk/",
+        "https://digital.nhs.uk/services/terminology-and-classifications/dm-d",
+        "https://cpe.org.uk/digital-and-technology/standards-and-interoperability-it/nhs-dictionary-of-medicines-and-devices/"
+      ]
+    },
+    {
+      "id": 758,
+      "lane": "U",
+      "seed": "thimble",
+      "job": "Small certified printers needing FSC trademark approval packs",
+      "query": "UK small printer FSC trademark approval portal artwork evidence service",
+      "competition": "C3",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "FSC Brand Hub is the official approval workflow; software can assemble evidence but cannot grant trademark approval.",
+      "ai_test": "AI can accelerate implementation; it does not repair the stated demand, access or frequency gate.",
+      "commercial_gate": "FSC Brand Hub is the official approval workflow; software can assemble evidence but cannot grant trademark approval.",
+      "first_ten_route": null,
+      "sources": [
+        "https://uk.fsc.org/trademarkuse",
+        "https://uk.fsc.org/newsfeed/using-the-fsc-brand-hub",
+        "https://uk.fsc.org/sites/default/files/2021-12/Using%20your%20FSC%20Promotional%20Licence.pdf"
+      ]
+    },
+    {
+      "id": 759,
+      "lane": "U",
+      "seed": "hinge",
+      "job": "Small commercial laundries needing EN 14065 RABC evidence",
+      "query": "UK commercial laundry EN 14065 RABC monitoring records software",
+      "competition": "C4",
+      "documentation": "D3",
+      "verdict": "KILLED",
+      "reason": "Laundry-management and machine-logging products already collect process evidence, while EN 14065 certification still requires an external auditor.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "Laundry-management and machine-logging products already collect process evidence, while EN 14065 certification still requires an external auditor.",
+      "first_ten_route": "The TSA laundry-member directory exposes operating commercial laundries.",
+      "sources": [
+        "https://tsa-uk.org/wp-content/uploads/Industry-Guidance-Document-Guide-to-Implementing-EN14065-20250909.pdf",
+        "https://tsa-uk.org/wp-content/uploads/2021_TSA-BS-EN-14065-Guidance-Final-2.pdf",
+        "https://tsa-uk.org/wp-content/uploads/Members_Guide_EN14065.pdf",
+        "https://www.girbau.com/en-gb/digital-laundry-services/",
+        "https://www.ebsoftware.co.uk/laundry-management-software",
+        "https://optusglean.co.uk/services/laundry-linen-services"
+      ]
+    },
+    {
+      "id": 760,
+      "lane": "U",
+      "seed": "kiln",
+      "job": "Small boatbuilders needing Recreational Craft technical files",
+      "query": "UK small boatbuilder Recreational Craft Regulations technical file service price",
+      "competition": "C3",
+      "documentation": "D2",
+      "verdict": "KILLED",
+      "reason": "CEproof and specialist consultants already prepare RCR files; craft-specific conformity evidence and assessment require engineering judgment.",
+      "ai_test": "AI can draft and check, but cannot supply the missing measurements, accountable judgment, approval or proprietary inputs.",
+      "commercial_gate": "CEproof and specialist consultants already prepare RCR files; craft-specific conformity evidence and assessment require engineering judgment.",
+      "first_ten_route": null,
+      "sources": [
+        "https://www.hpivs.com/ceproof",
+        "https://marinesurveys.co.uk/index.php/options/professional-boatbuilder",
+        "https://thenarrowboatsurveyor.co.uk/rcr-consultancy/"
+      ]
+    }
+  ]
+}
